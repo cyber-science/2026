@@ -42,6 +42,9 @@ Lingling Fang, Liaoning Normal University (China)
 Pan Wang, Univ. of Posts & Telecomm. (China)<br>
 Yegang Du, Tohoku University (Japan)
 
+<h4>Poster Session Chair</h4>
+Bo Wu, Tokyo University of Technology (Japan)
+
 <h4>Special Issue Chair</h4>
 Ke Yan, Hunan University (China)
 
