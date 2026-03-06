@@ -8,7 +8,7 @@ permalink: /poster-voting-backup/
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>2025 IEEE CyberSciTech/DASC/PICom/CBDCom – Voting for the Best Poster</title>
+<title>2026 IEEE CyberSciTech/DASC/PICom/CBDCom – Voting for the Best Poster</title>
 <style>
   html, body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin:0; padding:0; background:#fff; color:#111; }
   .card { max-width: 800px; margin: 0 auto; padding: 20px 16px; text-align: center;}
@@ -120,7 +120,7 @@ permalink: /poster-voting-backup/
 <body>
   <!-- Main form container -->
   <div class="card" id="container">
-    <h2>2025 IEEE CyberSciTech/DASC/PICom/CBDCom – Voting for the Best Poster</h2>
+    <h2>2026 IEEE CyberSciTech/DASC/PICom/CBDCom – Voting for the Best Poster</h2>
 
     <div id="frameHost"></div>
   </div>
