@@ -4,10 +4,12 @@ layout: subcst2
 permalink: /cyberscitech/callworkshops/
 ---
 
-<h3>Call For Workshops and Special Sessions - IEEE CyberSciTech 2025</h3>
+<h3>Call For Workshops and Special Sessions - IEEE CyberSciTech 2026</h3>
 <hr/>
 
-IEEE CyberSciTech 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. 
+TBA
+
+<!-- IEEE CyberSciTech 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. 
 The purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event, 
 as well as to encourage in-depth discussion of technical and application issues related to cyberspace-related science, technology, and application topics. 
 Workshops and Special Sessions are a great addition to the main conference.
@@ -55,4 +57,4 @@ Accepted proposals should follow strictly the important dates, particularly pape
 - WiP/Poster/Workshop/SS Paper Due: June 27, 2025
 - Author Notification: August 11, 2025
 - Paper Registration Due: September 5, 2025
-- Camera-ready Submission: September 12, 2025
+- Camera-ready Submission: September 12, 2025 -->

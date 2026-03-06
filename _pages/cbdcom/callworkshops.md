@@ -4,10 +4,11 @@ layout: subcbd2
 permalink: /cbdcom/callworkshops/
 ---
 
-<h3>Call For Workshops and Special Sessions - IEEE CBDCom 2025</h3>
+<h3>Call For Workshops and Special Sessions - IEEE CBDCom 2026</h3>
 <hr/>
+TBA
 
-IEEE CBDCom 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. The
+<!-- IEEE CBDCom 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. The
 purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event,
 as well as to encourage in-depth discussion of technical and application issues related to Cloud and Big Data Computing.
 Workshops and Special Sessions are a great addition to the main conference.
@@ -56,4 +57,4 @@ Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted pro
 - Paper Registration Due: September 5, 2025
 - Camera-ready Submission: September 12, 2025
 
-
+ -->

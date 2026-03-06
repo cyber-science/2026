@@ -17,7 +17,9 @@ permalink: /crs/
 
 <h3>Camera Ready Paper Submission</h3>
 <hr/>
+TBA
 
+<!-- 
 
 <p><font color="red"><b>Important: The camera-ready submission will be made through IEEE CPS (Conference Publishing Services), NOT EDAS! </b></font></p>
 
@@ -81,4 +83,4 @@ If you have any questions, please e-mail them to  <a href="mailto:ieeecyberscite
 <p>
 All author/presenter registrations must be done by September 10, 2025. The detailed registration instructions can be found on this page: 
   <br /><a href="https://cyber-science.org/2025/registration/"><u>https://cyber-science.org/2025/registration/</u></a> 
- </p>
+ </p> -->

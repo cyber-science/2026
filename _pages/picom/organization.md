@@ -4,9 +4,11 @@ layout: subpi2
 permalink: /picom/organization/
 ---
 
-<h3>PICom 2025 Organizing Committee</h3>
+<h3>PICom 2026 Organizing Committee</h3>
 <hr/>
+TBA
 
+<!-- 
 <h4>Honorary Chairs</h4>
 Albert Zomaya, The University of Sydney (Australia)<br>
 Ming Hou, Defence Research & Development Canada (Canada)<br>
@@ -72,4 +74,4 @@ Laurence T. Yang, St. Francis Xavier Univ. (Canada)<br>
 Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br>
 Flavia C. Delicato, Fluminense Federal University (Brazil)<br>
 Qun Jin, Waseda University (Japan)
-
+ -->

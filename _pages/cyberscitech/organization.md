@@ -5,10 +5,12 @@ permalink: /cyberscitech/organization/
 ---
 
 
-<h3>CyberSciTech 2025 Organizing Committee</h3>
+<h3>CyberSciTech 2026 Organizing Committee</h3>
 <hr/>
 
-<h4> Honorary Chairs</h4>
+TBA
+
+<!-- <h4> Honorary Chairs</h4>
 Stephen S. Yau, Arizona State University (USA)<br>
 Kouichi Sakurai, Kyushu University (Japan)
 
@@ -106,4 +108,4 @@ Qiangfu Zhao, The University of Aizu (Japan)<br>
 Qinggou Zhou, Lanzhou University (China)<br>
 John Paul C. Vergara, Ateneo de Manila University (Philippines)<br>
 Wei Lu, Beijing Jiaotong University (China)
-
+ -->

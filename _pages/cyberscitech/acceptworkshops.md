@@ -4,8 +4,10 @@ layout: subcst2
 permalink: /cyberscitech/acceptworkshops/
 ---
 
+TBA
 
-<h3>Special Sessions - IEEE CyberSciTech 2025</h3>
+<!-- 
+<h3>Special Sessions - IEEE CyberSciTech 2026</h3>
 <hr>
 <ol>
 <li><a href="/2025/assets/files/ws-ss/cst/CyberIC2025_CFP.pdf" target="_new"><u>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC 2025)</u></a></li>
@@ -13,7 +15,7 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li>
 </ol>
 
-<h3>Workshops - IEEE CyberSciTech 2025</h3>
+<h3>Workshops - IEEE CyberSciTech 2026</h3>
 <hr/>
 <ol>
 <li><a href="https://aidhwp.github.io/" target="_new"><u>The 1st International Workshop on AI-empowered Digital Health and Well-being Promotion (AI-DHWP 2025)</u></a></li>
@@ -29,4 +31,4 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2025/assets/files/ws-ss/cst/NGIWEC2025_CFP.pdf" target="_new"><u>The 3rd International Workshop on Next Generation Intelligent Emergency Communications</u></a></li>
 
 <li><a href="/2025/assets/files/ws-ss/cst/BigCyberSecurity2025_CFP.pdf" target="_new"><u>The 7th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2025)</u></a></li>
-</ol>
+</ol> -->

@@ -26,6 +26,9 @@ permalink: /registration/
         }
     </style>
 
+TBA
+
+<!-- 
 <h3>Registration and Invitation Letter</h3>
 <hr/>
 <ul>
@@ -174,4 +177,4 @@ Beneficiary Country: Japan<br>
     <td></td>
   </tr>
 </table>
-
+ -->

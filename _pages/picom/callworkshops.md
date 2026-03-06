@@ -4,7 +4,11 @@ layout: subpi2
 permalink: /picom/callworkshops/
 ---
 
-<h3>Call For Workshops and Special Sessions - IEEE PICom 2025</h3>
+<h3>Call For Workshops and Special Sessions - IEEE PICom 2026</h3>
+
+TBA
+
+<!-- 
 <hr/>
 <h5> ** Download <b>PDF version <a href="http://cyber-science.org/2025/assets/files/ws-ss/picom/PICom2025_Call_for_WkspSS.pdf" target=_new>here</a></b> ** </h5> 
 
@@ -48,4 +52,4 @@ A single pdf file with all the material described above should be prepared. Plea
 - Authors Notification: July 30, 2025
 - Camera-ready Submission: September 12, 2025
 
-<b><u>Acceptance will be notified within a couple of days after the proposal submission.</u></b>
+<b><u>Acceptance will be notified within a couple of days after the proposal submission.</u></b> -->

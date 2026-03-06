@@ -4,9 +4,11 @@ layout: subdasc2
 permalink: /dasc/organization/
 ---
 
-<h3>DASC 2025 Organizing Committee</h3>
+<h3>DASC 2026 Organizing Committee</h3>
 <hr/>
+TBA
 
+<!-- 
 <h4>Honorary Chair</h4>
 Tadashi Dohi, Hiroshima University (Japan)
 
@@ -60,5 +62,5 @@ Chalee Vorakulpipat, NECTEC (Thailand)<br/>
 Christopher P. Monterola, Asian Institute of Management (AIM) (Philippines)<br/>
 Yoshitaka Shibata, Iwate Prefectural University (Japan)<br/>
 Paulo Pires, Fluminense Federal University (Brazil)<br/>
-Tao Ban, Cybersecurity Research Institute (Japan)
+Tao Ban, Cybersecurity Research Institute (Japan) -->
 

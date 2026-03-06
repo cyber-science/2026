@@ -5,8 +5,11 @@ permalink: /cbdcom/organization/
 ---
 
 
-<h3>CBDCom 2025 Organizing Committee</h3>
+<h3>CBDCom 2026 Organizing Committee</h3>
 
+TBA
+
+<!-- 
 <hr/>
 
 <h4>Honorary Chairs</h4>
@@ -76,4 +79,4 @@ Yufeng Wang, Nanjing University of Posts and Telecommunications (China)<br>
 Zengwei Zheng, Hangzhou City University (China)<br>
 Xiangfeng Luo, Shanghai University (China)<br>
 Carson Leung, University of Manitoba (Canada)
-
+ -->

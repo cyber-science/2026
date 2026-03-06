@@ -7,6 +7,9 @@ permalink: /special-issues/
 <h3>Special Issues/Recommend Journals</h3>
 <hr/>
 
+TBA
+
+<!-- 
 <p>
 Selected conference articles will be invited to be submitted to the following Special Issues and Recommend Journals for extended versions of the accepted conference papers within the scope of the Research.
 </p>
@@ -55,4 +58,4 @@ Guest Editors:
 Prof. Xuyun Zhang - Macquarie University, Sydney (Australia), Prof. Lianyong Qi - China University of Petroleum East China, Dongying (China), Prof. Xiaokang Zhou - Kansai University (Japan), Prof. Qiang Ni - Lancaster University, Lancaster (UK)
 </li>
 
-</ol>
+</ol> -->

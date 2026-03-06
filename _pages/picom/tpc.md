@@ -1,13 +1,15 @@
 ---
-title: PICom 2025 Technical Program Committee
+title: PICom 2026 Technical Program Committee
 layout: subpi2
 permalink: /picom/tpc/
 ---
 
 
-<h3>PICom 2025 Technical Program Committee</h3>
+<h3>PICom 2026 Technical Program Committee</h3>
 <hr/>
+TBA
 
+<!-- 
 Shabeer Ahmad, Beijing University of Posts and Telecommunications, China<br>
 Marcelo Pitanga Alves, Polytechnic Institute Jean Piaget of the South & INFOS SA, Portugal<br>
 Md Amiruzzaman, West Chester University, USA<br>
@@ -82,4 +84,4 @@ Martine Wedlake, Amazon, USA<br>
 Ze Yan, China University of Geosciences & School of Automation, China<br>
 Muhammad Azfar Yaqub, Free University of Bolzano, Italy<br>
 Haibo Zhang, Universtiy of Otago, New Zealand<br>
-Weitao Zou, Northeast Forestry University & University of Sydney, China<br>
+Weitao Zou, Northeast Forestry University & University of Sydney, China<br> -->

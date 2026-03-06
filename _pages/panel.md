@@ -3,7 +3,10 @@ title: Panel
 layout: sub
 permalink: /panel/
 --- 
+TBA
 
+
+<!-- 
 <h3 style="text-align: center;">
   The Panel on <br>XYZ Perspectives from xLM to yAI and zTech
 </h3> 
@@ -98,4 +101,4 @@ Kansai University, Japan
 <b>Biography: </b> Katsutoshi Yada is Professor of Management Information Systems in the Faculty of Business Data Science , Kansai University and guest professor of Osaka University. He was a visiting scholar of School of Business at Columbia University from 2006 to 2007. His present research interests include data science and AI for business, and information strategy concerning data mining. His papers have appeared in several international journals, including Data Mining and Knowledge Discovery, Soft Computing, Decision Support Systems and others. He received Distinguished Professor Award from Kansai University and many international and domestic awards from academic societies.
 </p>
 
-<br/>
+<br/> -->

@@ -1,13 +1,15 @@
 ---
-title: CBDCom 2025 Technical Program Committee
+title: CBDCom 2026 Technical Program Committee
 layout: subcbd2
 permalink: /cbdcom/tpc/
 ---
 
-<h3>CBDCom 2025 Technical Program Committee</h3>
+<h3>CBDCom 2026 Technical Program Committee</h3>
 <hr/>
 
-Ibrahim Attiya. Zagazig University (Egypt) <br>
+TBA
+
+<!-- Ibrahim Attiya. Zagazig University (Egypt) <br>
 Nyothiri Aung, University College Dublin (Ireland) <br>
 Abdelkarim Ben Sada, University College Cork (Ireland) <br>
 Anas Bilal, Hainan Normal University (China) <br>
@@ -28,4 +30,4 @@ Abdenacer Naouri, Southwest Jiaotong University (China) <br>
 Zhouwen Tan, Hunan University (China) <br>
 Di Zhang, Beijing Jiaotong University (China) <br>
 Liang Zhao, Shenyang Aerospace University (China) <br>
-Wei Zhao, Anhui University of Technology (China) <br>
+Wei Zhao, Anhui University of Technology (China) <br> -->

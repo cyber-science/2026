@@ -5,10 +5,10 @@ permalink: /cyberscitech/callpaper/
 ---
 
 
-<h3>Call For Papers - IEEE CyberSciTech 2025 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE CyberSciTech 2026 Tracks and Topics</h3>
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/CyberSciTech2025_CFP.pdf" target=_new>here</a></b> ** </h5> 
+<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/CyberSciTech2026_CFP.pdf" target=_new>here</a></b> ** </h5>  -->
 
 <hr/>
 <h4 style="font-weight: bold">For Regular Papers<h4>
@@ -75,9 +75,9 @@ Poster track covers all the topics for regular papers but is aimed at
 <br/>papers that present innovative ideas, preliminary results, or ongoing research
 
 <h4>Workshop/Special Session Tracks</h4>
-CyberSciTech workshops and special sessions are listed <a href="/2025/cyberscitech/acceptworkshops/"><b>here</b></a>
+CyberSciTech workshops and special sessions are listed <a href="/2026/cyberscitech/acceptworkshops/"><b>here</b></a>
 
-<hr/>
+<!-- <hr/>
 <h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
 <hr/>
 <h4>LBI (Late Breaking Innovation) Track</h4>
@@ -85,4 +85,4 @@ The LBI track accommodates cutting-edge research across all<br/>
 CyberSciTech topics that has emerged after the regular paper deadline.<br/>
 This track is designed for timely, significant advancements that warrant<br/>
 rapid dissemination in the present conference proceedings.
-<hr/>
+<hr/> -->

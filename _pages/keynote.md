@@ -5,7 +5,9 @@ permalink: /keynote/
 ---
 
 <h3>Keynotes</h3>
-<hr/>
+TBA
+
+<!-- <hr/>
 <h4>Cache Distribution from LEO Satellites</h4>
 <img src="/2025/assets/images/keynote_speaker/noriaki_kamiyama.jpg" align="left" style="border:10px solid white" width="200">
 <h5><b>Noriaki Kamiyama, Professor</b></h5>
@@ -84,4 +86,4 @@ This talk will present our latest research on Cyber-Physical-Social Intelligence
 His recent honors and awards include the member of US National Academy of Artificial Intelligence (2025), a foreign member of Russian Academy of Engineering (2024) and a member of Academia Europaea, the Academy of Europe (2021), the John B. Stirling Medal (2021) from Engineering Institute of Canada, IEEE Sensor Council Technical Achievement Award (2020), IEEE Canada C. C. Gotlieb Computer Medal (2020), Clarivate Analytics (Web of Science Group) Highly Cited Researcher (2019, 2020, 2022, 2023, 2024, 2025), Fellow of Institution of Engineering and Technology (2020), Fellow of Institute of Electrical and Electronics Engineers (2020), Fellow of Engineering Institute of Canada (2019), Fellow of Canadian Academy of Engineering (2017), etc.
 
 </p>
-<hr/>
+<hr/> -->

@@ -4,9 +4,11 @@ layout: subdasc2
 permalink: /dasc/callworkshops/
 ---
 
-<h3>Call For Workshops and Special Sessions - IEEE DASC 2025</h3>
+<h3>Call For Workshops and Special Sessions - IEEE DASC 2026</h3>
 <hr/>
+TBA
 
+<!-- 
 IEEE DASC 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. 
 The purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event, 
 as well as to encourage in-depth discussion of technical and application issues related to Dependable, Autonomic, and Secure Computing. 
@@ -51,4 +53,4 @@ Please use 'DASC 2025 Workshop-SS Proposal' as the email subject. Accepted propo
 - Paper Registration Due: September 5, 2025
 - Camera-ready Submission: September 12, 2025
 
-For further details about the workshop, special session as well as the conference, you may reach out to Dr. Zakirul Alam Bhuiyan < zakirulalam AT gmail DOT com >
+For further details about the workshop, special session as well as the conference, you may reach out to Dr. Zakirul Alam Bhuiyan < zakirulalam AT gmail DOT com > -->

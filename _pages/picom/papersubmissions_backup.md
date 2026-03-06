@@ -1,14 +1,11 @@
 ---
-title: Paper Submission
-layout: subdasc2
-permalink: /dasc/papersubmissions/
+title: Paper Submissions
+layout: subpi2
+permalink: /picom/papersubmissions/
 ---
 
-<h3>Paper Submissions - IEEE DASC 2026</h3>
+<h3>Paper Submissions - PICom 2026</h3>
 
-TBA
-
-<!-- 
 <hr/>
 <p>
 <h4>Submission Instructions</h4>
@@ -16,12 +13,12 @@ TBA
  <li>Regular Track Submissions: Minimum <b> 6 pages</b></li>
  <li>WiP/Workshop/Special Session Track Submissions: Minimum <b>4 pages</b></li>
  <li>Poster Track Submissions: Minimum  <b>2 pages</b></li>
-  <li>Late Breaking Innovation (LBI) Track Submissions: Minimum <b>4 pages</b></li>
+ <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
  </ul>
 </p>
 
 <p>Authors are invited to submit their original research work that has not been previously submitted or published in any other venue. All regular, Work-in-Progress (WiP), workshop, special session, and poster papers must be submitted via EDAS system.
-(<a href="https://edas.info/N33776" target =_new>https://edas.info/N33776</a>).
+(<a href="https://edas.info/N33777" target =_new>https://edas.info/N33777</a>).
 </p><p>
 <ul>
 <li><b>Regular papers</b> should present substantial, original, completed and unpublished work. Wherever applicable, concrete evaluation and/or analysis should be included.</li>
@@ -29,7 +26,7 @@ TBA
 <li><b>Poster papers</b> should present original, unpublished work with innovative ideas, preliminary results, or ongoing research. The paper should include key findings, methodology, and future directions.</li>
 <li><b>Workshop papers</b> should present original, unpublished work associated with the theme of a specific workshop. Novel ideas, methods, or applications related to the workshop scope, as well as concrete evaluation and/or analysis, should be included.</li>
 <li><b>Special Session (SS) papers</b> should present substantial, original, completed, and unpublished work that focuses on emerging topics, specific research domains, or interdisciplinary areas. Significant contributions to advancing the state of the art in the targeted research domain or interdisciplinary field should be included.</li>
-<li><b>Late Breaking Innovation (LBI) papers</b> should present cutting-edge research across all DASC topics. LBI submissions will undergo a review process, and those accepted will be included in the conference program as either Regular or WiP papers, based on their quality, novelty, and completeness.</li>
+<li><b>Late Breaking Innovation (LBI) papers</b> should present cutting-edge research across all PICom topics. LBI submissions will undergo a review process, and those accepted will be included in the conference program as either Regular or WiP papers, based on their quality, novelty, and completeness.</li>
 </ul>
 </p><p>
 Papers should be prepared using the IEEE Computer Society Proceedings format. Detailed formatting guidelines are available at: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
@@ -53,6 +50,9 @@ Authors of accepted poster papers will be required to prepare and submit the cam
   <li>Up to <b>10 pages</b> for Regular papers</li>
   <li>Up to <b>8 pages</b> for WiP, Workshop, and Special Session papers</li>
   <li>Up to <b>6 pages</b> for Poster papers</li>
-  <li>Up to <b>8 pages</b> for LBI papers</li>
 </ul>
-</p> -->
+ <!-- Submission to Late Breaking Innovation Tracks: <b>4-8</b> pages<br> -->
+</p>
+
+ <!-- <div style="border: 2px solid; padding: 10px 10px 10px 10px;">
+Please note that for the camera-ready version, the page limit is <b>8 pages</b> for regular papers, <b>6 pages</b> for WiP/workshop/SS papers, and <b>4 pages</b> for poster papers. However, a maximum of two extra pages per paper is allowed (i.e., up to <b>10 pages</b> for regular papers, up to <b>8 pages</b> for WiP/workshop/SS papers, or up to <b>6 pages</b> for poster papers), at an additional charge of $100 per extra page. -->

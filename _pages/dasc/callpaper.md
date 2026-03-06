@@ -4,10 +4,10 @@ layout: subdasc2
 permalink: /dasc/callpaper/
 ---
 
-<h3>Call For Papers - IEEE DASC 2025 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE DASC 2026 Tracks and Topics</h3>
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/DASC2025_CFP.pdf" target=_new>here</a></b> ** </h5> 
+<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/DASC2026_CFP.pdf" target=_new>here</a></b> ** </h5>  -->
 
 <hr/>
 <h4 style="font-weight: bold">For Regular Papers<h4>
@@ -83,7 +83,7 @@ The track covers all the topics for regular papers but it is aimed at
 <br/>papers that have an original but not fully validated proposal (WiP)
 
 <h4>Workshop/Special Session Tracks</h4>
-DASC workshops and special sessions are listed <a href="/2025/dasc/acceptworkshops/"><b>here</b></a>
+DASC workshops and special sessions are listed <a href="/2026/dasc/acceptworkshops/"><b>here</b></a>
 
 <!-- 
 <hr/>

@@ -4,11 +4,11 @@ layout: subcbd2
 permalink: /cbdcom/callpaper/
 ---
 
-<h3>Call For Papers - IEEE CBDCom 2025 Tracks and Topics</h3>
+<h3>Call For Papers - IEEE CBDCom 2026 Tracks and Topics</h3>
 
 <hr/>
 
-<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2025/assets/files/CBDCom2025_CFP.pdf" target=_new>here</a></b> ** </h5>
+<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/CBDCom2026_CFP.pdf" target=_new>here</a></b> ** </h5> -->
 
 
 <hr/>
@@ -69,7 +69,7 @@ The track covers all the topics for regular papers but it is aimed at
 <br/>papers that have an original but not fully validated proposal (WiP)
 
 <h4>Workshop/Poster/Special Session Tracks</h4>
-CBDCom workshops, posters and special sessions are listed <a href="/2025/cbdcom/acceptworkshops/"><b>here</b></a>
+CBDCom workshops, posters and special sessions are listed <a href="/2026/cbdcom/acceptworkshops/"><b>here</b></a>
 
 
 <!-- <hr/>
