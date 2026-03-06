@@ -7,7 +7,7 @@ permalink: /picom/
 <div class="row">
 <div class="col-md-10 mb-5">
 
-<h4>November 10–13, 2026 - Melbourne, Australia</h4>
+<h4>November 9-13, 2026 - Melbourne, Australia</h4>
 <hr/>
 
 <p style="text-align:justify">
