@@ -7,9 +7,6 @@ permalink: /special-issues/
 <h3>Special Issues/Recommend Journals</h3>
 <hr/>
 
-TBA
-
-<!-- 
 <p>
 Selected conference articles will be invited to be submitted to the following Special Issues and Recommend Journals for extended versions of the accepted conference papers within the scope of the Research.
 </p>
