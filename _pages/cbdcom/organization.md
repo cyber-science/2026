@@ -11,7 +11,8 @@ permalink: /cbdcom/organization/
 
 <h4>Honorary General Chairs</h4>
 Seng W. Loke,	Deakin University	(Australia)<br>
-Mianxiong Dong,	Muroran Institute of Technology	(Japan)
+Mianxiong Dong,	Muroran Institute of Technology	(Japan)<br>
+Mohand Tahar Kechadi, Dublin City University (Ireland)
 
 <h4>Advisory Chairs</h4>
 Xiaohong Jiang,	Future University Hakodate	(Japan)<br>
@@ -35,12 +36,13 @@ Siyang Lu,	Beijing Jiaotong University	(China)<br>
 
 <h4>Track Chairs</h4>
 Wei Li,	Southeast University	(China)<br>
-Gerard Marks,	Dublin City University	(Ireland)<br>
-Wen Qiu,	Kitami Institute of Technology	(Japan)
+Gerard Marks,	Dublin City University	(Ireland)
+
 
 <h4>Workshops Chairs</h4>
 Xin Qi,	Waseda University	(Japan)<br>
-Chaker Kerrache,	University of Laghouat	(Algeria)
+Chaker Kerrache,	University of Laghouat	(Algeria)<br>
+Wen Qiu,	Kitami Institute of Technology	(Japan)
 
 <h4>Publication Chair(s)</h4>
 Ruichen Cong, Waseda Univeristy (Japan)
