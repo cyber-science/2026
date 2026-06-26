@@ -19,6 +19,8 @@ permalink: /cyberscitech/acceptworkshops/
 <hr/>
 <ol>
 <li><a href="https://aidhwp.github.io/2026.html" target="_new"><u>The 2nd International Workshop on AI-empowered Digital Health and Well-being Promotion (AI-DHWP 2026)</u></a></li>
+
+<li><a href="/2026/assets/files/ws-ss/cst/ACE2026CFP_0626.pdf" target="_new"><u>The 9th International Workshop on Applications of AI, Cyber Security and Economics Big Data (ACE-2026)</u></a></li>
   
 <li><a href="/2026/assets/files/ws-ss/cst/IOT-LIFE2026_CFP.pdf.pdf" target="_new"><u>The 10th International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life 2026)</u></a></li>
   
