@@ -1,3 +1,4 @@
+
 ---
 title: Organization
 layout: subdasc2
@@ -6,61 +7,40 @@ permalink: /dasc/organization/
 
 <h3>DASC 2026 Organizing Committee</h3>
 <hr/>
-TBA
 
-<!-- 
-<h4>Honorary Chair</h4>
-Tadashi Dohi, Hiroshima University (Japan)
+<h4>Honorary Chairs</h4>
+Wanlei Zhou, City University of Macau (China)<br>
+Elisa Bertino, Purdue University (USA)
 
 <h4>General Chairs</h4>
-Naohiro Hayashibara, Kyoto Sangyo University (Japan)<br>
-Moayad Aloqaily, Mohamed Bin Zayed University (UAE)
+Robert Deng, Singapore Management University (Singapore)<br>
+Willy Susilo, University of Wollongong (Australia)<br>
+Yang Xiang, Swinburne University of Technology (Australia)
 
-<h4>General Executive Chairs</h4>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br>
-Xiaohong Jiang, Future University Hakodate (Japan)
+<h4>General Executive Chair</h4>
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)
 
 <h4>Program Chairs</h4>
-Takaki Nakamura, Tohoku University (Japan)<br>
-Zonghua Zhang, CRSC Co. (China)
+Weizhi Meng, Lancaster University (UK)<br>
+Wei Xiang, La Trobe University (Australia)<br>
+Chao Chen, RMIT University (Australia)
 
-<h4>Program Co-chairs</h4>
-Junjun Zheng, Hiroshima University (Japan)<br>
-Luis Guillen, Tohoku University (Japan)<br>
-Thomas TY Win, University of Sunderland (UK)
+<h4>Short Papers Track Chairs</h4>
+Wanlun Ma, Swinburne University of Technology (Australia)<br>
+Xiaogang Zhu, Adelaide University (Australia)
 
-<h4>Web Chairs</h4>
-Ao Guo, Nagoya University (Japan)<br>
-Bo Wu, Tokyo University of Technology (Japan)
+<h4>Workshop &amp; Special Session Chairs</h4>
+Viet Vo, Swinburne University of Technology (Australia)<br>
+Leo Zhang, Griffith University (Australia)
 
-<h4>Workshop & Special Session Chairs</h4>
-Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
-Paramin Sangwongngam, National Electronics and Computer Technology Center (Thailand)
+<h4>Local Chair</h4>
+Ricky Dong, Swinburne University of Technology (Australia)
 
+<h4>Publication Chair</h4>
+Ruichen Cong, Waseda University (Japan)
 
-<h4>WiP/LBI/Poster Session Chairs</h4>
-Junichi Funasaka, Hiroshima City University (Japan)<br/>
-Songpon Teerakanok, Mahidol University (Thailand) 
-
-
-<h4>Publicity Chairs</h4>
-Anna Kobusinska, Poznan University of Technology (Poland)<br/>
-Liqiang Wang, University of Central Florida (USA)<br/>
-Toshiyuki Miyachi, NICT (Japan)<br/>
-Zhuotao Lian, Hiroshima University (Japan)
-
-<h4>Steering Committee</h4>
-Jianhua Ma, Hosei University (Japan)<br/>
-Laurence T. Yang, St. Francis Xavier University (Canada)<br/>
-Yuanshun Dai, Univ. of Elec. Sci. & Tech. of China (China)<br/>
-Tadashi Dohi, Hiroshima University (Japan)<br/>
-Md Zakirul Alam Bhuiyan, Fordham University (USA)
+<h4>Social Media &amp; Publicity Chairs</h4>
+Di Wu, La Trobe University (Australia)
 
 <h4>Advisory Committee</h4>
-Junichi Funasaka, Hiroshima City University (Japan)<br/>
-Chalee Vorakulpipat, NECTEC (Thailand)<br/>
-Christopher P. Monterola, Asian Institute of Management (AIM) (Philippines)<br/>
-Yoshitaka Shibata, Iwate Prefectural University (Japan)<br/>
-Paulo Pires, Fluminense Federal University (Brazil)<br/>
-Tao Ban, Cybersecurity Research Institute (Japan) -->
-
+Naohiro Hayashibara, Kyoto Sangyo University (Japan)
