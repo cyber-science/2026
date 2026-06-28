@@ -1,7 +1,7 @@
 ---
 title: Paper Submissions
 layout: subcbd2
-permalink: /cbdcom/papersubmissions/
+permalink: /cbdcom/papersubmissions-back/
 ---
 
 <h3>Paper Submissions - IEEE CBDCom 2025</h3>
@@ -18,7 +18,7 @@ permalink: /cbdcom/papersubmissions/
 </p>
 
 <p>Authors are invited to submit their original research work that has not been previously submitted or published in any other venue. All regular, Work-in-Progress (WiP), workshop, special session, and poster papers must be submitted via EDAS system.
-(<a href="https://edas.info/N33778" target =_new>https://edas.info/N33778</a>).
+(<a href="https://edas.info/N35529" target =_new>https://edas.info/N35529</a>).
 </p><p>
 <ul>
 <li><b>Regular papers</b> should present substantial, original, completed and unpublished work. Wherever applicable, concrete evaluation and/or analysis should be included.</li>
@@ -33,7 +33,7 @@ permalink: /cbdcom/papersubmissions/
 Papers should be prepared using the IEEE Computer Society Proceedings format. Detailed formatting guidelines are available at: <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target=_new>http://www.ieee.org/conferences_events/conferences/publishing/templates.html</a>
 </p><p>
 All accepted papers in the main tracks, workshops, special sessions, and poster sessions will be published in the IEEE Computer Society proceedings (IEEE-DL and EI indexed).
-Best Paper Awards will be presented to high-quality papers. Selected papers will be recommended for publication in prestigious journal <b><a href="http://cyber-science.org/2025/special-issues/" target=_new>Special Issues</a></b>.
+Best Paper Awards will be presented to high-quality papers. Selected papers will be recommended for publication in prestigious journal <b><a href="http://cyber-science.org/2026/special-issues/" target=_new>Special Issues</a></b>.
 </p><p>
 Some papers originally submitted as full papers and based on review results can be accepted either as short papers or poster papers. In such cases, the authors will need to reduce the number of pages of the paper accordingly when preparing the camera-ready version. At least one of the authors of any accepted paper is requested to register and present the paper at the conference.
 Authors of accepted poster papers will be required to prepare and submit the camera-ready version of the paper for inclusion in the conference proceedings. Moreover, the authors are required to prepare the poster (format will be announced later) for its presentation at the conference. 
