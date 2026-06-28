@@ -1,4 +1,3 @@
-
 ---
 title: Organization
 layout: subdasc2

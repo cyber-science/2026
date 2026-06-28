@@ -6,72 +6,54 @@ permalink: /picom/organization/
 
 <h3>PICom 2026 Organizing Committee</h3>
 <hr/>
-TBA
 
-<!-- 
-<h4>Honorary Chairs</h4>
-Albert Zomaya, The University of Sydney (Australia)<br>
-Ming Hou, Defence Research & Development Canada (Canada)<br>
-Tiago Falk, University of Quebec (Canada)
-   
+<h4>Honorary Chair</h4>
+Albert Zomaya, University of Sydney (Australia)
+
 <h4>General Chairs</h4>
-Flavia Delicato, Fluminense Federal University (Brazil)<br>
-Antonio Guerrieri, ICAR-CNR (Italy)<br>
-Kenichi Kourai, Kyushu Institute of Technology (Japan)
+Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
+Eric Pardede, La Trobe University (Australia)
 
 <h4>General Executive Chairs</h4>
-Bernady O. Apduhan, Kyushu Sangyo University (Japan) <br>
-Xiaohong Jiang, Future University Hakodate (Japan)
-
-<h4>Advisory Chairs</h4>
-Jinhua She, Tokyo University of Technology (Japan)<br>
-Paulo de Figueiredo Pires, Dell (Brazil)<br>
-Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)
+Bernady O. Apduhan, Kyushu Sangyo University (Japan)<br>
+Chao Chen, RMIT University (Australia)
 
 <h4>Program Chairs</h4>
-Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
-Ao Guo, Nagoya University (Japan)<br>
-Lidia Fotia, University of Salerno (Italy)
-
-<h4>Web Chairs</h4>
-Ao Guo, Nagoya University (Japan)<br>
+Rossana Andrade, Federal University of Ceara (Brazil)<br>
 Bo Wu, Tokyo University of Technology (Japan)
 
 <h4>Track Chairs</h4>
-Federico Santoro, University of Catania (Italy)<br>
-Marco Miozzo, CTTC (Spain)<br>
-Claudio Savaglio, University of Calabria (Italy)<br>
-Rebeca Motta, Universidade Federal Fluminense (Brazil)<br>
-Andrea Vinci, ICAR-CNR (Italy)<br>
-Ao Guo, Nagoya University (Japan)<br>
-Franco Cicirelli, ICAR-CNR (Italy)
+Santoso Wibowo, Central Queensland University (Australia)<br>
+Lidia Fotia, University of Salerno (Italy)<br>
+Gautam Srivastava, Brandon University (USA)<br>
+Alex Tomy, La Trobe University (Australia)<br>
+Rebeca Motta, Fluminense Federal University (Brazil)
 
-<h4>Workshop & Special Session Chairs</h4>
-Irfanullah Khan, University of Glasgow (UK)<br>
-Wenjing Zhao, University of Glasgow (UK)
+<h4>Workshop &amp; Special Session Chair</h4>
+Victor Chang, Aston University (United Kingdom)
 
-<h4>Publicity Chairs</h4>
-Jingtao Sun, Hitachi (Japan)<br>
-Wei Li, The University of Sydney (Australia)<br>
-Gwanggil Jeon, Incheon National University (Korea)<br>
-Antonino Galletta, University of Messina (Italy)<br>
-Celimuge Wu, The University of Electro-Communications (Japan)<br>
-Endang Djuana, Universitas Trisakti (Indonesia)<br>
-Zhuotao Lian, Hiroshima University (Japan)
+<h4>Publication Chair</h4>
+Ruichen Cong, Waseda University (Japan)
+
+<h4>Social Media &amp; Publicity Chairs</h4>
+Antonio Guerrieri, ICAR-CNR (Italy)<br>
+Rudri Kalaria, La Trobe University (Australia)
 
 <h4>Advisory Committee</h4>
+Jinhua She, Tokyo University of Technology (Japan)<br>
+Paulo de Figueiredo Pires, Dell/Fluminense Federal University (Brazil)<br>
+Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)<br>
+Flavia C Delicato, Fluminense Federal University (Brazil)<br>
 Giancarlo Fortino, University of Calabria (Italy)<br>
 Samee U. Khan, Mississippi State University (USA)<br>
 Moayad Aloqaily, MBZUAI (UAE)<br>
-Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br>
 D. Frank Hsu, Fordham University (USA)<br>
 Hui-huang Hsu, Tamkang University (Taiwan)<br>
-Victor Chang, Aston University (UK)
+Victor Chang, Aston University (United Kingdom)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
-Laurence T. Yang, St. Francis Xavier Univ. (Canada)<br>
+Laurence T. Yang, St. Francis Xavier University (Canada)<br>
 Adnan Al-Anbuky, Auckland U Tech. (New Zealand)<br>
-Flavia C. Delicato, Fluminense Federal University (Brazil)<br>
-Qun Jin, Waseda University (Japan)
- -->
+Flavia Delicato, Fluminense Federal University (Brazil)
+
