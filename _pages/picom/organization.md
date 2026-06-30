@@ -22,7 +22,7 @@ Chao Chen, RMIT University (Australia)
 Rossana Andrade, Federal University of Ceara (Brazil)<br>
 Bo Wu, Tokyo University of Technology (Japan)
 
-<h4>Track Chairs</h4>
+<!--<h4>Track Chairs</h4>
 Santoso Wibowo, Central Queensland University (Australia)<br>
 Lidia Fotia, University of Salerno (Italy)<br>
 Gautam Srivastava, Brandon University (USA)<br>
@@ -37,19 +37,15 @@ Ruichen Cong, Waseda University (Japan)
 
 <h4>Social Media &amp; Publicity Chairs</h4>
 Antonio Guerrieri, ICAR-CNR (Italy)<br>
-Rudri Kalaria, La Trobe University (Australia)
+Rudri Kalaria, La Trobe University (Australia)-->
 
 <h4>Advisory Committee</h4>
-Jinhua She, Tokyo University of Technology (Japan)<br>
-Paulo de Figueiredo Pires, Dell/Fluminense Federal University (Brazil)<br>
-Chuan-Yu Chang, National Yunlin University of Science and Technology (Taiwan)<br>
-Flavia C Delicato, Fluminense Federal University (Brazil)<br>
 Giancarlo Fortino, University of Calabria (Italy)<br>
 Samee U. Khan, Mississippi State University (USA)<br>
 Moayad Aloqaily, MBZUAI (UAE)<br>
+Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br>
 D. Frank Hsu, Fordham University (USA)<br>
-Hui-huang Hsu, Tamkang University (Taiwan)<br>
-Victor Chang, Aston University (United Kingdom)
+Hui-huang Hsu, Tamkang University (Taiwan)
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
