@@ -9,8 +9,18 @@ permalink: /cyberscitech/organization/
 <hr/>
 
 <h4>Honorary Chairs</h4>
+Stephen S. Yau, Arizona State University (USA)<br>
 Qun Jin, Waseda University (Japan)<br>
 Jiliu Zhou, Chengdu University of Information Technology (China)
+
+<h4>Advisory Chair</h4>
+sQing Li, Hong Kong Polytechnic University (Hong Kong)<br>
+Klimis Ntalianis, University of West Attica (Greece )
+
+<h4>General Chairs</h4>
+Feng Xia, RMIT University (Australia)<br>
+Wenny Rahayu, La Trobe University (Australia)<br>
+Xiaokang Zhou, Kansai University (Japan)
 
 <h4>General Chairs</h4>
 Feng Xia, RMIT University (Australia)<br>
