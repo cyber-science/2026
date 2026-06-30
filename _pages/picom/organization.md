@@ -22,23 +22,6 @@ Chao Chen, RMIT University (Australia)
 Rossana Andrade, Federal University of Ceara (Brazil)<br>
 Bo Wu, Tokyo University of Technology (Japan)
 
-<!--<h4>Track Chairs</h4>
-Santoso Wibowo, Central Queensland University (Australia)<br>
-Lidia Fotia, University of Salerno (Italy)<br>
-Gautam Srivastava, Brandon University (USA)<br>
-Alex Tomy, La Trobe University (Australia)<br>
-Rebeca Motta, Fluminense Federal University (Brazil)
-
-<h4>Workshop &amp; Special Session Chair</h4>
-Victor Chang, Aston University (United Kingdom)
-
-<h4>Publication Chair</h4>
-Ruichen Cong, Waseda University (Japan)
-
-<h4>Social Media &amp; Publicity Chairs</h4>
-Antonio Guerrieri, ICAR-CNR (Italy)<br>
-Rudri Kalaria, La Trobe University (Australia)-->
-
 <h4>Advisory Committee</h4>
 Giancarlo Fortino, University of Calabria (Italy)<br>
 Samee U. Khan, Mississippi State University (USA)<br>
