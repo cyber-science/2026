@@ -49,7 +49,16 @@ Di Wu, La Trobe University (Australia)
 <h4>Web Chair</h4>
 Jiaheng Wei, RMIT University (Australia)
 
+<h4>Steering Committee</h4>
+Jianhua Ma, Hosei University (Japan)<br/>
+Laurence T. Yang, St. Francis Xavier University (Canada)<br/>
+Yuanshun Dai, Univ. of Elec. Sci. & Tech. of China (China)<br/>
+Tadashi Dohi, Hiroshima University (Japan)<br/>
+Md Zakirul Alam Bhuiyan, Fordham University (USA)
+
 <h4>Advisory Committee</h4>
 Naohiro Hayashibara, Future University Hakodate (Japan)<br>
 Takaki Nakamura, Tohoku University (Japan)<br>
 Zonghua Zhang, CRSC Co. (China)
+
+
