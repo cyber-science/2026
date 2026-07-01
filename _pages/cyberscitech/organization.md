@@ -15,7 +15,8 @@ Jiliu Zhou, Chengdu University of Information Technology (China)
 
 <h4>Advisory Chair</h4>
 Qing Li, Hong Kong Polytechnic University (Hong Kong)<br>
-Klimis Ntalianis, University of West Attica (Greece )
+Klimis Ntalianis, University of West Attica (Greece)<br>
+Wei Lu, Beijing Jiaotong University (China)
 
 <h4>General Chairs</h4>
 Feng Xia, RMIT University (Australia)<br>
@@ -43,8 +44,8 @@ Xiaoyan Wang, Ibaraki University (Japan)<br>
 Weimin Li, Shanghai University (China)<br>
 S. Leili Mirtaheri, University of Calabria (Italy)<br>
 Qin Wang, CSIRO (Australia)<br>
-Lai Tu, Huazhong University of Science and Technology (China)<br>
-Chen Yang，Institute of Software Chinese Academy of Sciences (China)
+Lai Tu, Huazhong University of Sci. & Tech. (China)<br>
+Chen Yang, Institute of Software CAS (China)
 
 <h4>Workshop &amp; Special Session Chairs</h4>
 Pan Wang, Nanjing University of Posts and Telecommunications (China)<br>
@@ -99,7 +100,7 @@ Wei Lu, Beijing Jiaotong University (China)<br>
 Zhihui Lv, Fudan University (China)
 
 <h4>Steering Committee</h4>
-Jianhua Ma, Hosei University (Japan)<br>
+Jianhua Ma (Chair), Hosei University (Japan)<br>
 Hui-Huang Hsu, Tamkang University (Taiwan)<br>
 Qun Jin, Waseda University (Japan)<br>
 Laurence T. Yang, St. Francis Xavier University (Canada)<br>
