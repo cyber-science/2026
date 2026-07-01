@@ -71,23 +71,6 @@ Hongxin Yan, Athabasca University (Canada)
 Bo Wu, Tokyo University of Technology (Japan)<br>
 Wanlun Ma, Swinburne University of Technology (Australia)
 
-<h4>Steering Committee</h4>
-Jianhua Ma, Hosei University (Japan)<br>
-Hui-Huang Hsu, Tamkang University (Taiwan)<br>
-Qun Jin, Waseda University (Japan)<br>
-Laurence T. Yang, St. Francis Xavier University (Canada)<br>
-Jun Wang, University of Central Florida (USA)<br>
-Stephen S. Yau, Arizona State University (USA)<br>
-Mazin Yousif, T-Systems International (USA)<br>
-Albert Zomaya, The University of Sydney (Australia)<br>
-Kevin I-Kai Wang, The Univ. of Auckland (New Zealand)<br>
-Bernady O. Apduhan, Kyushu Sangyo Univ. (Japan)<br>
-Oscar Lin, Athabasca University (Canada)<br>
-Giancarlo Fortino, University of Calabria (Italy)<br>
-Moayad Aloqaily, MBZUAI (UAE)<br>
-Frank Hsu, Fordham University (USA)<br>
-Jinhua She, Tokyo University of Technology (Japan)
-
 <h4>Advisory Committee</h4>
 Baoming Bai, Xidian University (China)<br>
 Julien Bourgeois, UBFC/FEMTO-ST INST/CNRS (France)<br>
@@ -114,3 +97,20 @@ Qinggou Zhou, Lanzhou University (China)<br>
 John Paul C. Vergara, Ateneo de Manila University (Philippines)<br>
 Wei Lu, Beijing Jiaotong University (China)<br>
 Zhihui Lv, Fudan University (China)
+
+<h4>Steering Committee</h4>
+Jianhua Ma, Hosei University (Japan)<br>
+Hui-Huang Hsu, Tamkang University (Taiwan)<br>
+Qun Jin, Waseda University (Japan)<br>
+Laurence T. Yang, St. Francis Xavier University (Canada)<br>
+Jun Wang, University of Central Florida (USA)<br>
+Stephen S. Yau, Arizona State University (USA)<br>
+Mazin Yousif, T-Systems International (USA)<br>
+Albert Zomaya, The University of Sydney (Australia)<br>
+Kevin I-Kai Wang, The Univ. of Auckland (New Zealand)<br>
+Bernady O. Apduhan, Kyushu Sangyo Univ. (Japan)<br>
+Oscar Lin, Athabasca University (Canada)<br>
+Giancarlo Fortino, University of Calabria (Italy)<br>
+Moayad Aloqaily, MBZUAI (UAE)<br>
+Frank Hsu, Fordham University (USA)<br>
+Jinhua She, Tokyo University of Technology (Japan)
