@@ -44,7 +44,7 @@ Weimin Li, Shanghai University (China)<br>
 S. Leili Mirtaheri, University of Calabria (Italy)<br>
 Qin Wang, CSIRO (Australia)<br>
 Lai Tu, Huazhong University of Science and Technology (China)<br>
-Chen Yang，Institute of Software Chinese Academy of Sciences(China)
+Chen Yang，Institute of Software Chinese Academy of Sciences (China)
 
 <h4>Workshop &amp; Special Session Chairs</h4>
 Pan Wang, Nanjing University of Posts and Telecommunications (China)<br>
