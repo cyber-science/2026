@@ -14,7 +14,7 @@ Qun Jin, Waseda University (Japan)<br>
 Jiliu Zhou, Chengdu University of Information Technology (China)
 
 <h4>Advisory Chair</h4>
-sQing Li, Hong Kong Polytechnic University (Hong Kong)<br>
+Qing Li, Hong Kong Polytechnic University (Hong Kong)<br>
 Klimis Ntalianis, University of West Attica (Greece )
 
 <h4>General Chairs</h4>
