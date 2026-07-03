@@ -6,17 +6,17 @@ permalink: /panel/
 
 <h3 style="text-align: center;">
   The Panel on<br/>
-  LLM-Empowered Research and Education: Opportunities, Challenges, and Future Directions<br/>
+  Generative AI (GenAI) in Research and Education: Opportunities, Challenges, and Future Directions<br/>
   Date and Time: TBA
 </h3>
 
 <hr/>
 
-Large Language Models (LLMs) are rapidly transforming the ways in which researchers, educators, students, and institutions conduct academic work. From literature review, scientific writing, coding, data analysis, and research collaboration to personalised learning, assessment design, and curriculum innovation, LLMs are creating new opportunities across both research and education.
+Generative AI (GenAI) — including large language models, image-generation models, and other multimodal systems — is rapidly transforming the ways in which researchers, educators, students, and institutions conduct academic work. From literature review, scientific writing, coding, data analysis, and research collaboration to personalised learning, assessment design, and curriculum innovation, GenAI is creating new opportunities across both research and education.
 
-At the same time, the adoption of LLMs also raises important challenges, including reliability, academic integrity, responsible use, privacy, intellectual property, fairness, and governance. These issues require interdisciplinary discussion among researchers, educators, academic leaders, and practitioners.
+At the same time, the adoption of GenAI also raises important challenges, including reliability, academic integrity, responsible use, privacy, intellectual property, fairness, and governance. These issues require interdisciplinary discussion among researchers, educators, academic leaders, and practitioners.
 
-This panel aims to bring together invited experts to share their perspectives on the opportunities, challenges, and future directions of LLM-empowered research and education. The discussion will focus on how LLMs can be responsibly and effectively used to support academic innovation, research productivity, teaching practice, and international collaboration.
+This panel aims to bring together invited experts to share their perspectives on the opportunities, challenges, and future directions of GenAI-empowered research and education. The discussion will focus on how GenAI can be responsibly and effectively used to support academic innovation, research productivity, teaching practice, and international collaboration.
 
 <hr/>
 
@@ -24,12 +24,12 @@ This panel aims to bring together invited experts to share their perspectives on
 
 The panel will cover, but is not limited to, the following topics:
 
-- LLMs for research productivity and academic collaboration
-- LLM-assisted scientific writing, coding, and data analysis
-- LLMs in teaching, learning, assessment, and curriculum design
-- Academic integrity and responsible use of generative AI
+- GenAI for research productivity and academic collaboration
+- GenAI-assisted scientific writing, coding, and data analysis
+- GenAI in teaching, learning, assessment, and curriculum design
+- Academic integrity and responsible use of GenAI
 - Privacy, security, copyright, and ethical considerations
-- Institutional policies and governance for LLM adoption
+- Institutional policies and governance for GenAI adoption
 - Future directions of AI-empowered research and education
 
 <hr/>
