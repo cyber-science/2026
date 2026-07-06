@@ -24,7 +24,7 @@ permalink: /cyberscitech/acceptworkshops/
   
 <li><a href="/2026/assets/files/ws-ss/cst/IOT-LIFE2026_CFP.pdf.pdf" target="_new"><u>The 10th International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life 2026)</u></a></li>
 
-<li><a href="/2026/assets/files/ws-ss/cst/GAI-HyperI2026_CFP.pdf" target="_new"><u>The 2nd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2026)</u></a></li>
+<li><a href="/2026/assets/files/ws-ss/cst/GAI-HyperI2026_CFP.pdf" target="_new"><u>The 3rd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2026)</u></a></li>
 
 <!-- <li><a href="https://gai-hyperi.github.io/" target="_new"><u>The 2nd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2025)</u></a></li>
 
