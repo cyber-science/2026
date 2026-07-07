@@ -35,17 +35,24 @@ Victor Chang, Aston University (UK)<br>
 Federico Santoro, University of Catania (Italy)
 
 <h4>Publicity Chairs</h4>
-Sun Jingtao, Hitachi (Japan)<br>
 Antonio Guerrieri, ICAR-CNR (Italy)<br>
-Rudri Kalaria, La Trobe University (Australia)
+Rudri Kalaria, La Trobe University (Australia)<br>
+Sun Jingtao, Hitachi (Japan)<br>
+Hong Chen, Xiamen Institute of Technology (China)
+
 
 <h4>Advisory Committee</h4>
+Jinhua She, Tokyo Univ. of Technology (Japan)<br>
+Paulo de Figueiredo Pires, Dell/UFF (Brazil)<br>
+Chuan-Yu Chang, YunTech Univ. (Taiwan)<br>
+Flavia C Delicato, Fluminense Federal Univ. (Brazil)<br>
 Giancarlo Fortino, University of Calabria (Italy)<br>
 Samee U. Khan, Mississippi State University (USA)<br>
 Moayad Aloqaily, MBZUAI (UAE)<br>
-Nicolas Tsapatsoulis, Cyprus University of Technology (Cyprus)<br>
 D. Frank Hsu, Fordham University (USA)<br>
-Hui-huang Hsu, Tamkang University (Taiwan)
+Hui-huang Hsu, Tamkang University (Taiwan)<br>
+Victor Chang, Aston University (UK)
+
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
