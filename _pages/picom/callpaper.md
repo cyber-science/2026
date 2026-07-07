@@ -13,7 +13,7 @@ permalink: /picom/callpaper/
 <h4 style="font-weight: bold">For Regular Papers<h4>
 <hr/>
 
-<h4>Track 1: Next Gen Pervasive AI</h4>
+<h4>Track 1: Next Gen Pervasive AI and Generative AI</h4>
 GenAI for wireless sensing
 <br/>Machine-to-machine GenAI
 <br/>Generative IoT
@@ -47,7 +47,7 @@ Crowdsourcing and Social Computing
 <br/>Pervasive Technologies for ITS
 <br/>HCI for Pervasive Computing
 
-<h4>Track 4: Next Gen Smart Environments</h4>
+<h4>Track 4: Next Gen Smart Systems and Environments</h4>
 Smart grid, healthcare, transportation applications
 <br/>Wearable and human-centric devices and networks
 <br/>Device Virtualization
