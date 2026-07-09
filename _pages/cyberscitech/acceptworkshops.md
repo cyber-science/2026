@@ -37,5 +37,5 @@ permalink: /cyberscitech/acceptworkshops/
 <h3>Symposium - IEEE CyberSciTech 2026</h3>
 <hr/>
 <ol>
-<li><a href="https://gai-hyperi.github.io/2026/GAI-Hyper-2026.html" target="_new"><u>The 3rd International Symposium on Generative AI and Hyper Intelligence ( GAI-HyperI 2026)</u></a></li>
+<li><a href="https://gai-hyperi.github.io/2026/GAI-Hyper-2026.html" target="_new"><u>The 3rd International Symposium on Generative AI and Hyper Intelligence (GAI-HyperI 2026)</u></a></li>
 </ol>
