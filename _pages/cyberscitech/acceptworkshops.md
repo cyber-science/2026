@@ -5,10 +5,13 @@ permalink: /cyberscitech/acceptworkshops/
 ---
 
 
-<h3>Symposium - IEEE CyberSciTech 2026</h3>
-<hr/>
+<h3>Special Sessions - IEEE CyberSciTech 2026</h3>
+<hr>
 <ol>
-<li><a href="https://gai-hyperi.github.io/2026/GAI-Hyper-2026.html" target="_new"><u>The 3rd International Symposium on Generative AI and Hyper Intelligence (GAI-HyperI 2026)</u></a></li>
+<li><a href="/2026/assets/files/ws-ss/cst/CyberIC2026_CFP.pdf.pdf" target="_new"><u>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC 2026)</u></a></li>
+<li><a href="/2026/assets/files/ws-ss/cst/LM-CSC&CEA-26.pdf" target="_new"><u>Special Session on Large Model Empowered Cyber Social Computing and Cyber-Enabled Applications (LM-CSC&CEA)</u></a></li>
+<!-- <li><a href="/2025/assets/files/ws-ss/cst/Cyber-IoT2025_CFP.pdf" target="_new"><u>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT 2025)</u></a></li>
+<li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li> -->
 </ol>
 
 <h3>Workshops - IEEE CyberSciTech 2026</h3>
@@ -31,11 +34,8 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2025/assets/files/ws-ss/cst/BigCyberSecurity2025_CFP.pdf" target="_new"><u>The 7th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2025)</u></a></li> -->
 </ol>
 
-<h3>Special Sessions - IEEE CyberSciTech 2026</h3>
-<hr>
+<h3>Symposium - IEEE CyberSciTech 2026</h3>
+<hr/>
 <ol>
-<li><a href="/2026/assets/files/ws-ss/cst/CyberIC2026_CFP.pdf.pdf" target="_new"><u>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC 2026)</u></a></li>
-<li><a href="/2026/assets/files/ws-ss/cst/LM-CSC&CEA-26.pdf" target="_new"><u>Special Session on Large Model Empowered Cyber Social Computing and Cyber-Enabled Applications (LM-CSC&CEA)</u></a></li>
-<!-- <li><a href="/2025/assets/files/ws-ss/cst/Cyber-IoT2025_CFP.pdf" target="_new"><u>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT 2025)</u></a></li>
-<li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li> -->
+<li><a href="https://gai-hyperi.github.io/2026/GAI-Hyper-2026.html" target="_new"><u>The 3rd International Symposium on Generative AI and Hyper Intelligence (GAI-HyperI 2026)</u></a></li>
 </ol>
