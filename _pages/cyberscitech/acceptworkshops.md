@@ -15,6 +15,12 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li> -->
 </ol>
 
+<h3>Symposium - IEEE CyberSciTech 2026</h3>
+<hr/>
+<ol>
+<li><a href="https://gai-hyperi.github.io/2026/GAI-Hyper-2026.html" target="_new"><u>The 3rd International Symposium on Generative AI and Hyper Intelligence (GAI-HyperI 2026)</u></a></li>
+</ol>
+
 <h3>Workshops - IEEE CyberSciTech 2026</h3>
 <hr/>
 <ol>
@@ -23,8 +29,6 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2026/assets/files/ws-ss/cst/ACE2026CFP_0626.pdf" target="_new"><u>The 9th International Workshop on Applications of AI, Cyber Security and Economics Big Data (ACE-2026)</u></a></li>
   
 <li><a href="/2026/assets/files/ws-ss/cst/IOT-LIFE2026_CFP.pdf.pdf" target="_new"><u>The 10th International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life 2026)</u></a></li>
-
-<li><a href="https://gai-hyperi.github.io/2026/GAI-Hyper-2026.html" target="_new"><u>The 3rd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2026)</u></a></li>
 
 <!-- <li><a href="https://gai-hyperi.github.io/" target="_new"><u>The 2nd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2025)</u></a></li>
 
