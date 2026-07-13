@@ -10,6 +10,7 @@ permalink: /cyberscitech/acceptworkshops/
 <ol>
 <li><a href="/2026/assets/files/ws-ss/cst/CyberIC2026_CFP.pdf.pdf" target="_new"><u>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC 2026)</u></a></li>
 <li><a href="/2026/assets/files/ws-ss/cst/LM-CSC&CEA-26.pdf" target="_new"><u>Special Session on Large Model Empowered Cyber Social Computing and Cyber-Enabled Applications (LM-CSC&CEA)</u></a></li>
+<li><a href="/2026/assets/files/ws-ss/cst/SecTrust-AI2026_CFP.pdf" target="_new"><u>Special Session on Security and Trustworthiness of Large AI Models and Agents (SecTrust-AI)</u></a></li>
 <!-- <li><a href="/2025/assets/files/ws-ss/cst/Cyber-IoT2025_CFP.pdf" target="_new"><u>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT 2025)</u></a></li>
 <li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li> -->
 </ol>
