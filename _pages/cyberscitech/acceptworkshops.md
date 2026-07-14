@@ -11,8 +11,8 @@ permalink: /cyberscitech/acceptworkshops/
 <li><a href="/2026/assets/files/ws-ss/cst/CyberIC2026_CFP.pdf.pdf" target="_new"><u>Special Session on Intelligent Computing in Cyber-Physical Social Systems (CyberIC 2026)</u></a></li>
 <li><a href="/2026/assets/files/ws-ss/cst/LM-CSC&CEA-26.pdf" target="_new"><u>Special Session on Large Model Empowered Cyber Social Computing and Cyber-Enabled Applications (LM-CSC&CEA)</u></a></li>
 <li><a href="/2026/assets/files/ws-ss/cst/SecTrust-AI2026_CFP.pdf" target="_new"><u>Special Session on Security and Trustworthiness of Large AI Models and Agents (SecTrust-AI)</u></a></li>
-<!-- <li><a href="/2025/assets/files/ws-ss/cst/Cyber-IoT2025_CFP.pdf" target="_new"><u>Special Session on Computing and Applications for Cyber Internet of Things (Cyber-IoT 2025)</u></a></li>
-<li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li> -->
+<li><a href="/2026/assets/files/ws-ss/cst/Cyber-IoT2026_CFP.pdf" target="_new"><u>Special Session of Computing and Applications for Cyber Internet of Things (Cyber-IoT)</u></a></li>
+<!-- <li><a href="/2025/assets/files/ws-ss/cst/CSC-CEA_2025_CFP.pdf" target="_new"><u>Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA 2025)</u></a></li> -->
 </ol>
 
 <h3>Workshops - IEEE CyberSciTech 2026</h3>
@@ -24,15 +24,15 @@ permalink: /cyberscitech/acceptworkshops/
   
 <li><a href="/2026/assets/files/ws-ss/cst/IOT-LIFE2026_CFP.pdf.pdf" target="_new"><u>The 10th International Workshop on the Impact of Internet of Things on Daily Life (IoT-Life 2026)</u></a></li>
 
+<li><a href="/2026/assets/files/ws-ss/cst/BigCyberSecurity2026-CFP.pdf" target="_new"><u>The 8th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2026)</u></a></li>
+
 <!-- <li><a href="https://gai-hyperi.github.io/" target="_new"><u>The 2nd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2025)</u></a></li>
 
 <li><a href="/2025/assets/files/ws-ss/cst/PAICM2025_CFP.pdf" target="_new"><u>The International Workshop on Physical-Aware Intelligence and Cognitive Modelling (PAICM 2025)</u></a></li>
 
 <li><a href="/2025/assets/files/ws-ss/cst/HAIDC2025_CFP.pdf" target="_new"><u>The International Workshop on Human-Centered AI and Digital Coaching (HAIDC 2025)</u></a></li>
 
-<li><a href="/2025/assets/files/ws-ss/cst/NGIWEC2025_CFP.pdf" target="_new"><u>The 3rd International Workshop on Next Generation Intelligent Emergency Communications</u></a></li>
-
-<li><a href="/2025/assets/files/ws-ss/cst/BigCyberSecurity2025_CFP.pdf" target="_new"><u>The 7th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2025)</u></a></li> -->
+<li><a href="/2025/assets/files/ws-ss/cst/NGIWEC2025_CFP.pdf" target="_new"><u>The 3rd International Workshop on Next Generation Intelligent Emergency Communications</u></a></li> -->
 </ol>
 
 <h3>Symposium - IEEE CyberSciTech 2026</h3>
