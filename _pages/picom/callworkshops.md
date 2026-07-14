@@ -30,7 +30,7 @@ The proceedings of the PICom 2026 workshops will be published and included in th
 <br/>
 
 <b>Submissions</b><br/>
-A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible and not later than May 20th, 2026, to the Workshop and Special Session Chairs. Please use “PICom 2026 WS/SS Proposal” as the email's subject. Accepted proposals should strictly follow the important dates, particularly paper notification and camera-ready dates listed below.
+A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible and not later than July 10, 2026, to the Workshop and Special Session Chairs. Please use “PICom 2026 WS/SS Proposal” as the email's subject. Accepted proposals should strictly follow the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
@@ -38,10 +38,10 @@ A single pdf file with all the material described above should be prepared. Plea
 < <a href="mailto:victorchang.research@gmail.com"><u>victorchang.research@gmail.com</u></a> >
 
 <b>Important Dates:</b><br/>
-- Workshop/Special Session Proposal Due: May 20, 2026
-- Workshop/Special Session Acceptance Notification: May 25, 2026
-- Workshop/Special Session Paper Due: June 20, 2026
-- Authors Notification: July 30, 2026
-- Camera-ready Submission: September 12, 2026
+- Workshop/Special Session Proposal Due: July 10, 2026
+- Workshop/Special Session Paper Due: August 15, 2026
+- Authors Notification: September 1, 2026
+- Paper Registration Due: September 24, 2026
+- Camera-ready Submission: October 1, 2026
 
 <b><u>Acceptance will be notified within a couple of days after the proposal submission.</u></b>

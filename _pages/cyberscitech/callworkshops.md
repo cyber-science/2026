@@ -54,8 +54,8 @@ Accepted proposals should follow strictly the important dates, particularly pape
 < <a href="mailto:xiwei.xu@csiro.au"><u>xiwei.xu@csiro.au</u></a> >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: June 06, 2026
-- WiP/Poster/Workshop/SS Paper Due: June 27, 2026
-- Author Notification: August 11, 2026
-- Paper Registration Due: September 5, 2026
-- Camera-ready Submission: September 12, 2026
+- Workshop/SS Proposal Due: July 10, 2026
+- WiP/Poster/Workshop/SS Paper Due: August 15, 2026
+- Author Notification: September 1, 2026
+- Paper Registration Due: September 24, 2026
+- Camera-ready Submission: October 1, 2026
