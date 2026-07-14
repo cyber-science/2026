@@ -50,8 +50,8 @@ Please use 'CBDCom 2026 Workshop-SS Proposal' as the email subject. Accepted pro
 < <a href="mailto:w-qiu@ieee.org"><u>w-qiu@ieee.org</u></a> >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: May 20, 2026
-- WiP/Poster/Workshop/SS Paper Due: June 20, 2026
-- Author Notification: August 11, 2026
-- Paper Registration Due: September 5, 2026
+- Workshop/SS Proposal Due: July 15, 2026
+- WiP/Poster/Workshop/SS Paper Due: August 15, 2026
+- Author Notification: September 1, 2026
+- Paper Registration Due: September 24, 2026
 - Camera-ready Submission: September 12, 2026
