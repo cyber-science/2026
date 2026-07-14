@@ -6,10 +6,8 @@ permalink: /dasc/callworkshops/
 
 <h3>Call For Workshops and Special Sessions - IEEE DASC 2026</h3>
 <hr/>
-TBA
 
-<!-- 
-IEEE DASC 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. 
+IEEE DASC 2026 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference.
 The purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event, 
 as well as to encourage in-depth discussion of technical and application issues related to Dependable, Autonomic, and Secure Computing. 
 Workshops and Special Sessions are a great addition to the main conference.
@@ -33,24 +31,26 @@ The review and selection of workshop papers should follow similar approaches use
 The fees will be paid to the conference, and the conference will provide workshop facilities including the meeting room, proceedings and conference attendance delegation for the Workshop/SS day. 
 <br/>
 
-The proceedings of the IEEE DASC 2025 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE DASC 2025. 
+The proceedings of the IEEE DASC 2026 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE DASC 2026.
 <br/>
 
 <b>Submissions</b><br/>
 A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible to the Workshop Chairs. 
-Please use 'DASC 2025 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
+Please use 'DASC 2026 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
-- Noriaki Kamiyama, Ritsumeikan University, Japan <br>
-< <a href="mailto:kamiaki@fc.ritsumei.ac.jp"><u>kamiaki@fc.ritsumei.ac.jp</u></a> >
+- Viet Vo, Swinburne University of Technology, Australia <br>
+< <a href="mailto:vvo@swin.edu.au"><u>vvo@swin.edu.au</u></a> >
 
+- Leo Zhang, Griffith University, Australia <br>
+< <a href="mailto:leo.zhang@griffith.edu.au"><u>leo.zhang@griffith.edu.au</u></a> >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: May 20, 2025
-- WiP/Poster/Workshop/SS Paper Due: July 15, 2025
-- Author Notification: August 11, 2025
-- Paper Registration Due: September 5, 2025
-- Camera-ready Submission: September 12, 2025
+- Workshop/SS Proposal Due: May 20, 2026
+- WiP/Poster/Workshop/SS Paper Due: July 15, 2026
+- Author Notification: August 11, 2026
+- Paper Registration Due: September 5, 2026
+- Camera-ready Submission: September 12, 2026
 
-For further details about the workshop, special session as well as the conference, you may reach out to Dr. Zakirul Alam Bhuiyan < zakirulalam AT gmail DOT com > -->
+For further details about the workshop, special session as well as the conference, please contact the Workshop/Special Session Chairs listed above.

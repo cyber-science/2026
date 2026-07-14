@@ -6,15 +6,14 @@ permalink: /cbdcom/callworkshops/
 
 <h3>Call For Workshops and Special Sessions - IEEE CBDCom 2026</h3>
 <hr/>
-TBA
 
-<!-- IEEE CBDCom 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. The
+IEEE CBDCom 2026 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. The
 purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event,
 as well as to encourage in-depth discussion of technical and application issues related to Cloud and Big Data Computing.
 Workshops and Special Sessions are a great addition to the main conference.
 <br/>
 
-Please submit a proposal containing the following information to Dr. Stefania Tomasiello at < stefania DOT tomasiello AT ut DOT ee >
+Please submit a proposal containing the following information to the Workshop and Special Session Chairs listed below.
 
 The proposal should contain the following information:<br/>
 - The title of the Workshop/SS, including both full name and acronym 
@@ -34,12 +33,12 @@ The review and selection of workshop papers should follow similar approaches use
 The fees will be paid to the conference, and the conference will provide workshop facilities including the meeting room, proceedings and conference attendance delegation for the Workshop/SS day. 
 <br/>
 
-The proceedings of the IEEE CBDCom 2025 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE CBDCom 2025. 
+The proceedings of the IEEE CBDCom 2026 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE CBDCom 2026.
 <br/>
 
 <b>Submissions</b><br/>
 A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible to the Workshop Chairs. 
-Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
+Please use 'CBDCom 2026 Workshop-SS Proposal' as the email subject. Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
@@ -49,12 +48,12 @@ Please use 'CBDCom 2025 Workshop-SS Proposal' as the email subject. Accepted pro
 - Chaker Kerrache, University of Laghouat, Algeria <br>
 < <a href="mailto:ch.kerrache@lagh-univ.dz"><u>ch.kerrache@lagh-univ.dz</u></a> >
 
+- Wen Qiu, Kitami Institute of Technology, Japan <br>
+< <a href="mailto:clorisqiu1@gmail.com"><u>clorisqiu1@gmail.com</u></a> >
 
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: May 20, 2025
-- WiP/Poster/Workshop/SS Paper Due: June 20, 2025
-- Author Notification: August 11, 2025
-- Paper Registration Due: September 5, 2025
-- Camera-ready Submission: September 12, 2025
-
- -->
+- Workshop/SS Proposal Due: May 20, 2026
+- WiP/Poster/Workshop/SS Paper Due: June 20, 2026
+- Author Notification: August 11, 2026
+- Paper Registration Due: September 5, 2026
+- Camera-ready Submission: September 12, 2026

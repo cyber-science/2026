@@ -7,9 +7,7 @@ permalink: /cyberscitech/callworkshops/
 <h3>Call For Workshops and Special Sessions - IEEE CyberSciTech 2026</h3>
 <hr/>
 
-TBA
-
-<!-- IEEE CyberSciTech 2025 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference. 
+IEEE CyberSciTech 2026 invites Workshops and Special Sessions (SS) to enrich and broaden the research focus of the main conference.
 The purpose is to provide opportunities for focused discussions on selected topics that will not be fully explored during the main event, 
 as well as to encourage in-depth discussion of technical and application issues related to cyberspace-related science, technology, and application topics. 
 Workshops and Special Sessions are a great addition to the main conference.
@@ -35,26 +33,29 @@ The review and selection of workshop papers should follow similar approaches use
 The fees will be paid to the conference, and the conference will provide workshop facilities including the meeting room, proceedings and conference attendance delegation for the Workshop/SS day. 
 <br/>
 
-The proceedings of the IEEE CyberSciTech 2025 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE CyberSciTech 2025. 
+The proceedings of the IEEE CyberSciTech 2026 workshops will be published by Conference Publishing Services and included in the proceedings of IEEE CyberSciTech 2026.
 <br/>
 
 <b>Submissions</b><br/>
 A single pdf file with all the material described above should be prepared. Please email your proposals in PDF format as early as possible to the Workshop Chairs. 
-Please use 'CyberSciTech 2025 Workshop-SS Proposal' as the email subject. 
+Please use 'CyberSciTech 2026 Workshop-SS Proposal' as the email subject.
 <b>Notification of acceptance or rejection will be provided within two weeks after the proposal is received.</b>
 Accepted proposals should follow strictly the important dates, particularly paper notification and camera-ready dates listed below.
 <br/>
 
 <b>Workshop/Special Session Chairs:</b><br/>
-- Pan Wang, Univ. of Posts & Telecomm., China <br>
+- Pan Wang, Nanjing University of Posts and Telecommunications, China <br>
 < <a href="mailto:wangpan@njupt.edu.cn"><u>wangpan@njupt.edu.cn</u></a> >
 
 - Yegang Du, Tohoku University, Japan <br>
 < <a href="mailto:yegang.du.b8@tohoku.ac.jp"><u>yegang.du.b8@tohoku.ac.jp</u></a> >
 
+- Xiwei (Sherry) Xu, CSIRO, Australia <br>
+< <a href="mailto:xiwei.xu@data61.csiro.au"><u>xiwei.xu@data61.csiro.au</u></a> >
+
 <b>Important Dates:</b><br/>
-- Workshop/SS Proposal Due: June 06, 2025
-- WiP/Poster/Workshop/SS Paper Due: June 27, 2025
-- Author Notification: August 11, 2025
-- Paper Registration Due: September 5, 2025
-- Camera-ready Submission: September 12, 2025 -->
+- Workshop/SS Proposal Due: June 06, 2026
+- WiP/Poster/Workshop/SS Paper Due: June 27, 2026
+- Author Notification: August 11, 2026
+- Paper Registration Due: September 5, 2026
+- Camera-ready Submission: September 12, 2026
