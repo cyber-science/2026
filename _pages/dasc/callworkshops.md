@@ -44,7 +44,6 @@ Please use 'DASC 2026 Workshop-SS Proposal' as the email subject. Accepted propo
 < <a href="mailto:vvo@swin.edu.au"><u>vvo@swin.edu.au</u></a> >
 
 - Leo Zhang, Griffith University, Australia <br>
-< <a href="mailto:leo.zhang@griffith.edu.au"><u>leo.zhang@griffith.edu.au</u></a> >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: May 20, 2026

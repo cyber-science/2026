@@ -35,10 +35,7 @@ A single pdf file with all the material described above should be prepared. Plea
 
 <b>Workshop/Special Session Chairs:</b><br/>
 - Victor Chang, Aston University, UK <br>
-< <a href="mailto:v.chang1@aston.ac.uk"><u>v.chang1@aston.ac.uk</u></a> >
-
-- Federico Santoro, University of Catania, Italy <br>
-< <a href="mailto:federico.santoro@unict.it"><u>federico.santoro@unict.it</u></a> >
+< <a href="mailto:victorchang.research@gmail.com"><u>victorchang.research@gmail.com</u></a> >
 
 <b>Important Dates:</b><br/>
 - Workshop/Special Session Proposal Due: May 20, 2026

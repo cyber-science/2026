@@ -43,13 +43,11 @@ Please use 'CBDCom 2026 Workshop-SS Proposal' as the email subject. Accepted pro
 
 <b>Workshop/Special Session Chairs:</b><br/>
 - Xin Qi, Waseda University, Japan <br>
-< <a href="mailto:samqixin@aoni.waseda.jp"><u>samqixin@aoni.waseda.jp</u></a> >
 
 - Chaker Kerrache, University of Laghouat, Algeria <br>
-< <a href="mailto:ch.kerrache@lagh-univ.dz"><u>ch.kerrache@lagh-univ.dz</u></a> >
 
 - Wen Qiu, Kitami Institute of Technology, Japan <br>
-< <a href="mailto:clorisqiu1@gmail.com"><u>clorisqiu1@gmail.com</u></a> >
+< <a href="mailto:w-qiu@ieee.org"><u>w-qiu@ieee.org</u></a> >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: May 20, 2026

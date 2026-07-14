@@ -51,7 +51,7 @@ Accepted proposals should follow strictly the important dates, particularly pape
 < <a href="mailto:yegang.du.b8@tohoku.ac.jp"><u>yegang.du.b8@tohoku.ac.jp</u></a> >
 
 - Xiwei (Sherry) Xu, CSIRO, Australia <br>
-< <a href="mailto:xiwei.xu@data61.csiro.au"><u>xiwei.xu@data61.csiro.au</u></a> >
+< <a href="mailto:xiwei.xu@csiro.au"><u>xiwei.xu@csiro.au</u></a> >
 
 <b>Important Dates:</b><br/>
 - Workshop/SS Proposal Due: June 06, 2026
