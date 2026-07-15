@@ -55,7 +55,8 @@ Zheng Lin, University of Hong Kong (Hong Kong, China)<br>
 Pengpeng Qiao, Tokyo Institute of Technology (Japan)<br>
 Yinqiu Liu, Nanyang Technological University (Singapore)<br>
 Jiong Dong, Xuchang University (China)<br>
-Yuyin Ma, Xinjiang University (China)
+Yuyin Ma, Xinjiang University (China)<br>
+Amar Khelloufi, Shenzhen University of Information Technology (China)
 
 <h4>Advisory Committee</h4>
 Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
