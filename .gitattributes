@@ -1,0 +1,26 @@
+# Mark binary file types as binary so Git never applies line-ending (CRLF/LF)
+# conversion to them. This prevents autocrlf on Windows from corrupting or
+# falsely flagging these files as modified.
+
+# Documents
+*.pdf   binary
+
+# Images
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.bmp   binary
+
+# Fonts
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
+*.eot   binary
+
+# Archives
+*.zip   binary
+*.gz    binary
