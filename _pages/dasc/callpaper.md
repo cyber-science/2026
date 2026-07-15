@@ -7,7 +7,7 @@ permalink: /dasc/callpaper/
 <h3>Call For Papers - IEEE DASC 2026 Tracks and Topics</h3>
 <hr/>
 
-<!-- <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/DASC2026_CFP.pdf" target=_new>here</a></b> ** </h5>  -->
+<h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/DASC2026_CFP.pdf" target=_new>here</a></b> ** </h5>
 
 <hr/>
 <h4 style="font-weight: bold">For Regular Papers<h4>
