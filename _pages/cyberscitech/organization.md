@@ -13,15 +13,10 @@ Stephen S. Yau, Arizona State University (USA)<br>
 Qun Jin, Waseda University (Japan)<br>
 Jiliu Zhou, Chengdu University of Information Technology (China)
 
-<h4>Advisory Chair</h4>
+<h4>Advisory Chairs</h4>
 Qing Li, Hong Kong Polytechnic University (Hong Kong)<br>
 Klimis Ntalianis, University of West Attica (Greece)<br>
 Wei Lu, Beijing Jiaotong University (China)
-
-<h4>General Chairs</h4>
-Feng Xia, RMIT University (Australia)<br>
-Wenny Rahayu, La Trobe University (Australia)<br>
-Xiaokang Zhou, Kansai University (Japan)
 
 <h4>General Chairs</h4>
 Feng Xia, RMIT University (Australia)<br>

@@ -25,7 +25,7 @@ Bo Wu, Tokyo University of Technology (Japan)
 <h4>Track Chairs</h4>
 Santoso Wibowo, Central Queensland University (Australia)<br>
 Lidia Fotia, University of Salerno (Italy)<br>
-Gautam Srivastava, Brandon University (USA)<br>
+Gautam Srivastava, Brandon University (Canada)<br>
 Alex Tomy, La Trobe University (Australia)<br>
 Rebeca Motta, Fluminense Federal University (Brazil)<br>
 Marco Miozzo, CTTC (Spain)

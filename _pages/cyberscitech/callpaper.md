@@ -11,7 +11,7 @@ permalink: /cyberscitech/callpaper/
 <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/CyberSciTech2026_CFP.pdf" target=_new>here</a></b> ** </h5>
 
 <hr/>
-<h4 style="font-weight: bold">For Regular Papers<h4>
+<h4 style="font-weight: bold">For Regular Papers</h4>
 <hr/>
 
 <h4>Track 1: Cyberspace Theory & Technology</h4>
@@ -63,7 +63,7 @@ Cyber Life & Human Centric Computing
 <br/>Augmented/Mixed Reality & Metaverse
 
 <hr/>
-<h4 style="font-weight: bold">For WiP/Poster/Workshop/Special Session Papers<h4>
+<h4 style="font-weight: bold">For WiP/Poster/Workshop/Special Session Papers</h4>
 <hr/>
 
 <h4>WiP (Work-in-Progress) Track</h4>

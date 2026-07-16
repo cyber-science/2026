@@ -10,7 +10,7 @@ permalink: /picom/callpaper/
 <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/PICom2026_CFP.pdf" target=_new>here</a></b> ** </h5>
 
 <hr/>
-<h4 style="font-weight: bold">For Regular Papers<h4>
+<h4 style="font-weight: bold">For Regular Papers</h4>
 <hr/>
 
 <h4>Track 1: Next Gen Pervasive AI and Generative AI</h4>
@@ -70,7 +70,7 @@ ML for resource allocation at the Edge
 
 
 <hr/>
-<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers</h4>
 <hr/>
 
 <h4>WiP (Work-in-Progress) and Late Breaking Innovation (LBI)</h4>
@@ -85,7 +85,7 @@ The track covers all the topics but it is aimed at
 PICom workshops and special sessions are listed <a href="/2026/picom/acceptworkshops/"><b>here</b></a>
 
 <hr/>
-<h4 style="font-weight: bold">For Late Breaking Innovation Papers<h4>
+<h4 style="font-weight: bold">For Late Breaking Innovation Papers</h4>
 <hr/>
 <h4>LBI (Late Breaking Innovation) Track</h4>
 The LBI track accommodates cutting-edge research across all<br/>

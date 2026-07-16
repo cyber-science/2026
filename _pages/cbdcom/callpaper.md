@@ -12,7 +12,7 @@ permalink: /cbdcom/callpaper/
 
 
 <hr/>
-<h4 style="font-weight: bold">For Regular Papers<h4>
+<h4 style="font-weight: bold">For Regular Papers</h4>
 <hr/>
 
 
@@ -61,7 +61,7 @@ Cloud & Big Data Networking
 
 
 <hr/>
-<h4 style="font-weight: bold">For WiP/Workshop/Poster/Special Session Papers<h4>
+<h4 style="font-weight: bold">For WiP/Workshop/Poster/Special Session Papers</h4>
 <hr/>
 
 <h4>WiP (Work-in-Progress) Track</h4>

@@ -10,7 +10,7 @@ permalink: /dasc/callpaper/
 <h5> ** Download the full <b>CFP <a href="http://cyber-science.org/2026/assets/files/DASC2026_CFP.pdf" target=_new>here</a></b> ** </h5>
 
 <hr/>
-<h4 style="font-weight: bold">For Regular Papers<h4>
+<h4 style="font-weight: bold">For Regular Papers</h4>
 <hr/>
 
 <h4>Track 1. Dependability, Reliability, and Fault Tolerance</h4>
@@ -29,7 +29,7 @@ permalink: /dasc/callpaper/
 <br/>•	Self-adaptive security architecture, techniques, and algorithms 
 <br/>•	Security protocols for CPS, IoT, and autonomous systems (e.g., vehicles, drones, robots)
 <br/>•	Data protection for networked systems and storage systems
-<br/>•	Privacy-preserving techniques for distributed and autonomous system
+<br/>•	Privacy-preserving techniques for distributed and autonomous systems
 <br/>•	Blockchain for trustworthy and secure system design
 <br/>•	Cryptographic methods for secure computing, storage, and communication  
 <br/>•	Post-quantum cryptography for future-proof security
@@ -75,7 +75,7 @@ Self-Organization and Organic Computing
 
 
 <hr/>
-<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers<h4>
+<h4 style="font-weight: bold">For WiP/Workshop/Special Session Papers</h4>
 <hr/>
 
 <h4>WiP (Work-in-Progress) Track</h4>
