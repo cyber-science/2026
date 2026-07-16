@@ -7,8 +7,8 @@ permalink: /dasc/organization/
 <h3>DASC 2026 Organizing Committee</h3>
 <hr/>
 
-<h4>Honorary Chairs</h4>
-TBD
+<h4>Honorary Chair</h4>
+Wanlei Zhou, City University of Macau (Macau SAR, China)
 
 <h4>General Chairs</h4>
 Robert Deng, Singapore Management University (Singapore)<br>
