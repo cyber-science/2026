@@ -28,7 +28,7 @@ international academic conferences.
       </tr>
       <tr>
         <th scope="row">Address</th>
-        <td><a href="https://www.google.com/maps/search/?api=1&amp;query=RMIT%20Building%2080%20445%20Swanston%20Street%20Melbourne%20VIC%203000" target="_blank">445 Swanston Street, Melbourne VIC 3000, Australia</a></td>
+        <td><a href="https://www.google.com/maps/search/?api=1&amp;query=RMIT%20Building%2080%20445%20Swanston%20Street%20Melbourne%20VIC%203000" target="_blank">445 Swanston Street, Melbourne VIC 3000, Australia</a> (<a href="https://uri.amap.com/marker?position=144.96333,-37.80833&amp;name=RMIT%20Building%2080%20(Swanston%20Academic%20Building)&amp;coordinate=wgs84&amp;callnative=1" target="_blank">高德地图</a>)</td>
       </tr>
       <tr>
         <th scope="row">Campus</th>
