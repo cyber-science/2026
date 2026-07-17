@@ -78,7 +78,22 @@
 | 澳航 墨尔本—伦敦希思罗（复航） | 2026-10-25 | 已写入页面（"from late October 2026"） |
 | 芬兰航空 墨尔本—曼谷（—赫尔辛基） | 2026-10-26 | Wikipedia 航线表 |
 
-## 6. 机场交通信息源（页面第二节）
+## 6. 航线地图的更新方法
+
+页面顶部的航线图 `assets/images/transportation/melbourne-flight-routes.svg` 由
+`_notes/generate_flight_map.py` 生成（纯 Python，无第三方依赖）。航线变动时：
+
+1. 修改脚本顶部的 `CITIES`（全年直飞）/ `SPECIAL`（季节性/未开航，虚线）列表，与页面表格保持一致；
+2. 运行：
+   ```
+   curl -sL "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson" -o /tmp/ne_110m_land.geojson
+   python3 _notes/generate_flight_map.py /tmp/ne_110m_land.geojson assets/images/transportation/melbourne-flight-routes.svg
+   ```
+3. 记得同步更新 SVG 内右下角的日期文字（脚本里搜 "Routes as of"）。
+
+地图数据 Natural Earth 为公有领域，无版权问题。
+
+## 7. 机场交通信息源（页面第二节）
 
 - SkyBus 票价/班次：https://www.skybus.com.au/fares/ 、https://www.skybus.com.au/melbourne-city-express/ （现为 A$24.60 单程 / A$43.40 往返，24小时运营，高峰约10分钟一班）；
 - 会场地址：RMIT City campus, 124 La Trobe Street, Melbourne VIC 3000（紧邻 Melbourne Central 站）；

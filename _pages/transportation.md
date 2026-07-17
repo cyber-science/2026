@@ -15,6 +15,17 @@ flights to around 70 destinations worldwide, with one-stop connections available
 major cities.
 </p>
 
+<div class="mb-2">
+  <object type="image/svg+xml" data="/2026/assets/images/transportation/melbourne-flight-routes.svg" style="width:100%;" aria-label="Map of non-stop flight routes to Melbourne">
+    <img src="/2026/assets/images/transportation/melbourne-flight-routes.svg" class="img-fluid" alt="Map of non-stop flight routes to Melbourne">
+  </object>
+</div>
+<p>
+<small class="text-muted">Non-stop routes to Melbourne as of July 2026 — hover over a
+route or city for the operating airlines. Solid lines are year-round services; dashed
+lines are seasonal or launching in late 2026.</small>
+</p>
+
 <p>
 Major non-stop international routes to Melbourne include:
 </p>
