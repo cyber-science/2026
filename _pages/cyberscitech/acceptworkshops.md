@@ -28,7 +28,7 @@ permalink: /cyberscitech/acceptworkshops/
 
 <li><a href="/2026/assets/files/ws-ss/cst/HMGI2026_CFP.pdf" target="_new"><u>International Workshop on Human-Centered Multimodal and Generative Intelligence for Cyber-Physical-Social Systems (HMGI-CPSS 2026)</u></a></li>
 
-<li><a href="/2026/assets/files/ws-ss/cst/HADC2026_CFP.pdf" target="_new"><u>The 2nd International Workshop on Human-centered AI and Digital Coaching</u></a></li>
+<li><a href="/2026/assets/files/ws-ss/cst/HADC2026_CFP.pdf" target="_new"><u>The 2nd International Workshop on Human-centered AI and Digital Coaching (HAIDC 2026)</u></a></li>
 
 <!-- <li><a href="https://gai-hyperi.github.io/" target="_new"><u>The 2nd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2025)</u></a></li>
 
