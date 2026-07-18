@@ -60,6 +60,6 @@ Md Zakirul Alam Bhuiyan, Fordham University (USA)
 <h4>Advisory Committee</h4>
 Naohiro Hayashibara, Future University Hakodate (Japan)<br>
 Takaki Nakamura, Tohoku University (Japan)<br>
-Zonghua Zhang, CRSC Co. (China)
-
+Zonghua Zhang, CRSC Co. (China)<br>
+Tao Ban, NICT (Japan)
 
