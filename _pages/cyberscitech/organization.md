@@ -92,7 +92,9 @@ Qiangfu Zhao, The University of Aizu (Japan)<br>
 Qinggou Zhou, Lanzhou University (China)<br>
 John Paul C. Vergara, Ateneo de Manila University (Philippines)<br>
 Wei Lu, Beijing Jiaotong University (China)<br>
-Zhihui Lv, Fudan University (China)
+Zhihui Lv, Fudan University (China)<br>
+Benxiong Huang, Huazhong University of Science and Technology (China)<br>
+Liming Chen, Dalian University of Technology (China)
 
 <h4>Steering Committee</h4>
 Jianhua Ma (Chair), Hosei University (Japan)<br>
