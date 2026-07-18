@@ -26,6 +26,10 @@ permalink: /cyberscitech/acceptworkshops/
 
 <li><a href="/2026/assets/files/ws-ss/cst/BigCyberSecurity2026-CFP.pdf" target="_new"><u>The 8th IEEE International Workshop on Big Data Analytics for Cyber Security and Defence (BigCyberSecurity 2026)</u></a></li>
 
+<li><a href="/2026/assets/files/ws-ss/cst/HMGI2026_CFP.pdf" target="_new"><u>International Workshop on Human-Centered Multimodal and Generative Intelligence for Cyber-Physical-Social Systems (HMGI-CPSS 2026)</u></a></li>
+
+<li><a href="/2026/assets/files/ws-ss/cst/HADC2026_CFP.pdf" target="_new"><u>The 2nd International Workshop on Human-centered AI and Digital Coaching</u></a></li>
+
 <!-- <li><a href="https://gai-hyperi.github.io/" target="_new"><u>The 2nd International Workshop on Generative AI and Hyper Intelligence (GAI-HyperI 2025)</u></a></li>
 
 <li><a href="/2025/assets/files/ws-ss/cst/PAICM2025_CFP.pdf" target="_new"><u>The International Workshop on Physical-Aware Intelligence and Cognitive Modelling (PAICM 2025)</u></a></li>
