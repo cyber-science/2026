@@ -60,7 +60,9 @@ Amar Khelloufi, Shenzhen University of Information Technology (China)
 
 <h4>Advisory Committee</h4>
 Noriaki Kamiyama, Ritsumeikan University (Japan)<br>
-Masaki Aida, Tokyo Metropolitan University (Japan)
+Masaki Aida, Tokyo Metropolitan University (Japan)<br>
+Zengwei Zheng, Hangzhou City University (China)<br>
+Carson Leung, University of Manitoba (Canada）
 
 <h4>Steering Committee</h4>
 Jianhua Ma, Hosei University (Japan)<br>
