@@ -15,7 +15,7 @@ TBA -->
 </ol>
 -->
 
-<h3>Workshops - IEEE PICom 2025</h3>
+<h3>Workshops - IEEE PICom 2026</h3>
 <hr/>
 <ol>
 <li><a href="https://qudis.icar.cnr.it/" target=_new><u>The 2nd International Workshop on Quantum Computing for Distributed Systems (QuDiS 2026)</u></a></li>
