@@ -61,5 +61,6 @@ Md Zakirul Alam Bhuiyan, Fordham University (USA)
 Naohiro Hayashibara, Future University Hakodate (Japan)<br>
 Takaki Nakamura, Tohoku University (Japan)<br>
 Zonghua Zhang, CRSC Co. (China)<br>
-Tao Ban, NICT (Japan)
+Tao Ban, NICT (Japan)<br>
+Tatsuhiro Tsuchiya, Osaka University (Japan)
 
