@@ -41,7 +41,7 @@ The panel will be organised as an interactive discussion session. Invited paneli
 <b>Format:</b> Invited panel discussion<br/>
 <b>Duration:</b> 60-90 minutes<br/>
 <b>Panel Chairs:</b><br/>
-Prof. Yang Xiang, Swinburne University of Technology, Australia<br/>
+Prof. Yang Xiang, Monash University, Australia<br/>
 A/Prof. Chao Chen, RMIT University, Australia<br/>
 <br/>
 <b>Panel Speakers:</b> TBA<br/>
@@ -58,10 +58,10 @@ Dr. Wanlun Ma, Swinburne University of Technology, Australia<br/>
 <img src="{{ '/assets/images/panel_speaker/yang_xiang.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Prof. Yang Xiang</b></h5>
 <h6>
-Swinburne University of Technology, Australia
+Monash University, Australia
 </h6>
 <p style="text-align: justify;">
-<b>Biography: </b> Professor Yang Xiang is a Full Professor and Director of the Digital Capability Research Platform at Swinburne University of Technology, Australia, and a Fellow of the IEEE. His research spans cybersecurity and artificial intelligence, with particular expertise in software security, network systems, and the privacy and robustness of algorithms. Over more than two decades he has authored over 300 peer-reviewed publications in premier venues including ACM CCS, IEEE S&amp;P, and USENIX Security.
+<b>Biography: </b> Professor Yang Xiang is a Full Professor at Monash University, Australia, and a Fellow of the IEEE. His research spans cybersecurity and artificial intelligence, with particular expertise in software security, network systems, and the privacy and robustness of algorithms. Over more than two decades he has authored over 300 peer-reviewed publications in premier venues including ACM CCS, IEEE S&amp;P, and USENIX Security.
 <br/>
 He serves as Editor-in-Chief of SpringerBriefs in Information Security and Cryptography and as Associate Editor of ACM Computing Surveys, and has previously served as Associate Editor for several IEEE Transactions focused on dependable computing and distributed systems. He is a current member of the Australian Research Council's College of Experts. Through the Digital Capability Research Platform he established, his work emphasises translating academic research into practical applications across the manufacturing, healthcare, energy, finance, and transportation sectors.
 </p>

@@ -14,7 +14,7 @@ Elisa Bertino, Purdue University (USA)
 <h4>General Chairs</h4>
 Robert Deng, Singapore Management University (Singapore)<br>
 Willy Susilo, University of Wollongong (Australia)<br>
-Yang Xiang, Swinburne University of Technology (Australia)
+Yang Xiang, Monash University (Australia)
 
 <h4>General Executive Chairs</h4>
 Chao Chen, RMIT University (Australia)<br>
