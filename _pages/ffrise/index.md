@@ -7,7 +7,7 @@ permalink: /ffrise/
 <h3 style="text-align: center;">
   FFRise: Forum for Future Research, Innovation and Education<br/>
   Shaping the Future in the Age of LLMs<br/>
-  Date and Time: TBA
+  Date: November 9-13, 2026
 </h3>
 
 <hr/>
