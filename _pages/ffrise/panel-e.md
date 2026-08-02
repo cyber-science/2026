@@ -7,7 +7,7 @@ permalink: /ffrise/panel-e/
 <h3 style="text-align: center;">
   Panel-E | Education in the Age of LLMs
 </h3>
-<p style="text-align: center;"><small>(Part of <a href="/2026/ffrise/">FFRise Forum</a>)</small></p>
+<p style="text-align: center;"><small>(Part of <a href="/2026/ffrise/"><u>FFRise Forum</u></a>)</small></p>
 
 <hr/>
 
@@ -27,6 +27,6 @@ When knowledge is available on demand and AI can explain, question, and generate
 
 ## Contact
 
-<p>Email: <a href="mailto:ffrise.forum@gmail.com">ffrise.forum@gmail.com</a></p>
+<p>Email: <a href="mailto:ffrise.forum@gmail.com"><u>ffrise.forum@gmail.com</u></a></p>
 
-<p><a href="/2026/ffrise/">&larr; Back to FFRise Forum</a></p>
+<p><a href="/2026/ffrise/"><u>&larr; Back to FFRise Forum</u></a></p>

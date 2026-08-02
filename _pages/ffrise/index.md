@@ -27,19 +27,19 @@ FFRise brings together researchers, innovators, educators, and forward-looking t
 
 ## Three Panels, One Future
 
-<h5><b><a href="/2026/ffrise/panel-r/">Panel-R | Research in the Age of LLMs</a></b></h5>
+<h5><b><a href="/2026/ffrise/panel-r/"><u>Panel-R | Research in the Age of LLMs</u></a></b></h5>
 <p><i>How will LLMs change the way knowledge is discovered?</i></p>
 <p style="text-align: justify;">
 From data-intensive science and the &ldquo;Fourth Paradigm&rdquo; to AI-assisted reasoning and autonomous scientific discovery, Panel-R explores how LLMs may transform the research process itself: asking questions, forming hypotheses, connecting knowledge across disciplines, designing experiments, and accelerating discovery.
 </p>
 
-<h5><b><a href="/2026/ffrise/panel-i/">Panel-I | Innovation in the Age of LLMs</a></b></h5>
+<h5><b><a href="/2026/ffrise/panel-i/"><u>Panel-I | Innovation in the Age of LLMs</u></a></b></h5>
 <p><i>How will LLMs change the way new ideas become solutions?</i></p>
 <p style="text-align: justify;">
 Innovation has traditionally depended on human creativity, experience, and methodologies such as TRIZ. Panel-I explores how LLMs, combined with data and computational intelligence, may make innovation more dynamic, scalable, and collaborative &mdash; while opening new possibilities for human-AI co-creation.
 </p>
 
-<h5><b><a href="/2026/ffrise/panel-e/">Panel-E | Education in the Age of LLMs</a></b></h5>
+<h5><b><a href="/2026/ffrise/panel-e/"><u>Panel-E | Education in the Age of LLMs</u></a></b></h5>
 <p><i>How will LLMs change the way we teach, learn, and think?</i></p>
 <p style="text-align: justify;">
 When knowledge is available on demand and AI can explain, question, and generate, education faces a fundamental challenge: what should humans learn, and how should they learn it? Panel-E explores LLMs not merely as answer machines, but as potential tutors, Socratic partners, and tools for personalized learning and cognitive empowerment.
@@ -116,4 +116,4 @@ Lifei Wang, Hosei University, Japan
 
 ## Contact
 
-<p>Email: <a href="mailto:ffrise.forum@gmail.com">ffrise.forum@gmail.com</a></p>
+<p>Email: <a href="mailto:ffrise.forum@gmail.com"><u>ffrise.forum@gmail.com</u></a></p>
