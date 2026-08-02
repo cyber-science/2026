@@ -5,10 +5,9 @@ permalink: /ffrise/panel-r/
 ---
 
 <h3 style="text-align: center;">
-  Panel-R | Research in the Age of LLMs<br/>
-  Date: November 9-13, 2026
+  Panel-R | Research in the Age of LLMs
 </h3>
-<p style="text-align: center;">Part of the <a href="/2026/ffrise/">FFRise Forum</a>: Shaping the Future in the Age of LLMs</p>
+<p style="text-align: center;">Part of the <a href="/2026/ffrise/">FFRise Forum</a> &mdash; Shaping the Future in the Age of LLMs</p>
 
 <hr/>
 
