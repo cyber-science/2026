@@ -70,7 +70,7 @@ FFRise is not about predicting a predetermined future. It is about bringing diff
 Whether you are a researcher, innovator, educator, student, or simply curious about what lies ahead, we invite you to join the conversation. Engage with leading international experts, gain fresh insights into AI-driven research, innovation, and education, and explore together how LLMs may reshape the way we discover, create, and learn.
 </p>
 
-<p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #cc0000;">Research. Innovate. Educate. Rise together.</p>
+<p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #156082;">Research. Innovate. Educate. Rise together.</p>
 
 <hr/>
 
