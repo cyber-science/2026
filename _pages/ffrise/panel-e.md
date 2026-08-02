@@ -23,4 +23,10 @@ When knowledge is available on demand and AI can explain, question, and generate
 
 <p>TBA</p>
 
+<hr/>
+
+## Contact
+
+<p>Email: <a href="mailto:ffrise.forum@gmail.com">ffrise.forum@gmail.com</a></p>
+
 <p><a href="/2026/ffrise/">&larr; Back to FFRise Forum</a></p>

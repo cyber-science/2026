@@ -111,3 +111,9 @@ Zhejiang Normal University, China
 
 Wanlun Ma, Swinburne University of Technology, Australia<br/>
 Lifei Wang, Hosei University, Japan
+
+<hr/>
+
+## Contact
+
+<p>Email: <a href="mailto:ffrise.forum@gmail.com">ffrise.forum@gmail.com</a></p>
