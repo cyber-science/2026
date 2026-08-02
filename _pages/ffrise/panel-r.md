@@ -8,7 +8,7 @@ permalink: /ffrise/panel-r/
   Panel-R | Research in the Age of LLMs<br/>
   &mdash; How will LLMs change the way knowledge is discovered?
 </h3>
-<p style="text-align: center;">Part of the <a href="/2026/ffrise/">FFRise Forum</a> &mdash; Shaping the Future in the Age of LLMs</p>
+<p style="text-align: center;"><small>(Part of <a href="/2026/ffrise/">FFRise Forum</a>)</small></p>
 
 <hr/>
 

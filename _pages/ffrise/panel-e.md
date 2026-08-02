@@ -7,7 +7,7 @@ permalink: /ffrise/panel-e/
 <h3 style="text-align: center;">
   Panel-E | Education in the Age of LLMs
 </h3>
-<p style="text-align: center;">Part of the <a href="/2026/ffrise/">FFRise Forum</a> &mdash; Shaping the Future in the Age of LLMs</p>
+<p style="text-align: center;"><small>(Part of <a href="/2026/ffrise/">FFRise Forum</a>)</small></p>
 
 <hr/>
 
