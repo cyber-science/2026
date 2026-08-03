@@ -5,13 +5,12 @@ permalink: /ffrise/panel-i/
 ---
 
 <h3 style="text-align: center;">
-  Panel-I | Innovation in the Age of LLMs
+  Panel-I | Innovation in the Age of LLMs<br/>
+  <em style="font-size: 0.75em; font-weight: normal;">&mdash; How will LLMs change the way new ideas become solutions?</em>
 </h3>
 <p style="text-align: center;"><small>(Part of <a href="/2026/ffrise/"><u>FFRise Forum</u></a>)</small></p>
 
 <hr/>
-
-<p><i>How will LLMs change the way new ideas become solutions?</i></p>
 
 <p style="text-align: justify;">
 Innovation has traditionally depended on human creativity, experience, and methodologies such as TRIZ. Panel-I explores how LLMs, combined with data and computational intelligence, may make innovation more dynamic, scalable, and collaborative &mdash; while opening new possibilities for human-AI co-creation.

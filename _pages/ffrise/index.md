@@ -6,7 +6,7 @@ permalink: /ffrise/
 
 <h3 style="text-align: center;">
   FFRise: Forum for Future Research, Innovation and Education<br/>
-  &mdash; Shaping the Future in the Age of LLMs
+  <em style="font-size: 0.75em; font-weight: normal;">&mdash; Shaping the Future in the Age of LLMs</em>
 </h3>
 
 <hr/>

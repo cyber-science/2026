@@ -6,7 +6,7 @@ permalink: /ffrise/panel-r/
 
 <h3 style="text-align: center;">
   Panel-R | Research in the Age of LLMs<br/>
-  &mdash; How will LLMs change the way knowledge is discovered?
+  <em style="font-size: 0.75em; font-weight: normal;">&mdash; How will LLMs change the way knowledge is discovered?</em>
 </h3>
 <p style="text-align: center;"><small>(Part of <a href="/2026/ffrise/"><u>FFRise Forum</u></a>)</small></p>
 
