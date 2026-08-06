@@ -45,6 +45,16 @@ Athabasca University, Canada
 </p>
 <div style="clear: both; height: 1em;"></div>
 
+<img src="{{ '/assets/images/ffrise/wei_lu.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Wei Lu</b></h5>
+<h6>
+Beijing Jiaotong University, China
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Dr Wei Lu is currently the Dean of the Software Engineering School, Beijing Jiaotong University. He is a recipient of the Special Government Allowance of the State Council as an education expert. His research focuses on software service science and engineering, artificial intelligence and big data. He also serves as the Chairman of The Pilot Software Engineering Schools Association (PSESA), and the Vice Chairman of the Steering Committee for Software Engineering Majors under the Ministry of Education. His achievements include the First Prize of 6th National Teaching Achievement Award and the Outstanding Achievement Award for the 20th Anniversary of National Pilot Software Schools. He has received honorary titles such as &ldquo;Beijing Model Worker for Educational Innovation&rdquo; and &ldquo;Star of Capital Citizen for Lifelong Learning&rdquo;.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
 <hr/>
 
 ## Panelists
