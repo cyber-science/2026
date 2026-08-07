@@ -18,6 +18,30 @@ Innovation has traditionally depended on human creativity, experience, and metho
 
 <hr/>
 
+## Panel Chairs
+
+<img src="{{ '/assets/images/ffrise/qing_li.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Qing Li</b></h5>
+<h6>
+The Hong Kong Polytechnic University, Hong Kong
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Qing Li is currently a Chair Professor (Data Science) and the Head of the Department of Computing, the Hong Kong Polytechnic University. Formerly, he was the founding Director of the Multimedia software Engineering Research Centre (MERC), and a Professor at City University of Hong Kong where he worked in the Department of Computer Science from 1998 to 2018. Prior to these, he has also taught at the Hong Kong University of Science and Technology and the Australian National University (Canberra, Australia). Prof. Li served as a consultant to Microsoft Research Asia (Beijing, China), Motorola Global Computing and Telecommunications Division (Tianjin Regional Operations Center), and the Division of Information Technology, Commonwealth Scientific and Industrial Research Organization (CSIRO) in Australia. He has been an Adjunct Professor of the University of Science and Technology of China (USTC) and the Wuhan University, and a Guest Professor of the Hunan University (Changsha, China) where he got his BEng. degree from the Department of Computer Science in 1982. He is also a Guest Professor (Software Technology) of the Zhejiang University (Hangzhou, China) &mdash; the leading university of the Zhejiang province where he was born. Prof. Li has been actively involved in the research community by serving as an associate editor and reviewer for technical journals, and as an organizer/co-organizer of numerous international conferences. Some recent conferences in which he is playing or has played major roles include APWeb-WAIM'18, ICDM 2018, WISE2017, ICDSC2016, DASFAA2015, U-Media2014, ER2013, RecSys2013, NDBC2012, ICMR2012, CoopIS2011, WAIM2010, DASFAA2010, APWeb-WAIM'09, ER'08, WISE'07, ICWL'06, HSI'05, WAIM'04, IDEAS'03, VLDB'02, PAKDD'01, IFIP 2.6 Working Conference on Database Semantics (DS-9), IDS'00, and WISE'00. In addition, he served as a programme committee member for over fifty international conferences (including VLDB, ICDE, WWW, DASFAA, ER, CIKM, CAiSE, CoopIS, and FODO). He is currently a Fellow of IEEE and IET/IEE, a member of ACM-SIGMOD and IEEE Technical Committee on Data Engineering. He is the chairperson of the Hong Kong Web Society, and also served/is serving as an executive committee (EXCO) member of IEEE-Hong Kong Computer Chapter and ACM Hong Kong Chapter. In addition, he serves as a councilor of the Database Society of Chinese Computer Federation (CCF), a member of the Big Data Expert Committee of CCF, and is a Steering Committee member of DASFAA, ER, ICWL, UMEDIA, and WISE Society.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<img src="{{ '/assets/images/ffrise/zhong_chen.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Zhong Chen</b></h5>
+<h6>
+Beijing Normal-Hong Kong Baptist University, China
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Professor Chen, an internationally renowned expert, scholar and educator in computer science, has served at Peking University (PKU) for more than 30 years. He received his PhD from PKU in 1989, subsequently joining its CS department, and he was promoted as a full professor in 1995. Over the years, Professor Chen has held several key roles including Founding Dean of the School of Software and Microelectronics, Chairman of Computer Science Department, and Director of Key-Lab of Network and Software Assurance Technology Ministry of Education. Prior to joining Beijing Normal-Hong Kong Baptist University, he served at the School of Computer Science and Director of the Metaverse Technology Institute, as well as the Director of the Network and Information Security Laboratory and the Blockchain Research Centre, PKU.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<hr/>
+
 ## Panelists
 
 <img src="{{ '/assets/images/ffrise/toshiaki_miyazaki.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
