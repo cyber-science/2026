@@ -35,16 +35,6 @@ At the same time, the adoption of GenAI in education also raises important chall
 
 ## Panel Chairs
 
-<img src="{{ '/assets/images/ffrise/oscar_lin.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
-<h5><b>Prof. Oscar Lin</b></h5>
-<h6>
-Athabasca University, Canada
-</h6>
-<p style="text-align: justify;">
-<b>Biography: </b> Prof. Oscar Lin is a professor and former Chair of the School of Computing and Information Systems, Faculty of Science and Technology, at Athabasca University, Canada. His research interests are artificial intelligence in education, intelligent tutoring systems, and virtual reality. Dr. Lin has developed varied AI tools for education such as summative assessment, formative assessment, academic advising, and industrial training. He has more than 180 publications. He has served as General Chair or Program Chair of international conferences, including the IEEE Smart World Congress 2025, the IEEE Cyber Science and Technology Congress 2021 and 2022, and Intelligent Tutoring Systems 2024. He has also served as a senior program member of the International Conference on AI in Education and as Editor-in-Chief of the International Journal of Distance Education Technologies. He currently serves as Associate Editor of the International Journal on Computers and Education: X-Reality and Vice-Chair of the Smart World Task Force of IEEE Computational Intelligence.
-</p>
-<div style="clear: both; height: 1em;"></div>
-
 <img src="{{ '/assets/images/ffrise/wei_lu.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Prof. Wei Lu</b></h5>
 <h6>
@@ -52,6 +42,16 @@ Beijing Jiaotong University, China
 </h6>
 <p style="text-align: justify;">
 <b>Biography: </b> Dr Wei Lu is currently the Dean of the Software Engineering School, Beijing Jiaotong University. He is a recipient of the Special Government Allowance of the State Council as an education expert. His research focuses on software service science and engineering, artificial intelligence and big data. He also serves as the Chairman of The Pilot Software Engineering Schools Association (PSESA), and the Vice Chairman of the Steering Committee for Software Engineering Majors under the Ministry of Education. His achievements include the First Prize of 6th National Teaching Achievement Award and the Outstanding Achievement Award for the 20th Anniversary of National Pilot Software Schools. He has received honorary titles such as &ldquo;Beijing Model Worker for Educational Innovation&rdquo; and &ldquo;Star of Capital Citizen for Lifelong Learning&rdquo;.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<img src="{{ '/assets/images/ffrise/oscar_lin.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Oscar Lin</b></h5>
+<h6>
+Athabasca University, Canada
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Prof. Oscar Lin is a professor and former Chair of the School of Computing and Information Systems, Faculty of Science and Technology, at Athabasca University, Canada. His research interests are artificial intelligence in education, intelligent tutoring systems, and virtual reality. Dr. Lin has developed varied AI tools for education such as summative assessment, formative assessment, academic advising, and industrial training. He has more than 180 publications. He has served as General Chair or Program Chair of international conferences, including the IEEE Smart World Congress 2025, the IEEE Cyber Science and Technology Congress 2021 and 2022, and Intelligent Tutoring Systems 2024. He has also served as a senior program member of the International Conference on AI in Education and as Editor-in-Chief of the International Journal of Distance Education Technologies. He currently serves as Associate Editor of the International Journal on Computers and Education: X-Reality and Vice-Chair of the Smart World Task Force of IEEE Computational Intelligence.
 </p>
 <div style="clear: both; height: 1em;"></div>
 
