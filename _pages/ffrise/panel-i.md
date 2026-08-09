@@ -48,10 +48,10 @@ The Hong Kong Polytechnic University, Hong Kong
 <img src="{{ '/assets/images/ffrise/zhong_chen.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Prof. Zhong Chen</b></h5>
 <h6>
-Beijing Normal-Hong Kong Baptist University, China
+Peking University and BNBU, China
 </h6>
 <p style="text-align: justify;">
-<b>Biography: </b> Zhong Chen, Ph.D., is Chair Professor and Dean of the School of AI and Liberal Arts, Beijing Normal-Hong Kong Baptist University, Professor and Founding Director of Metaverse Technology Institute in School of Computer Sciences at Peking University. Dr. Chen graduated and earned his Ph.D degree from Computer Science and Technology Department of Peking University in 1989, and then joined the faculty of computer science in Peking University. He became full professor in 1995. He was a visiting professor of UCLA from 2001 to 2002. He has been assumed the founding dean position of the School of Software and Microelectronics, Peking University from 2002 to 2010, Chairman of CS department from 2011-2015. Prof. Chen is the fellow and managing director of China Computer Federation (CCF), Vice Director of the Steering Committee of Higher Education on Computer Science and Technology of China, Vice-Chair of China Software Industry Association and Vice-Chair of China Open Source Software Promotion Union (COPU), Director of FinTech and Algorithms Expert Committee of China Society for Industrial and Applied Mathematics (CSIAM). His research interests include Domain-specific Software Engineering (especially in Banking and Financing, e-Commerce, Digital Government etc.) enterprise digital transformation, smart service applications, AI &amp; Security, Blockchain and Web3 etc. He has published more than 200 research papers and Five academic books. He has supervised 35 Ph.D. and more than 100 Masters. He received the 1st Prize National Higher Education Teaching Achievements Award in 2005 and Excellent Teacher Awards for Computer Science and Technology by China Teacher Development Foundation in 2019.
+<b>Biography: </b> Zhong Chen is currently a Chair Professor and Dean of the School of AI and Liberal Arts, Beijing Normal-Hong Kong Baptist University (BNBU), Professor and Founding Director of Metaverse Technology Institute in School of Computer Sciences at Peking University. Formerly, he has been assumed the founding dean position of the School of Software and Microelectronics, Peking University from 2002 to 2010, Chairman of CS department from 2011-2015. He is the fellow and managing director of China Computer Federation (CCF), Vice Director of the Steering Committee of Higher Education on Computer Science and Technology of China, Vice-Chair of China Open Source Software Promotion Union (COPU), Director of FinTech and Algorithms Expert Committee of China Society for Industrial and Applied Mathematics (CSIAM) etc.
 </p>
 <div style="clear: both; height: 1em;"></div>
 
@@ -66,6 +66,26 @@ National Institute of Advanced Industrial Science and Technology (AIST), Japan
 </h6>
 <p style="text-align: justify;">
 <b>Biography: </b> Dr. Toshiaki Miyazaki is an Invited Senior Researcher at the National Institute of Advanced Industrial Science and Technology (AIST), Japan. He served as President and Chair of the Board of Executives of the University of Aizu, Fukushima, Japan, from April 2020 to July 2023. Prior to this appointment, he held several leadership positions at the University of Aizu, including Dean of the School of Computer Science and Engineering (2014&ndash;2020), Chair of the Graduate Department of Computer and Information Systems (2008&ndash;2014), Director of the Center for Advanced Information Science and Technology (CAIST) (2013&ndash;2014), Deputy Director of CAIST (2012&ndash;2013), and Deputy Director of the Revitalization Center (2013&ndash;2014). His research interests include AI accelerators, reconfigurable hardware systems, adaptive networking technologies, wireless sensor networks, and autonomous systems. Before joining the University of Aizu, he spent 22 years at NTT Laboratories, where he conducted research on VLSI CAD systems, telecommunications-oriented field-programmable gate arrays (FPGAs) and their applications, active networking, peer-to-peer communications, and ubiquitous networking environments. Dr. Miyazaki has authored or coauthored more than 400 technical publications and holds 52 patents. He is a Member of The Engineering Academy of Japan (EAJ) and a Senior Member of IEEE, the Information Processing Society of Japan (IPSJ), and the Institute of Electronics, Information and Communication Engineers (IEICE).
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<img src="{{ '/assets/images/ffrise/lizhen_cui.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Lizhen Cui</b></h5>
+<h6>
+Shandong University, China
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Lizhen Cui (IET Fellow), is a Professor at Shandong University. He received his Ph.D. degree from Shandong University in 2005, and has been a faculty member at Shandong University since 2006. Since 2019, he has been serving as Dean of the School of Software, Co-Dean of the Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), and Deputy Director of the National Engineering Laboratory for E-Commerce Transaction Technologies. He is a recipient of the National High-Level Talent program, Chief Scientist of the National Key R&amp;D Program of China. His research interests include software and data engineering, and trustworthy artificial intelligence. He has led over 30 national and provincial research projects, published more than 200 high-level academic papers, and has been listed among the top 2% of scientists worldwide. As the primary contributor, he has won the National Teaching Achievement Second Prize, Shandong Province Science and Technology Progress First Prize, and the Ministry of Education Scientific Research Outstanding Achievement Second Prize, among others.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<img src="{{ '/assets/images/ffrise/qiangfu_zhao.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Qiangfu Zhao</b></h5>
+<h6>
+Zhejiang Normal University, China
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Professor Qiangfu Zhao graduated from Tohoku University with a Doctor of Engineering degree in Electronic Engineering in 1988. From 1991 to 1993, he was an associate professor at Beijing Institute of Technology; from 1993 to 1995, he was an associate professor at Tohoku University (Japan); from 1995 to 1999, he was an associate professor at the University of Aizu (Japan); since 1999, he has been a tenured full professor at the U-Aizu. He became Professor Emeritus of U-Aizu and started the second life at Zhejiang Normal University from April 2026. He served as the Vice President of U-Aizu; AEs of several international journals; and chair of the Technical Committee on Awareness Computing, IEEE SMC Society. Professor Zhao published more than 200 academic papers related to optimal system design, signal processing, image processing/recognition, neural computing, evolutionary computing, awareness computing, and machine learning in international journals and international conferences.
 </p>
 <div style="clear: both; height: 1em;"></div>
 
