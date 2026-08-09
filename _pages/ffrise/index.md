@@ -40,7 +40,7 @@ Innovation has traditionally depended on human creativity, experience, and metho
 </p>
 
 <h5><b><a href="/2026/ffrise/panel-e/"><u>Panel-E | Education in the Age of LLMs</u></a></b></h5>
-<p><i>How will LLMs change the way we teach, learn, and think?</i></p>
+<p><i>How will LLMs influence teaching and learning?</i></p>
 <p style="text-align: justify;">
 When knowledge is available on demand and AI can explain, question, and generate, education faces a fundamental challenge: what should humans learn, and how should they learn it? Panel-E explores LLMs not merely as answer machines, but as potential tutors, Socratic partners, and tools for personalized learning and cognitive empowerment.
 </p>
