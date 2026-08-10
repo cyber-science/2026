@@ -59,7 +59,15 @@ The University of Melbourne, Australia
 
 ## Panelists
 
-<p>TBA</p>
+<img src="{{ '/assets/images/ffrise/xiaokang_wang.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Xiaokang Wang</b></h5>
+<h6>
+Zhengzhou University, China
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Xiaokang Wang is a professor with School of Computer Science and Artificial Intelligence, Zhengzhou University, China. He got his Ph. D degree in Computer Architecture from Huazhong University of Science and Technology, China, in 2017. His research interests include Cyber-Physical-Social Intelligence, Parallel and Distributed Computing, and Tensor Decomposition. He authored more than 70 papers published in many high-quality journals including IEEE TC, IEEE TNNLS, IEEE TII. He serves as the Program Chair or Executive Chair of the 2026 IEEE HPCC, 2025 IEEE UIC, 2024 IEEE ISPA, 2023 IEEE ICPADS. He is the recipient of 2017 IEEE TCSC Outstanding Ph. D Dissertation Award, 2019 IEEE SCSTC Raising Star Award, 2021 IEEE TCSC Early Career Award and 2023 IEEE HITC Early Career Award. He is the winner of the Best Paper Award of 2021 IEEE Transactions on Sustainable Computing. He has been ranked in the Elsevier and Stanford University&rsquo;s top 2% of Scientists list from 2021 to 2025.
+</p>
+<div style="clear: both; height: 1em;"></div>
 
 <hr/>
 

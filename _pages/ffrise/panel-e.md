@@ -92,9 +92,13 @@ Hangzhou City University, China
 </p>
 <div style="clear: both; height: 1em;"></div>
 
+<img src="{{ '/assets/images/ffrise/benxiong_huang.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Prof. Benxiong Huang</b></h5>
+<h6>
+Huazhong University of Science and Technology, China
+</h6>
 <p style="text-align: justify;">
-<b>Biography: </b> TBA
+<b>Biography: </b> Dr. Benxiong Huang is a professor at the School of Electronic Information and Communications in Huazhong University of Science and Technology, vice director of National Engineering Laboratory of Next generation Internet access system. His research interests cover Cyber-Physical-Social Systems, Service Computing, Big data and Industrial Intelligence. He is the laureate of Fund for Distinguished Young Scholar of Hubei province, and served as Chairman of the third YOCSEF in Hubei province, member of specialist group of the National Basic Research Program of China (973 Program).
 </p>
 <div style="clear: both; height: 1em;"></div>
 
