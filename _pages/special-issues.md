@@ -19,7 +19,7 @@ Guest Editors:
 <br/>
 Prof. Ke Yan　- Hunan University, Changsha (China), Dr. Vincent Gan -National University of Singapore, Singapore City (Singapore), Prof. Amy Trappey,National Tsing Hua University, Hsinchu　(Taiwan), Prof. Fu Xiao - The Hong Kong Polytechnic University, Hong Kong (Hong Kong)
 </li>
-<li>Selected papers will be recommended for submission of an extended version to <a href="https://www.emeraldgrouppublishing.com/journal/ijpcc" target=_new><b><u>the International Journal of Pervasive Computing and Communications (IJPCC)</u></b></a>, published by Emerald and Wiley, with fast-track processing. IJPCC also welcomes proposals for special issues on topics related to the four conferences. </i>
+<li>Selected papers will be recommended for submission of an extended version to <a href="https://www.emeraldgrouppublishing.com/journal/ijpcc" target=_new><b><u>the International Journal of Pervasive Computing and Communications (IJPCC)</u></b></a>, published by Emerald and Wiley, with fast-track processing. IJPCC also welcomes proposals for special issues on topics related to the four conferences.
 </li>
 
 
