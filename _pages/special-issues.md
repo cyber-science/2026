@@ -19,6 +19,9 @@ Guest Editors:
 <br/>
 Prof. Ke Yan　- Hunan University, Changsha (China), Dr. Vincent Gan -National University of Singapore, Singapore City (Singapore), Prof. Amy Trappey,National Tsing Hua University, Hsinchu　(Taiwan), Prof. Fu Xiao - The Hong Kong Polytechnic University, Hong Kong (Hong Kong)
 </li>
+<li>Selected papers will be recommended for submission of an extended version to the International Journal of Pervasive Computing and Communications (IJPCC), published by Emerald and Wiley, with fast-track processing. IJPCC also welcomes proposals for special issues on topics related to the four conferences. <a href="https://www.emeraldgrouppublishing.com/journal/ijpcc" target=_new></i>
+</li>
+
 
 <!-- 
 <li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP_Security-Aware_Distributed_and_Collaborative_Learning_for_Resource-Limited_Consumer_Electronics_-_V1_online.pdf" target=_new><b><u>Security-Aware Distributed and Collaborative Learning for Resource-Limited Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
