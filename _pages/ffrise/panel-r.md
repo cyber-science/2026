@@ -69,6 +69,16 @@ Zhengzhou University, China
 </p>
 <div style="clear: both; height: 1em;"></div>
 
+<img src="{{ '/assets/images/ffrise/prem_prakash_jayaraman.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Prem Prakash Jayaraman</b></h5>
+<h6>
+Swinburne University of Technology, Australia
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Prof. Jayaraman is a globally recognised researcher and academic leader in the areas of digital manufacturing, distributed systems, and emerging technologies. He serves as Director of Swinburne&rsquo;s Factory of the Future and Digital Innovation Lab, and as Deputy Director of the ARC Industrial Transformation Research Hub for Future Digital Manufacturing. He leads Australia&rsquo;s only university-based Industry 5.0 program for small-to-medium enterprises, delivered by industry professionals to help manufacturing businesses navigate the transition to advanced digital manufacturing technologies. His research spans distributed systems, the Internet of Things, and applied AI, and has attracted over $20 million in competitive external research funding from industry, government, and the Australian Research Council. He has co-authored over 170 papers in several highly ranked journals and has been ranked in the top 2% of the world&rsquo;s most cited researchers by Clarivate Analytics every year since 2021. Prof. Jayaraman has received three Vice-Chancellor Awards for excellence in translating research into industry outcomes and impact.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
 <hr/>
 
 ## Coordinators
