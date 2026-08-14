@@ -102,6 +102,16 @@ Huazhong University of Science and Technology, China
 </p>
 <div style="clear: both; height: 1em;"></div>
 
+<img src="{{ '/assets/images/ffrise/zhen_liu.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Zhen Liu</b></h5>
+<h6>
+Wenzhou Medical University, China
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Liu Zhen is a foreign fellow of the Engineering Academy of Japan (EAJ). He is currently a professor and academic dean at the School of Rehabilitation Medicine, Wenzhou Medical University. Also, he is serving as a chief scientist of artificial intelligence and dean of innovation research institute at iRest health technology company, Zhejiang, China. He is an honorary professor at Nagasaki Institute of Applied Science, Japan. His bachelor degree of Engineering and Master&rsquo;s degree of Engineering from Jilin University of Technology, China, and PhD in Information Science from Tohoku University, Japan. His main research areas include artificial intelligence, big data and data mining, and welfare engineering.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
 <hr/>
 
 ## Coordinators
