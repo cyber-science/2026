@@ -45,7 +45,8 @@ Ruichen Cong, Waseda University (Japan)<br>
 Lin Li, Southern Cross University (Australia)
 
 <h4>Social Media &amp; Publicity Chair</h4>
-Di Wu, La Trobe University (Australia)
+Di Wu, La Trobe University (Australia)<br>
+Tao Ban, NICT (Japan)
 
 <h4>Web Chair</h4>
 Jiaheng Wei, RMIT University (Australia)
