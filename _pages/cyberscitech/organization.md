@@ -38,9 +38,10 @@ Yan Huang, Kennesaw State University (USA)<br>
 Xiaoyan Wang, Ibaraki University (Japan)<br>
 Weimin Li, Shanghai University (China)<br>
 S. Leili Mirtaheri, University of Calabria (Italy)<br>
-Qin Wang, CSIRO (Australia)<br>
 Lai Tu, Huazhong University of Sci. & Tech. (China)<br>
-Chen Yang, Institute of Software CAS (China)
+Chen Yang, Institute of Software CAS (China)<br>
+Qin Wang, CSIRO (Australia)<br>
+Binbin Zhou, Hangzhou City University (China)
 
 <h4>Workshop &amp; Special Session Chairs</h4>
 Pan Wang, Nanjing University of Posts and Telecommunications (China)<br>
