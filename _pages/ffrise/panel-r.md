@@ -79,6 +79,36 @@ Swinburne University of Technology, Australia
 </p>
 <div style="clear: both; height: 1em;"></div>
 
+<img src="{{ '/assets/images/ffrise/yan_wang.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Yan Wang</b></h5>
+<h6>
+Macquarie University, Australia
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Yan Wang is a Full Professor in the School of Computing at Macquarie University, Australia, and Research Director of the Macquarie University Frontier AI Research Centre (FAIR). His research interests include responsible/trustworthy AI, data and predictive analytics, AI safety and security, trust management, and social computing. His research has been published in leading international conferences including AAAI, AAMAS, ICDE, IJCAI, KDD, NeurIPS, SIGIR, and WWW, and in journals including CSUR, TIST, TKDE, TOIS, TSC, and TWEB. Prof. Wang has served on the editorial boards of several international journals, including IEEE Transactions on Services Computing (TSC) and ACM Transactions on Intelligent Systems and Technology (TIST). He has also served as a General Co-Chair or Program Co-Chair for more than 10 international conferences. He received the 2017 IEEE TC-SVC Outstanding Service Award from the IEEE Technical Committee on Services Computing (TCSVC), IEEE Computer Society.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<img src="{{ '/assets/images/ffrise/seng_loke.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Seng Loke</b></h5>
+<h6>
+Deakin University, Australia
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Seng Loke is a Professor in Computer Science at the School of Information Technology, Deakin University, Australia. He currently holds, and has previously held, multiple leadership roles within the university, including serving as co-director of the Robotics &amp; Internet of Things Lab and, previously, as Director of the Centre for Software, Systems &amp; Society (CS3) at Deakin&rsquo;s School of Information Technology. He also previously served as an Adjunct Professor in both the School of Engineering and Mathematical Sciences at La Trobe University and the School of Business and Tourism at Southern Cross University. Seng Loke&rsquo;s research interests mostly relate to the concept of the Internet of Things, ranging from distributed systems, smart/AI things, urban robots, and smarter cities to cooperative vehicles, edge computing, pervasive computing, IoT-assisted AgeTech, ethics for smart devices, and quantum Internet computing. He coordinates the Deakin University Quantum Computing Research Network, a Deakin University-wide network focusing on quantum computing and its applications. He recently wrote <em>From Distributed Quantum Computing to Quantum Internet Computing: An Introduction</em> (Wiley, November 2023). He also co-wrote <em>The Automated City: Internet of Things and Ubiquitous Artificial Intelligence</em> (Springer, 2021).
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<img src="{{ '/assets/images/ffrise/naohiro_hayashibara.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Naohiro Hayashibara</b></h5>
+<h6>
+Kyoto Sangyo University, Japan
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Naohiro Hayashibara is a Professor in the Faculty of Information Science and Engineering at Kyoto Sangyo University, Japan. He received his PhD in Information Science from the Japan Advanced Institute of Science and Technology (JAIST) in 2004, where he then worked as a postdoctoral fellow until 2005. He was a Research Associate at Tokyo Denki University, Japan, from 2005 to 2008 and joined Kyoto Sangyo University in 2008. From 2022 to 2023, he was an Invited Professor at the University of Neuch&acirc;tel, Switzerland. His research interests include distributed systems and algorithms, system dependability, security, and metaheuristics. He leads the Dependable Distributed Systems Laboratory at Kyoto Sangyo University. His recent work focuses on the design and evaluation of algorithms for large-scale distributed systems and security protocols. He has been actively involved in the international research community, serving as General Chair of IEEE PRDC 2024 and IEEE DASC 2025.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
 <hr/>
 
 ## Coordinators
