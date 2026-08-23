@@ -69,6 +69,16 @@ National Institute of Advanced Industrial Science and Technology (AIST), Japan
 </p>
 <div style="clear: both; height: 1em;"></div>
 
+<img src="{{ '/assets/images/ffrise/jiannong_cao.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Jiannong Cao</b></h5>
+<h6>
+The Hong Kong Polytechnic University, Hong Kong
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Professor Cao is currently the Otto Poon Charitable Foundation Professor in Data Science, Chair Professor of Distributed and Mobile Computing in the Department of Computing at The Hong Kong Polytechnic University (PolyU). He is also the Vice President (Education) and Director of the Institute for Higher Education Research and Development (IHERD) at PolyU. He served as Head of the Department of Computing, Dean of the Graduate School, and Head of the College of Undergraduate Researchers and Innovators (CURI), and the founding director of Research Institute for AIoT and University Research Facility in Big Data Analytics at PolyU. Professor Cao is a member of Academia Europaea, a fellow of the Hong Kong Academy of Engineering, a fellow of IEEE, a fellow of the CCF, and a distinguished member of the ACM. He served as the Chair of the Technical Committee on Distributed Computing of the IEEE Computer Society from 2012 to 2014. In 2017, he received the Overseas Outstanding Contribution Award from the China Computer Federation.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
 <img src="{{ '/assets/images/ffrise/lizhen_cui.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Prof. Lizhen Cui</b></h5>
 <h6>
