@@ -4,10 +4,13 @@ layout: sub
 permalink: /ffrise/
 ---
 
-<h3 style="text-align: center;">
-  FFRise: Forum for Future Research, Innovation and Education<br/>
-  <em style="font-size: 0.75em; font-weight: normal;">&mdash; Shaping the Future in the Age of LLMs</em>
-</h3>
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1.2em;">
+  <img src="{{ '/assets/images/ffrise/ffrise_logo.jpg' | relative_url }}" alt="FFRise logo" style="width: 130px; height: auto; flex: 0 0 auto;">
+  <h3 style="text-align: center; margin: 0;">
+    FFRise: Forum for Future Research, Innovation and Education<br/>
+    <em style="font-size: 0.75em; font-weight: normal;">&mdash; Shaping the Future in the Age of LLMs</em>
+  </h3>
+</div>
 
 <hr/>
 
@@ -70,6 +73,10 @@ Whether you are a researcher, innovator, educator, student, or simply curious ab
 </p>
 
 <p style="text-align: center; font-size: 1.6em; font-weight: bold; color: #156082;">Research. Innovate. Educate. Rise together.</p>
+
+<p style="text-align: center;">
+  <img src="{{ '/assets/images/ffrise/ffrise_banner.jpg' | relative_url }}" alt="FFRise: Research, Innovation, Education &mdash; three perspectives, one future" style="width: 100%; max-width: 720px; height: auto;">
+</p>
 
 <hr/>
 
