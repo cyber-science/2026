@@ -1,0 +1,74 @@
+---
+title: Camera-Ready Submissions
+layout: sub
+permalink: /crs-test/
+---
+
+<style>
+        .important {
+            color: red;
+            font-weight: bold;
+        }
+        .highlight {
+            background-color: yellow;
+        }
+    </style>
+
+
+<h3>Camera Ready Paper Submission</h3>
+<hr/>
+
+<p><font color="red"><b>*** Test page for internal review &mdash; items marked <span class="highlight">TBD</span> are not final. ***</b></font></p>
+
+<p><font color="red"><b>Important: The camera-ready submission will be made through IEEE CPS (Conference Publishing Services), NOT EDAS! </b></font></p>
+
+<p>
+Please read the following notice before uploading your paper (for 2026 CyberSciTech, DASC, PICom, CBDCom, and all associated workshops/special sessions). The page limits are:
+  </p>
+<p>
+<ol><li>Regular Papers: 8 + 2 extra pages for purchase, <span class="highlight">TBD</span> per extra page 
+  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, <span class="highlight">TBD</span> per extra page
+  </li></ol>
+</p>
+<p>  
+Camera ready submissions must follow the following template format:
+<br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc"><u>https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc</u></a>
+  <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
+  </p>
+
+<p>
+The final upload deadline is <span class="highlight">TBD</span>.
+</p>
+
+<p>
+<font color="red"><b>
+Each conference has its own CPS submission portal.  
+Authors must submit their camera-ready paper and copyright form to the correct portal below.
+</b></font>
+</p>
+
+<p>
+<font color="red"><b>
+CPS Submission Links:<br>
+<ol><li> CyberSciTech 2026: <span class="highlight">TBD</span><br>
+</li><li> DASC 2026: <span class="highlight">TBD</span><br>
+</li><li> PICom 2026: <span class="highlight">TBD</span><br>
+</li><li> CBDCom 2026: <span class="highlight">TBD</span>
+</li></ol>
+</b></font>
+</p>
+
+<p>
+During preparation of your final camera-ready manuscript, <b>any change to the list of authors and paper title must be informed with valid reasons by emailing 
+  <a href="mailto:ieeecyberscitech@gmail.com"><u>ieeecyberscitech@gmail.com</u></a>
+  and must be approved by the conference chairs before <span class="highlight">TBD (the final upload deadline)</span></b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
+</p>
+<p>
+
+If you have any questions, please e-mail them to  <a href="mailto:ieeecyberscitech@gmail.com"><u>ieeecyberscitech@gmail.com</u></a>,  with the full author names and paper ID (the 10 digital ID number given by EDAS).
+</p>
+<h4>Registration</h4>
+<p>
+All author/presenter registrations must be done by <span class="highlight">TBD</span>. The detailed registration instructions can be found on this page: 
+  <br /><a href="https://cyber-science.org/2026/registration/"><u>https://cyber-science.org/2026/registration/</u></a> 
+ </p>
