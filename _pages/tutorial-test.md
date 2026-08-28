@@ -11,6 +11,7 @@ permalink: /tutorial-test/
 
 <h4>Resilient Delivery Pipelines: A Hands-On Kubernetes Tutorial on A/B Deployment, CI/CD Automation, and Observability-Driven Operations</h4>
 <h5>Tutorial Time: TBD (3 hours)</h5>
+<img src="{{ '/assets/images/tutorial_speaker/tony_de_souza-daw.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Dr Tony de Souza-Daw</b></h5>
 <h6>
 La Trobe University, Australia
