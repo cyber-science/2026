@@ -34,7 +34,7 @@ permalink: /registration-test/
 <ul>
 <h4>Registration and Payment Instructions</h4>
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee.</li>
-<li> <b>The author must register and pay the registration and all other applicable fees on or before <span class="highlight">TBD</span>. <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
+<li> <b>The author must register and pay the registration and all other applicable fees on or before September 24, 2026. <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
 <li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be presently enrolled. The student should attach and send a copy (through the student&rsquo;s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <span class="highlight">TBD (2026 registration contact)</span>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
 <li> Full registration includes free participation to all sessions, conference proceedings, coffee breaks, lunches, welcome reception, gala dinner. </li>
@@ -53,7 +53,7 @@ permalink: /registration-test/
 <li><b>The invitation letter will only be sent to you after the conference has verified your information and full payment of the registration and all other applicable fees are received</b>.</li>
 </ul>
 <br>
- <p><span class="important">IMPORTANT: Author/Presenter Registration: <span class="highlight">TBD</span></span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): <span class="highlight">TBD</span> per extra page <br>
+ <p><span class="important">IMPORTANT: Author/Presenter Registration: September 1 - September 24, 2026</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): AUD 150 per extra page <br>
     <table>
         <tr>
             <th colspan="2">Co-author/No-paper Advance Registration (<span class="highlight">TBD</span>)</th>
@@ -136,7 +136,7 @@ permalink: /registration-test/
 <table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: left;">
   <tr style="background-color:#f2f2f2;">
     <th>Additional Tickets (per person)</th>
-    <th>Cost (<span class="highlight">currency TBD</span>)</th>
+    <th>Cost (AUD)</th>
     <th>Note</th>
   </tr>
   <tr>

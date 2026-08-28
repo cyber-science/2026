@@ -26,8 +26,8 @@ permalink: /crs-test/
 Please read the following notice before uploading your paper (for 2026 CyberSciTech, DASC, PICom, CBDCom, and all associated workshops/special sessions). The page limits are:
   </p>
 <p>
-<ol><li>Regular Papers: 8 + 2 extra pages for purchase, <span class="highlight">TBD</span> per extra page 
-  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, <span class="highlight">TBD</span> per extra page
+<ol><li>Regular Papers: 8 + 2 extra pages for purchase, AUD 150 per extra page 
+  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, AUD 150 per extra page
   </li></ol>
 </p>
 <p>  
@@ -37,7 +37,7 @@ Camera ready submissions must follow the following template format:
   </p>
 
 <p>
-The final upload deadline is <span class="highlight">TBD</span>.
+The final upload deadline is October 1, 2026.
 </p>
 
 <p>
@@ -61,7 +61,7 @@ CPS Submission Links:<br>
 <p>
 During preparation of your final camera-ready manuscript, <b>any change to the list of authors and paper title must be informed with valid reasons by emailing 
   <a href="mailto:ieeecyberscitech@gmail.com"><u>ieeecyberscitech@gmail.com</u></a>
-  and must be approved by the conference chairs before <span class="highlight">TBD (the final upload deadline)</span></b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
+  and must be approved by the conference chairs before October 1, 2026</b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
 </p>
 <p>
 
@@ -69,6 +69,6 @@ If you have any questions, please e-mail them to  <a href="mailto:ieeecyberscite
 </p>
 <h4>Registration</h4>
 <p>
-All author/presenter registrations must be done by <span class="highlight">TBD</span>. The detailed registration instructions can be found on this page: 
+All author/presenter registrations must be done by September 24, 2026. The detailed registration instructions can be found on this page: 
   <br /><a href="https://cyber-science.org/2026/registration/"><u>https://cyber-science.org/2026/registration/</u></a> 
  </p>
