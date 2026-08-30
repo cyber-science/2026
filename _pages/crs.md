@@ -17,7 +17,9 @@ permalink: /crs/
 
 <h3>Camera Ready Paper Submission</h3>
 <hr/>
-TBA
+<p>
+Detailed camera-ready submission instructions (page limits, paper templates, the IEEE CPS submission links, and the final upload deadline) <span class="important">will be posted here on September 1, 2026</span>. Please check this page for updates.
+</p>
 
 <!-- 
 

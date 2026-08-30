@@ -26,7 +26,11 @@ permalink: /registration/
         }
     </style>
 
-TBA
+<h3>Registration and Invitation Letter</h3>
+<hr/>
+<p>
+Detailed registration information (registration fees, payment instructions, the registration link, and the invitation letter request procedure) <span class="important">will be posted here on September 1, 2026</span>. Please check this page for updates.
+</p>
 
 <!-- 
 <h3>Registration and Invitation Letter</h3>
