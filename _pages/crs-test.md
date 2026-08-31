@@ -50,10 +50,10 @@ Authors must submit their camera-ready paper and copyright form to the correct p
 <p>
 <font color="red"><b>
 CPS Submission Links:<br>
-<ol><li> CyberSciTech 2026: <span class="highlight">TBD</span><br>
-</li><li> DASC 2026: <span class="highlight">TBD</span><br>
-</li><li> PICom 2026: <span class="highlight">TBD</span><br>
-</li><li> CBDCom 2026: <span class="highlight">TBD</span>
+<ol><li> CyberSciTech 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/2LYLPybDLx0psLU2UQhQay" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/2LYLPybDLx0psLU2UQhQay</u></a><br>
+</li><li> DASC 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/3Ilt5UblVyLn8i2OerNOpe" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/3Ilt5UblVyLn8i2OerNOpe</u></a><br>
+</li><li> PICom 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/2uFtcCNxn8RfjcSv8KxlpP" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/2uFtcCNxn8RfjcSv8KxlpP</u></a><br>
+</li><li> CBDCom 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/275gM3McB2voYLuIzdLj1N" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/275gM3McB2voYLuIzdLj1N</u></a>
 </li></ol>
 </b></font>
 </p>
