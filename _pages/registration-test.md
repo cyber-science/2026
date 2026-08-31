@@ -31,19 +31,21 @@ permalink: /registration-test/
 
 <p><font color="red"><b>*** Test page for internal review &mdash; items marked <span class="highlight">TBD</span> are not final. ***</b></font></p>
 
-<ul>
 <h4>Registration and Payment Instructions</h4>
+<ul>
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee.</li>
 <li> <b>The author must register and pay the registration and all other applicable fees on or before September 24, 2026. <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
-<li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be the first author and presently enrolled. The student should attach and send a copy (through the student&rsquo;s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <a href="mailto:registration@intelliaevents.com.au"><u>registration@intelliaevents.com.au</u></a>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
+<li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be <b>the first author</b> and presently enrolled. The student should attach and send a copy (through the student&rsquo;s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <a href="mailto:registration@intelliaevents.com.au"><u>registration@intelliaevents.com.au</u></a>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
 <li> Full registration includes free participation to all sessions, conference proceedings, coffee breaks, lunches, welcome reception, gala dinner. </li>
 <li> Additional pages (maximum of 2 pages) can be purchased during the registration process. Likewise, additional tickets for the welcome reception and gala dinner are also available for purchase during the registration process.</li>
 <li> Payments by credit card or bank wire transfer are available in the registration system, see link below.</li>
 <li> Questions and queries regarding registration, email to <a href="mailto:registration@intelliaevents.com.au"><u>registration@intelliaevents.com.au</u></a>.</li>
 <li><span class="important">Link to Registration Page:</span> <span class="highlight">TBD</span></li>
-<br>
+</ul>
+
 <h4>Invitation Letter</h4>
+<ul>
 <!-- 2025 also offered a paid visa-document support service (JPY 5,000, Conference Service Inc.); add an equivalent bullet here if a 2026 service exists -->
 <li>The invitation letter will be automatically sent to you after the conference has verified your information and full payment of the registration and all other applicable fees are received.</li>
 </ul>
