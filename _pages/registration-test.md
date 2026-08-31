@@ -36,14 +36,10 @@ permalink: /registration-test/
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee.</li>
 <li> <b>The author must register and pay the registration and all other applicable fees on or before September 24, 2026. <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
-<li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be presently enrolled. The student should attach and send a copy (through the student&rsquo;s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <span class="highlight">TBD (2026 registration contact)</span>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
+<li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be the first author and presently enrolled. The student should attach and send a copy (through the student&rsquo;s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <span class="highlight">TBD (2026 registration contact)</span>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
 <li> Full registration includes free participation to all sessions, conference proceedings, coffee breaks, lunches, welcome reception, gala dinner. </li>
-<li> Additional pages (maximum of 2 pages) can be purchased during the registration process. Likewise, additional tickets for lunches, welcome reception, gala dinner are also available for purchase during the registration process.</li>
-<li> Payments by credit card or bank wire transfer are available. Since bank wire transfer takes a long time to process, we encourage you to pay by credit card. <b>However, if bank wire transfer is the only option, please do the bank transaction as soonest so the payment will arrive on time. Be reminded that all bank charges and fees (i.e., sending and receiving banks) will be paid by the applicant. After completing your bank wire transfer transaction, please email (pdf file) a copy of your bank transfer receipt or certificate to </b> <span class="highlight">TBD (2026 registration contact)</span>. <br>The conference must receive the registration and all other additional purchase payments in full. </li>
-<li> 
-<b>Receiving Bank information details:</b><br>
-<span class="highlight">TBD (2026 bank account details)</span><br>
-</li>
+<li> Additional pages (maximum of 2 pages) can be purchased during the registration process. Likewise, additional tickets for the welcome reception and gala dinner are also available for purchase during the registration process.</li>
+<li> Payments by credit card or bank wire transfer are available in the registration system, see link below.</li>
 <li> Questions and queries regarding registration, email to <span class="highlight">TBD (2026 registration email)</span>.</li>
 <li><span class="important">Link to Registration Page:</span> <span class="highlight">TBD</span></li>
 <br>
@@ -60,23 +56,23 @@ permalink: /registration-test/
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,080</td>
         </tr>
         <tr>
             <td>IEEE Non Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,300</td>
         </tr>
         <tr>
             <td>IEEE Student Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 760</td>
         </tr>
         <tr>
             <td>IEEE Student Non-Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 915</td>
         </tr>
         <tr>
             <td>IEEE Life Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 595</td>
         </tr>
     </table>
 <table>
@@ -85,23 +81,23 @@ permalink: /registration-test/
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,250</td>
         </tr>
         <tr>
             <td>IEEE Non Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,500</td>
         </tr>
         <tr>
             <td>IEEE Student Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 875</td>
         </tr>
         <tr>
             <td>IEEE Student Non-Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,050</td>
         </tr>
         <tr>
             <td>IEEE Life Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 690</td>
         </tr>
     </table>
 <table>
@@ -110,23 +106,23 @@ permalink: /registration-test/
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,250</td>
         </tr>
         <tr>
             <td>IEEE Non Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,500</td>
         </tr>
         <tr>
             <td>IEEE Student Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 875</td>
         </tr>
         <tr>
             <td>IEEE Student Non-Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 1,050</td>
         </tr>
         <tr>
             <td>IEEE Life Member Fee</td>
-            <td><span class="highlight">TBD</span></td>
+            <td>AUD 690</td>
         </tr>
     </table>
 <p class="important">Notes:</p>
@@ -140,31 +136,26 @@ permalink: /registration-test/
     <th>Note</th>
   </tr>
   <tr>
-    <td rowspan="3">Gala Dinner</td>
-    <td>20 yrs. old and above: <span class="highlight">TBD</span></td>
+    <td>Gala Dinner</td>
+    <td>180</td>
     <td></td>
-  </tr>
-  <tr>
-    <td>13 ~ 19 yrs. old: <span class="highlight">TBD</span></td>
-    <td>Same menu as adult but NO alcoholic drinks</td>
-  </tr>
-  <tr>
-    <td>~ 12 yrs. old: <span class="highlight">TBD</span></td>
-    <td>Child set menu but NO alcoholic drinks</td>
   </tr>
   <tr>
     <td>Welcome Reception</td>
-    <td><span class="highlight">TBD</span></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Lunch</td>
-    <td><span class="highlight">TBD</span></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Coffee Break</td>
-    <td><span class="highlight">TBD</span></td>
+    <td>110</td>
     <td></td>
   </tr>
 </table>
+
+
+<h4>Refund Policy</h4>
+<p>
+All cancellation and refund requests must be made in writing to the registration contact above.
+</p>
+<ul>
+<li>Requests received on or before September 30, 2026: the registration fee will be refunded less a 20% administrative charge.</li>
+<li>Requests received from October 1, 2026 onwards: no refund will be issued.</li>
+</ul>
+<p>
+Non-attendance without a written cancellation request is treated as a no-show and is not refundable. Refunds are returned to the original payment method after the conference, net of any bank or transaction charges.
+</p>
