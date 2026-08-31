@@ -101,7 +101,6 @@ permalink: /registration-test/
     </table>
 <p class="important">Notes:</p>
 <p class="important">For Late Registration, the system will be activated on the above specified date/period.</p>
-<p class="important">For On-site Registration, please prepare the exact amount in cash.</p>
 
 <table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: left;">
   <tr style="background-color:#f2f2f2;">
