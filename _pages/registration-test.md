@@ -36,23 +36,22 @@ permalink: /registration-test/
 <li> At least one author of an accepted paper must register and present the paper. On-site and online presenters pay the same registration fee.</li>
 <li> <b>The author must register and pay the registration and all other applicable fees on or before September 24, 2026. <br>If the conference does not receive your full payment within the specified period, your paper and registration will be cancelled.</b> </li>
 <li> Active IEEE Membership status will be verified. Non-active members cannot qualify for IEEE membership discount. </li>
-<li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be the first author and presently enrolled. The student should attach and send a copy (through the student&rsquo;s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <span class="highlight">TBD (2026 registration contact)</span>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
+<li> To avail of the IEEE Student Member/Non-IEEE Student Member discounted rates, the student must be the first author and presently enrolled. The student should attach and send a copy (through the student&rsquo;s university email address) of his/her student ID or a certificate of registration (pdf file) from your dean to <a href="mailto:registration@intelliaevents.com.au"><u>registration@intelliaevents.com.au</u></a>, with Subject: Student ID/Registration- your EDAS registration ID number (conference code + 10-digit nos., ex.-Student ID/Registration-DASC-1234567891). </li>
 <li> Full registration includes free participation to all sessions, conference proceedings, coffee breaks, lunches, welcome reception, gala dinner. </li>
 <li> Additional pages (maximum of 2 pages) can be purchased during the registration process. Likewise, additional tickets for the welcome reception and gala dinner are also available for purchase during the registration process.</li>
 <li> Payments by credit card or bank wire transfer are available in the registration system, see link below.</li>
-<li> Questions and queries regarding registration, email to <span class="highlight">TBD (2026 registration email)</span>.</li>
+<li> Questions and queries regarding registration, email to <a href="mailto:registration@intelliaevents.com.au"><u>registration@intelliaevents.com.au</u></a>.</li>
 <li><span class="important">Link to Registration Page:</span> <span class="highlight">TBD</span></li>
 <br>
 <h4>Invitation Letter</h4>
-<li>If you need an invitation letter to support your visa and/or other travel application, please tick the [Required: __ ] button during the registration process. <span class="highlight">Download the Invitation Letter Request Form: TBD</span>, read carefully the instructions and fill it up. Then send it to <span class="highlight">TBD (2026 registration contact)</span>.</li>
 <!-- 2025 also offered a paid visa-document support service (JPY 5,000, Conference Service Inc.); add an equivalent bullet here if a 2026 service exists -->
-<li><b>The invitation letter will only be sent to you after the conference has verified your information and full payment of the registration and all other applicable fees are received</b>.</li>
+<li>The invitation letter will be automatically sent to you after the conference has verified your information and full payment of the registration and all other applicable fees are received.</li>
 </ul>
 <br>
  <p><span class="important">IMPORTANT: Author/Presenter Registration: September 1 - September 24, 2026</span> (At least one author of an accepted paper must register. The registration fee is the same as in Advance Registration.) <br>Extra pages (maximum of two pages): AUD 150 per extra page <br>
     <table>
         <tr>
-            <th colspan="2">Co-author/No-paper Advance Registration (<span class="highlight">TBD</span>)</th>
+            <th colspan="2">Advance Registration (on or before September 24, 2026)</th>
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
@@ -77,32 +76,7 @@ permalink: /registration-test/
     </table>
 <table>
         <tr>
-            <th colspan="2">Co-author/No-paper Late Registration (<span class="highlight">TBD</span>)</th>
-        </tr>
-        <tr>
-            <td>IEEE Member Fee</td>
-            <td>AUD 1,250</td>
-        </tr>
-        <tr>
-            <td>IEEE Non Member Fee</td>
-            <td>AUD 1,500</td>
-        </tr>
-        <tr>
-            <td>IEEE Student Member Fee</td>
-            <td>AUD 875</td>
-        </tr>
-        <tr>
-            <td>IEEE Student Non-Member Fee</td>
-            <td>AUD 1,050</td>
-        </tr>
-        <tr>
-            <td>IEEE Life Member Fee</td>
-            <td>AUD 690</td>
-        </tr>
-    </table>
-<table>
-        <tr>
-            <th colspan="2">On-site Registration (November 9-13, 2026)</th>
+            <th colspan="2">Late / On-site Registration (from September 25, 2026)</th>
         </tr>
         <tr>
             <td>IEEE Member Fee</td>
@@ -133,17 +107,14 @@ permalink: /registration-test/
   <tr style="background-color:#f2f2f2;">
     <th>Additional Tickets (per person)</th>
     <th>Cost (AUD)</th>
-    <th>Note</th>
   </tr>
   <tr>
     <td>Gala Dinner</td>
     <td>180</td>
-    <td></td>
   </tr>
   <tr>
     <td>Welcome Reception</td>
     <td>110</td>
-    <td></td>
   </tr>
 </table>
 
