@@ -3,7 +3,6 @@ title: Camera-Ready Submissions
 layout: sub
 permalink: /crs/
 ---
-
 <style>
         .important {
             color: red;
@@ -17,20 +16,15 @@ permalink: /crs/
 
 <h3>Camera Ready Paper Submission</h3>
 <hr/>
-<p>
-Detailed camera-ready submission instructions (page limits, paper templates, the IEEE CPS submission links, and the final upload deadline) <span class="important">will be posted here on September 1, 2026</span>. Please check this page for updates.
-</p>
-
-<!-- 
 
 <p><font color="red"><b>Important: The camera-ready submission will be made through IEEE CPS (Conference Publishing Services), NOT EDAS! </b></font></p>
 
 <p>
-Please read the following notice before uploading your paper (for 2025 CyberSciTech, DASC, PICom, CBDCom, and all associated workshops/special sessions). The page limits are:
+Please read the following notice before uploading your paper (for 2026 CyberSciTech, DASC, PICom, CBDCom, and all associated workshops/special sessions). The page limits are:
   </p>
 <p>
-<ol><li>Regular Papers: 8 + 2 extra pages for purchase, JPY 15,000 per extra page 
-  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, JPY 15,000 per extra page
+<ol><li>Regular Papers: 8 + 2 extra pages for purchase, AUD 150 per extra page 
+  </li><li>WiP/Special Session/Workshop Papers: 6 + 2 extra pages for purchase, AUD 150 per extra page
   </li></ol>
 </p>
 <p>  
@@ -38,44 +32,33 @@ Camera ready submissions must follow the following template format:
 <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc"><u>https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc</u></a>
   <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
   </p>
-<p> 
+
 <p>
-<del>The final upload deadline is September 12, 2025. 
-<a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new>
-<span class="important">Link to final camera-ready paper submission at IEEE CPS:</span><br>
-<u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a><br>
-><b>Note: The IEEE CPS submission portal only shows "DASC 2025". 
-This is the <u>common submission entry</u> for all four conferences 
-(CyberSciTech, DASC, PICom, and CBDCom). 
-Your paper will still be published in the correct proceedings of the respective conference.</b>
-</del>
+The final upload deadline is October 1, 2026.
 </p>
 
 <p>
 <font color="red"><b>
-Important Update (Sept. 13, 2025): Each conference has its own CPS submission portal.  
-Authors must submit their camera-ready paper and copyright form to the correct portal below.  
-The final upload deadline has been extended to <u>September 20, 2025 (Anywhere on Earth, AOE)</u>.
+Each conference has its own CPS submission portal.  
+Authors must submit their camera-ready paper and copyright form to the correct portal below.
 </b></font>
 </p>
 
 <p>
 <font color="red"><b>
-Correct CPS Submission Links:<br>
-<ol><li> CyberSciTech 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=aGnNHC12sKG7qoqUGJqe5" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=aGnNHC12sKG7qoqUGJqe5</u></a><br>
-</li><li> DASC 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=tu9Bih4udyK49lxoz9Cfp</u></a><br>
-</li><li> PICom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=7ouXBUCuTxknHCtAmiHgpt</u></a><br>
-</li><li> CBDCom 2025: <a href="https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx" target=_new><u>https://ieeecps.org/cps/v2/auth/login?ak=1&pid=1uTSkaMjbjBMAibnke1qFx</u></a>
+CPS Submission Links:<br>
+<ol><li> CyberSciTech 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/2LYLPybDLx0psLU2UQhQay" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/2LYLPybDLx0psLU2UQhQay</u></a><br>
+</li><li> DASC 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/3Ilt5UblVyLn8i2OerNOpe" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/3Ilt5UblVyLn8i2OerNOpe</u></a><br>
+</li><li> PICom 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/2uFtcCNxn8RfjcSv8KxlpP" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/2uFtcCNxn8RfjcSv8KxlpP</u></a><br>
+</li><li> CBDCom 2026: <a href="https://ieeecps.org/cps/v2/author-kit/dashboard/275gM3McB2voYLuIzdLj1N" target=_new><u>https://ieeecps.org/cps/v2/author-kit/dashboard/275gM3McB2voYLuIzdLj1N</u></a>
 </li></ol>
 </b></font>
 </p>
 
-<br/>
-</p>
 <p>
 During preparation of your final camera-ready manuscript, <b>any change to the list of authors and paper title must be informed with valid reasons by emailing 
   <a href="mailto:ieeecyberscitech@gmail.com"><u>ieeecyberscitech@gmail.com</u></a>
-  and must be approved by the conference chairs before September 20, 2025</b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
+  and must be approved by the conference chairs before October 1, 2026</b>. Failure to do so, your paper may be delayed (or even excluded) from being included in the Proceedings.
 </p>
 <p>
 
@@ -83,6 +66,6 @@ If you have any questions, please e-mail them to  <a href="mailto:ieeecyberscite
 </p>
 <h4>Registration</h4>
 <p>
-All author/presenter registrations must be done by September 10, 2025. The detailed registration instructions can be found on this page: 
-  <br /><a href="https://cyber-science.org/2025/registration/"><u>https://cyber-science.org/2025/registration/</u></a> 
- </p> -->
+All author/presenter registrations must be done by September 24, 2026. The detailed registration instructions can be found on this page: 
+  <br /><a href="https://cyber-science.org/2026/registration/"><u>https://cyber-science.org/2026/registration/</u></a> 
+ </p>
