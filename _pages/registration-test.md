@@ -41,7 +41,7 @@ permalink: /registration-test/
 <li> Additional pages (maximum of 2 pages) can be purchased during the registration process. Likewise, additional tickets for the welcome reception and gala dinner are also available for purchase during the registration process.</li>
 <li> Payments by credit card or bank wire transfer are available in the registration system, see link below.</li>
 <li> Questions and queries regarding registration, email to <a href="mailto:registration@intelliaevents.com.au"><u>registration@intelliaevents.com.au</u></a>.</li>
-<li><span class="important">Link to Registration Page:</span> <span class="highlight">TBD</span></li>
+<li><span class="important">Link to Registration Page:</span> <a href="https://registration.intelliaevents.com.au/" target=_new><u>https://registration.intelliaevents.com.au/</u></a></li>
 </ul>
 
 <h4>Invitation Letter</h4>
