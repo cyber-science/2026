@@ -6,9 +6,19 @@ permalink: /tutorial/
 <h3>Tutorial</h3>
 <hr/>
 
+<style>
+@media (max-width: 576px) {
+  .tutorial-speaker-photo {
+    float: none !important;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+}
+</style>
+
 <h4>Resilient Delivery Pipelines: A Hands-On Kubernetes Tutorial on A/B Deployment, CI/CD Automation, and Observability-Driven Operations</h4>
 <h5>Tutorial Time: TBD (3 hours)</h5>
-<img src="{{ '/assets/images/tutorial_speaker/tony_de_souza-daw.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<img src="{{ '/assets/images/tutorial_speaker/tony_de_souza-daw.jpg' | relative_url }}" class="tutorial-speaker-photo" align="left" style="border:10px solid white" width="200">
 <h5><b>Dr Tony de Souza-Daw</b></h5>
 <h6>
 La Trobe University, Australia
@@ -33,4 +43,25 @@ Participants will need to bring their own laptop, with at least 30 GB free disk 
 </p>
 <hr/>
 
-<!-- Tutorial 2 (Ao Guo) to be added when the material arrives -->
+<h4>Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation</h4>
+<h5>Tutorial Time: TBD (90 minutes; hybrid: on-site and online)</h5>
+<img src="{{ '/assets/images/tutorial_speaker/ao_guo.jpg' | relative_url }}" alt="Dr Ao Guo" class="tutorial-speaker-photo" align="left" style="border:10px solid white" width="200">
+<h5><b>Dr Ao Guo</b></h5>
+<h6>
+Assistant Professor, Department of Intelligent Systems<br/>
+Graduate School of Informatics, Nagoya University, Japan
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b>
+Spoken dialogue is becoming the primary interface to agents that have a body: virtual avatars in applications and games, and humanoid robots in shops, museums and homes.
+</p>
+<p style="text-align: justify;">
+The technology itself has also moved quickly, from turn-based pipelines that wait for silence to full-duplex models that listen and speak at once, reproducing the overlap and backchannelling of human conversation. This tutorial offers a practical route through both. The first part introduces the development of spoken dialogue systems: the classical pipeline, incremental processing, turn-taking prediction, and current full-duplex models.
+</p>
+<p style="text-align: justify;">
+The second part makes this concrete by connecting a dialogue system to a body: a virtual avatar and a simulated humanoid robot, in which speech, gesture and movement can be observed together and modified directly. Current work on connecting external actions to full-duplex models will be noted briefly, though it lies outside the main scope of the tutorial.
+</p>
+<p style="text-align: justify;">
+Through this tutorial, participants will learn how modern spoken dialogue systems are structured, how full-duplex interaction differs from turn-based interaction, and what is involved in driving a virtual avatar and a simulated humanoid robot from a dialogue system.
+</p>
+<hr/>
