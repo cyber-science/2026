@@ -29,8 +29,7 @@ Please read the following notice before uploading your paper (for 2026 CyberSciT
 </p>
 <p>  
 Camera ready submissions must follow the following template format:
-<br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc"><u>https://www.computer.org/cms/CPS/app/8x11-2/instruct8.5x11x2.doc</u></a>
-  <br /><a href="https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip"><u>https://www.computer.org/cms/CPS/app/8x11-2/IEEECS_confs_LaTeX.zip</u></a>
+<br /><a href="https://template-selector.ieee.org/" target="_blank" rel="noopener noreferrer"><u>IEEE Template Selector (Word and LaTeX templates)</u></a>
   </p>
 
 <p>
