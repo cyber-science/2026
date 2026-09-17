@@ -38,13 +38,13 @@ Education in the age of LLMs is not merely about adopting new technologies in cl
 
 ## Panel Chairs
 
-<img src="{{ '/assets/images/ffrise/wei_lu.png' | relative_url }}" align="left" style="border:10px solid white" width="200">
-<h5><b>Prof. Wei Lu</b></h5>
+<img src="{{ '/assets/images/ffrise/jiliu_zhou.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Jiliu Zhou</b></h5>
 <h6>
-Beijing Jiaotong University, China
+Chengdu University of Information Technology, China
 </h6>
 <p style="text-align: justify;">
-<b>Biography: </b> Dr Wei Lu is currently the Dean of the Software Engineering School, Beijing Jiaotong University. He is a recipient of the Special Government Allowance of the State Council as an education expert. His research focuses on software service science and engineering, artificial intelligence and big data. He also serves as the Chairman of The Pilot Software Engineering Schools Association (PSESA), and the Vice Chairman of the Steering Committee for Software Engineering Majors under the Ministry of Education. His achievements include the First Prize of 6th National Teaching Achievement Award and the Outstanding Achievement Award for the 20th Anniversary of National Pilot Software Schools. He has received honorary titles such as &ldquo;Beijing Model Worker for Educational Innovation&rdquo; and &ldquo;Star of Capital Citizen for Lifelong Learning&rdquo;.
+<b>Biography: </b> Jiliu Zhou, PhD, Professor. He previously served as President of Chengdu University of Information Technology and Chengdu University. His main research interests include computer graphics and image processing, pattern recognition and artificial intelligence, fractional-order calculus algorithms and their applications in information processing. He is a recipient of the Special Government Allowance of the State Council, winner of the Sichuan Provincial Outstanding Talent Award, a leading academic and technical talent in Sichuan Province, an expert with outstanding contributions in Sichuan Province, an innovation leader in the &ldquo;Tianfu Ten-Thousand Talents Program&rdquo;, and a Famous Teacher of Higher Education in Sichuan Province. He has received numerous awards, including the Second Class Prize of the State Natural Science Award, the First Class Prize of Natural Science from the Ministry of Education, the First, Second and Third Class Prizes of Sichuan Science and Technology Progress Award, and the First Class Prize of Sichuan Computer Science and Technology Award.
 </p>
 <div style="clear: both; height: 1em;"></div>
 
@@ -61,16 +61,6 @@ Zhejiang Normal University, China
 <hr/>
 
 ## Panelists
-
-<img src="{{ '/assets/images/ffrise/jiliu_zhou.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
-<h5><b>Prof. Jiliu Zhou</b></h5>
-<h6>
-Chengdu University of Information Technology, China
-</h6>
-<p style="text-align: justify;">
-<b>Biography: </b> Jiliu Zhou, PhD, Professor. He previously served as President of Chengdu University of Information Technology and Chengdu University. His main research interests include computer graphics and image processing, pattern recognition and artificial intelligence, fractional-order calculus algorithms and their applications in information processing. He is a recipient of the Special Government Allowance of the State Council, winner of the Sichuan Provincial Outstanding Talent Award, a leading academic and technical talent in Sichuan Province, an expert with outstanding contributions in Sichuan Province, an innovation leader in the &ldquo;Tianfu Ten-Thousand Talents Program&rdquo;, and a Famous Teacher of Higher Education in Sichuan Province. He has received numerous awards, including the Second Class Prize of the State Natural Science Award, the First Class Prize of Natural Science from the Ministry of Education, the First, Second and Third Class Prizes of Sichuan Science and Technology Progress Award, and the First Class Prize of Sichuan Computer Science and Technology Award.
-</p>
-<div style="clear: both; height: 1em;"></div>
 
 <img src="{{ '/assets/images/ffrise/chen_yang.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Dr. Chen Yang</b></h5>
