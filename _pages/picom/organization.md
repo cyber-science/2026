@@ -8,7 +8,8 @@ permalink: /picom/organization/
 <hr/>
 
 <h4>Honorary Chair</h4>
-Albert Zomaya, University of Sydney (Australia)
+Albert Zomaya, University of Sydney (Australia)<br>
+Toshiaki Miyazaki, National Institute of Advanced Industrial Science and Technology (Japan)
 
 <h4>General Chairs</h4>
 Claudio Miceli, Federal University of Rio de Janeiro (Brazil)<br>
