@@ -59,16 +59,6 @@ The University of Melbourne, Australia
 
 ## Panelists
 
-<img src="{{ '/assets/images/ffrise/xiaokang_wang.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
-<h5><b>Prof. Xiaokang Wang</b></h5>
-<h6>
-Zhengzhou University, China
-</h6>
-<p style="text-align: justify;">
-<b>Biography: </b> Xiaokang Wang is a professor with School of Computer Science and Artificial Intelligence, Zhengzhou University, China. He got his Ph. D degree in Computer Architecture from Huazhong University of Science and Technology, China, in 2017. His research interests include Cyber-Physical-Social Intelligence, Parallel and Distributed Computing, and Tensor Decomposition. He authored more than 70 papers published in many high-quality journals including IEEE TC, IEEE TNNLS, IEEE TII. He serves as the Program Chair or Executive Chair of the 2026 IEEE HPCC, 2025 IEEE UIC, 2024 IEEE ISPA, 2023 IEEE ICPADS. He is the recipient of 2017 IEEE TCSC Outstanding Ph. D Dissertation Award, 2019 IEEE SCSTC Raising Star Award, 2021 IEEE TCSC Early Career Award and 2023 IEEE HITC Early Career Award. He is the winner of the Best Paper Award of 2021 IEEE Transactions on Sustainable Computing. He has been ranked in the Elsevier and Stanford University&rsquo;s top 2% of Scientists list from 2021 to 2025.
-</p>
-<div style="clear: both; height: 1em;"></div>
-
 <img src="{{ '/assets/images/ffrise/prem_prakash_jayaraman.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Prof. Prem Prakash Jayaraman</b></h5>
 <h6>
@@ -106,6 +96,16 @@ Kyoto Sangyo University, Japan
 </h6>
 <p style="text-align: justify;">
 <b>Biography: </b> Naohiro Hayashibara is a Professor in the Faculty of Information Science and Engineering at Kyoto Sangyo University, Japan. He received his PhD in Information Science from the Japan Advanced Institute of Science and Technology (JAIST) in 2004, where he then worked as a postdoctoral fellow until 2005. He was a Research Associate at Tokyo Denki University, Japan, from 2005 to 2008 and joined Kyoto Sangyo University in 2008. From 2022 to 2023, he was an Invited Professor at the University of Neuch&acirc;tel, Switzerland. His research interests include distributed systems and algorithms, system dependability, security, and metaheuristics. He leads the Dependable Distributed Systems Laboratory at Kyoto Sangyo University. His recent work focuses on the design and evaluation of algorithms for large-scale distributed systems and security protocols. He has been actively involved in the international research community, serving as General Chair of IEEE PRDC 2024 and IEEE DASC 2025.
+</p>
+<div style="clear: both; height: 1em;"></div>
+
+<img src="{{ '/assets/images/ffrise/hiroshi_masui.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Prof. Hiroshi Masui</b></h5>
+<h6>
+Kitami Institute of Technology, Japan
+</h6>
+<p style="text-align: justify;">
+<b>Biography: </b> Hiroshi Masui is Vice President and Professor at Kitami Institute of Technology, Japan. He received his doctorate in science in 1998 and has developed an interdisciplinary research portfolio spanning computational nuclear physics, open science, and information and communication technologies. He previously served as Director of the university&rsquo;s Information Processing Center. His research connects mathematical modeling and computational methods with practical information systems. His work encompasses scholarly databases and research data management, cloud and edge computing, and tourism informatics, including bus location systems and public transport optimization. His recent collaborative research addresses edge service orchestration, privacy-preserving contact tracing, reinforcement learning for UAV-assisted disaster communications, and drone-based river monitoring. His publications have appeared in top journals including both Computer Sciences and Nuclear Physics. Combining university leadership with research across fundamental science and applied computing, he brings a broad perspective on how data, computational infrastructure, and intelligent systems can support scientific discovery and address societal challenges.
 </p>
 <div style="clear: both; height: 1em;"></div>
 
