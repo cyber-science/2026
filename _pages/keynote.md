@@ -5,7 +5,30 @@ permalink: /keynote/
 ---
 
 <h3>Keynotes</h3>
-TBA
+<hr/>
+<h4>Frontiers in Specialised AI: From Vision-Language Data Pipelines to DRL-Based Compiler Optimisation</h4>
+<img src="{{ '/assets/images/keynote_speaker/sahraoui_dhelim.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
+<h5><b>Sahraoui Dhelim, Assistant Professor</b></h5>
+<h6>
+Dublin City University, Ireland
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b> As artificial intelligence shifts from broad foundation models toward specialized engineering solutions, custom AI architectures are reshaping how we address domain-specific computational challenges. This keynote explores the power and adaptability of specialized machine learning paradigms across two distinct operational frontiers: automated multimodal dataset curation and low-level system optimization.
+<br/>
+First, we examine the deployment of Vision-Language Models (VLMs) to unlock unstructured historical artifacts by automating the digitization, transcription, and semantic tagging of complex Arabic manuscripts. We demonstrate how VLMs handle intricate calligraphic styles, diacritics, and physical degradation to synthesize high-fidelity datasets at scale. Second, we pivot to systems engineering, illustrating how Deep Reinforcement Learning (DRL) navigates the massive search spaces inherent in compiler optimization, specifically phase ordering and instruction scheduling. DRL agents learn performance heuristics that consistently outpace traditional compiler passes.
+<br/>
+By examining both domains through the lens of high-dimensional, irregular decision spaces, this talk presents actionable methodologies for designing resilient, domain-tailored AI pipelines across data-centric and compute-centric infrastructure.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Dr. Sahraoui Dhelim is the research director of the School of Computing at Dublin City University. Previously, he was a senior researcher at University College Dublin from 2021 to 2024 and a Visiting Researcher at Ulster University from 2020 to 2021.
+<br/>
+He earned his Ph.D. in Computer Science and Technology from the University of Science and Technology Beijing. He also holds a Master's degree in Networking and Distributed Systems from the University of Laghouat, and a Bachelor's degree in Computer Science from the University of Djelfa.
+<br/>
+His scholarly contributions include over 110 peer-reviewed publications, complemented by editorial responsibilities at leading journals and conferences.  He was a keynote speaker at the International Conference on Applied Artificial Intelligence and Emerging Technologies (AAIET 2025). He received the IEEE HITC Award for Excellence in Hyper-Intelligence (Technical Achievement).
+<br/>
+His professional recognition includes Fellow HEA, he also earned the Universal Design in Teaching and Learning badge. Universal Design for Learning (UDL).
+</p>
+<hr/>
 
 <!-- <hr/>
 <h4>Cache Distribution from LEO Satellites</h4>
