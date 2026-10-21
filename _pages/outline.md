@@ -74,7 +74,8 @@ permalink: /outline/
     <h2>(Hybrid: On-site/Online)</h2>
     <p>9–13 November 2026 · Melbourne, Australia · All times AEDT (UTC+11)</p>
     <p><strong>Program at a Glance</strong></p>
-    <span class="draft-badge">DRAFT — subject to change</span>
+    <span class="draft-badge">DRAFT v9.5 — subject to change</span>
+    <p>Rooms, sessions and papers: see the <a href="{{ '/program/' | relative_url }}"><u>Program Agenda</u></a>.</p>
   </div>
 
   <div class="grid">
@@ -82,18 +83,19 @@ permalink: /outline/
     <!-- DAY 1 -->
     <div class="day">
       <div class="day-head">
-        <div class="dnum">Day 1</div>
+        <div class="dnum">Day 1 · Online day</div>
         <div class="dname">Mon, 9 Nov</div>
       </div>
       <div class="slot"><span class="time">08:00 –</span><span class="what">Registration opens</span></div>
-      <div class="slot workshop"><span class="time">09:00 – 10:30</span><span class="what">Workshop &amp; Tutorial</span></div>
+      <div class="slot session"><span class="time">09:00 – 17:00</span><span class="what">Parallel Session (online)</span><span class="note">All paper sessions online; several run through the breaks</span></div>
+      <div class="slot workshop"><span class="time">09:00 – 10:30</span><span class="what">Tutorial 1, part 1 of 2</span></div>
       <div class="slot"><span class="time">10:30 – 11:00</span><span class="what">Morning Tea</span></div>
-      <div class="slot workshop"><span class="time">11:00 – 12:30</span><span class="what">Workshop &amp; Tutorial</span></div>
+      <div class="slot workshop"><span class="time">11:00 – 12:30</span><span class="what">Tutorial 1, part 2 of 2</span></div>
       <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span></div>
-      <div class="slot workshop"><span class="time">13:30 – 15:00</span><span class="what">Workshop &amp; Tutorial</span></div>
+      <div class="slot workshop"><span class="time">13:30 – 15:00</span><span class="what">Tutorial 2</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
-      <div class="slot workshop"><span class="time">15:30 – 17:00</span><span class="what">Birds-of-a-Feather (BoF)</span></div>
-      <div class="slot social"><span class="time">18:00 – 20:00</span><span class="what">Welcome Reception</span></div>
+      <div class="slot workshop"><span class="time">15:30 – 17:00</span><span class="what">Tutorial 3</span></div>
+      <div class="slot social"><span class="time">18:00 – 20:00</span><span class="what">Welcome Reception</span><span class="note">Venue TBA</span></div>
     </div>
 
     <!-- DAY 2 -->
@@ -104,10 +106,10 @@ permalink: /outline/
       </div>
       <div class="slot"><span class="time">08:30 –</span><span class="what">Registration</span></div>
       <div class="slot ceremony"><span class="time">09:00 – 09:40</span><span class="what">Opening Ceremony</span></div>
-      <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span></div>
+      <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span><span class="note">PICom · Dr Branko Ristic</span></div>
       <div class="slot"><span class="time">10:20 – 10:50</span><span class="what">Morning Tea</span></div>
-      <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel Discussion</span></div>
-      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span></div>
+      <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel I</span><span class="note">Innovation in the Age of LLMs</span></div>
+      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">Online sessions run during lunch</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
       <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
@@ -120,15 +122,14 @@ permalink: /outline/
         <div class="dname">Wed, 11 Nov</div>
       </div>
       <div class="slot"><span class="time">08:30 –</span><span class="what">Registration</span></div>
-      <div class="slot keynote"><span class="time">09:00 – 09:40</span><span class="what">Keynote</span></div>
-      <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span></div>
+      <div class="slot keynote"><span class="time">09:00 – 09:40</span><span class="what">Keynote</span><span class="note">TBA</span></div>
+      <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span><span class="note">DASC · Prof. Wanlei Zhou</span></div>
       <div class="slot"><span class="time">10:20 – 10:50</span><span class="what">Morning Tea</span></div>
-      <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel Discussion</span></div>
-      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span></div>
+      <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel R</span><span class="note">Research in the Age of LLMs</span></div>
+      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">An online session runs during lunch</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
       <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
-      <div class="slot social"><span class="time">18:30 – 21:30</span><span class="what">Conference Banquet</span><span class="note">Awards presentation</span></div>
     </div>
 
     <!-- DAY 4 -->
@@ -138,14 +139,16 @@ permalink: /outline/
         <div class="dname">Thu, 12 Nov</div>
       </div>
       <div class="slot"><span class="time">08:30 –</span><span class="what">Registration</span></div>
-      <div class="slot keynote"><span class="time">09:00 – 09:40</span><span class="what">Keynote</span></div>
-      <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span></div>
+      <div class="slot keynote"><span class="time">09:00 – 09:40</span><span class="what">Keynote</span><span class="note">CyberSciTech · Prof. Ljiljana Trajkovic (online)</span></div>
+      <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span><span class="note">CBDCom · Dr Sahraoui Dhelim</span></div>
       <div class="slot"><span class="time">10:20 – 10:50</span><span class="what">Morning Tea</span></div>
-      <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel Discussion</span></div>
+      <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel Q</span><span class="note">HAI-Q</span></div>
       <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
       <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
+      <div class="slot panel"><span class="time">15:30 – 17:00</span><span class="what">Panel E</span><span class="note">Education in the Age of LLMs</span></div>
+      <div class="slot social"><span class="time">18:30 – 21:30</span><span class="what">Conference Banquet &amp; Awards</span><span class="note">Venue TBA</span></div>
     </div>
 
     <!-- DAY 5 -->
@@ -156,9 +159,10 @@ permalink: /outline/
       </div>
       <div class="slot"><span class="time">08:30 –</span><span class="what">Registration</span></div>
       <div class="slot session"><span class="time">09:00 – 10:20</span><span class="what">Parallel Session</span></div>
-      <div class="slot"><span class="time">10:20 – 10:50</span><span class="what">Morning Tea</span></div>
-      <div class="slot session"><span class="time">10:50 – 12:30</span><span class="what">Parallel Session</span></div>
-      <div class="slot ceremony"><span class="time">12:30 – 13:30</span><span class="what">Closing &amp; Lunch</span></div>
+      <div class="slot"><span class="time">10:20 – 10:40</span><span class="what">Morning Tea</span></div>
+      <div class="slot workshop"><span class="time">10:40 – 11:40</span><span class="what">Birds-of-a-Feather (BoF)</span><span class="note">Open to all four conferences</span></div>
+      <div class="slot ceremony"><span class="time">11:40 – 12:00</span><span class="what">Closing</span></div>
+      <div class="slot"><span class="time">12:00 – 13:30</span><span class="what">Lunch</span></div>
       <div class="slot social"><span class="time">13:30 – 15:30</span><span class="what">Visit RMIT AIDA Hub and Campus Tour</span></div>
       <div class="slot"><span class="time">15:30 – 16:00</span><span class="what">Afternoon Tea</span></div>
       <div class="slot ceremony"><span class="time">16:00 – 17:00</span><span class="what">Committee Meeting</span></div>
