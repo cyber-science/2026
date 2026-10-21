@@ -74,7 +74,6 @@ permalink: /outline/
     <h2>(Hybrid: On-site/Online)</h2>
     <p>9–13 November 2026 · Melbourne, Australia · All times AEDT (UTC+11)</p>
     <p><strong>Program at a Glance</strong></p>
-    <span class="draft-badge">DRAFT v9.5 — subject to change</span>
     <p>Rooms, sessions and papers: see the <a href="{{ '/program/' | relative_url }}"><u>Program Agenda</u></a>.</p>
   </div>
 
@@ -181,6 +180,6 @@ permalink: /outline/
   </div>
 
   <div class="dp-footer">
-    IEEE CyberSciTech / DASC / PICom / CBDCom 2026 · cyber-science.org/2026 · Draft program subject to change
+    IEEE CyberSciTech / DASC / PICom / CBDCom 2026 · cyber-science.org/2026
   </div>
 </div>
