@@ -6,6 +6,20 @@ permalink: /keynote/
 
 <h3>Keynotes</h3>
 <hr/>
+<h4>Data Mining and Machine Learning for Analysis of Network Traffic</h4>
+<img src="{{ '/assets/images/keynote_speaker/ljiljana_trajkovic.png' | relative_url }}" alt="Ljiljana Trajkovic" align="left" style="border:10px solid white" width="200">
+<h5><b>Ljiljana Trajkovic, Professor</b></h5>
+<h6>
+Simon Fraser University, Canada
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b> Collection and analysis of data from deployed networks is essential for understanding communication networks. Hence, data mining and statistical analysis of network data have been employed to determine traffic loads, analyze patterns of users' behavior,  predict future network traffic, and detect traffic anomalies. The Internet has historically been prone to failures and attacks that significantly degrade its performance, affect the Internet connectivity, and cause routing disconnections. Frequent cases of various cyber threats have been encountered over the years and, hence, detection of anomalous behavior is a topic of great interest in cybersecurity. In described case studies, traffic traces collected by various collection sites are used to classify network anomalies. Various anomaly and intrusion detection approaches based on machine learning have been employed to analyze collected data. Deep learning, broad learning, gradient boosted decision trees, and reservoir computing algorithms were used to develop models based on collected datasets that contain Internet worms, viruses, power outages, ransomware events, router misconfigurations, Internet Protocol hijacks, and infrastructure failures in times of conflict. The reported results indicate that while performance of machine learning models greatly depends on the used datasets, they are viable tools for detecting the Internet anomalies.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Ljiljana Trajkovic received the Dipl. Ing. degree from University of Pristina, Yugoslavia, the M.Sc. degrees in electrical engineering and computer engineering from Syracuse University, Syracuse, NY, and the Ph.D. degree in electrical engineering from University of California at Los Angeles. She is currently a professor in the School of Engineering Science, Simon Fraser University, Burnaby, British Columbia, Canada. Her research interests include communication networks and dynamical systems. Dr. Trajkovic served as IEEE Division X Delegate/Director, President of the IEEE Systems, Man, and Cybernetics Society, and President of the IEEE Circuits and Systems Society. She serves as Editor-in-Chief of the IEEE Transactions on Human-Machine Systems. She is a Distinguished Lecturer of the IEEE Systems, Man, and Cybernetics Society and was a Distinguished Lecturer of the IEEE Circuits and System Society. She is a Fellow of the IEEE.
+</p>
+<hr/>
+
 <h4>Frontiers in Specialised AI: From Vision-Language Data Pipelines to DRL-Based Compiler Optimisation</h4>
 <img src="{{ '/assets/images/keynote_speaker/sahraoui_dhelim.jpg' | relative_url }}" align="left" style="border:10px solid white" width="200">
 <h5><b>Sahraoui Dhelim, Assistant Professor</b></h5>
@@ -27,20 +41,6 @@ He earned his Ph.D. in Computer Science and Technology from the University of Sc
 His scholarly contributions include over 110 peer-reviewed publications, complemented by editorial responsibilities at leading journals and conferences.  He was a keynote speaker at the International Conference on Applied Artificial Intelligence and Emerging Technologies (AAIET 2025). He received the IEEE HITC Award for Excellence in Hyper-Intelligence (Technical Achievement).
 <br/>
 His professional recognition includes Fellow HEA, he also earned the Universal Design in Teaching and Learning badge. Universal Design for Learning (UDL).
-</p>
-<hr/>
-
-<h4>Data Mining and Machine Learning for Analysis of Network Traffic</h4>
-<img src="{{ '/assets/images/keynote_speaker/ljiljana_trajkovic.png' | relative_url }}" alt="Ljiljana Trajkovic" align="left" style="border:10px solid white" width="200">
-<h5><b>Ljiljana Trajkovic, Professor</b></h5>
-<h6>
-Simon Fraser University, Canada
-</h6>
-<p style="text-align: justify;">
-<b>Abstract: </b> Collection and analysis of data from deployed networks is essential for understanding communication networks. Hence, data mining and statistical analysis of network data have been employed to determine traffic loads, analyze patterns of users' behavior,  predict future network traffic, and detect traffic anomalies. The Internet has historically been prone to failures and attacks that significantly degrade its performance, affect the Internet connectivity, and cause routing disconnections. Frequent cases of various cyber threats have been encountered over the years and, hence, detection of anomalous behavior is a topic of great interest in cybersecurity. In described case studies, traffic traces collected by various collection sites are used to classify network anomalies. Various anomaly and intrusion detection approaches based on machine learning have been employed to analyze collected data. Deep learning, broad learning, gradient boosted decision trees, and reservoir computing algorithms were used to develop models based on collected datasets that contain Internet worms, viruses, power outages, ransomware events, router misconfigurations, Internet Protocol hijacks, and infrastructure failures in times of conflict. The reported results indicate that while performance of machine learning models greatly depends on the used datasets, they are viable tools for detecting the Internet anomalies.
-</p>
-<p style="text-align: justify;">
-<b>Biography: </b> Ljiljana Trajkovic received the Dipl. Ing. degree from University of Pristina, Yugoslavia, the M.Sc. degrees in electrical engineering and computer engineering from Syracuse University, Syracuse, NY, and the Ph.D. degree in electrical engineering from University of California at Los Angeles. She is currently a professor in the School of Engineering Science, Simon Fraser University, Burnaby, British Columbia, Canada. Her research interests include communication networks and dynamical systems. Dr. Trajkovic served as IEEE Division X Delegate/Director, President of the IEEE Systems, Man, and Cybernetics Society, and President of the IEEE Circuits and Systems Society. She serves as Editor-in-Chief of the IEEE Transactions on Human-Machine Systems. She is a Distinguished Lecturer of the IEEE Systems, Man, and Cybernetics Society and was a Distinguished Lecturer of the IEEE Circuits and System Society. She is a Fellow of the IEEE.
 </p>
 <hr/>
 
