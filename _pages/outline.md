@@ -121,7 +121,7 @@ permalink: /outline/
         <div class="dname">Wed, 11 Nov</div>
       </div>
       <div class="slot"><span class="time">08:30 –</span><span class="what">Registration</span></div>
-      <div class="slot keynote"><span class="time">09:00 – 09:40</span><span class="what">Keynote</span><span class="note">TBA</span></div>
+      <div class="slot keynote"><span class="time">09:00 – 09:40</span><span class="what">Keynote</span><span class="note">DASC · Prof. Seng Loke</span></div>
       <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span><span class="note">DASC · Prof. Wanlei Zhou</span></div>
       <div class="slot"><span class="time">10:20 – 10:50</span><span class="what">Morning Tea</span></div>
       <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel R</span><span class="note">Research in the Age of LLMs</span></div>
