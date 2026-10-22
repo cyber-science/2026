@@ -20,6 +20,20 @@ RMIT University, Australia
 </p>
 <hr/>
 
+<h4>Excursions into Distributed and Modular Quantum Computing</h4>
+<img src="{{ '/assets/images/keynote_speaker/seng_loke.jpg' | relative_url }}" alt="Seng Loke" align="left" style="border:10px solid white" width="200">
+<h5><b>Seng Loke, Professor</b></h5>
+<h6>
+Deakin University, Australia
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b> The talk will introduce the idea of Distributed and Modular Quantum Computing, discuss some current trends in quantum computing, and provide an overview of a range of topics for research in Distributed and Modular Quantum Computing, as well as Quantum Internet Computing. In particular, the talk will discuss the potential of distributed and modular quantum computing to help overcome scalability challenges faced by current quantum computing architectures. It will briefly review advances in quantum computation, and the interconnection of quantum processors. The talk will then examine a range of emerging research directions in Distributed and Modular Quantum Computing, including distributed quantum operations, entanglement-assisted computation, quantum communication protocols, and techniques for coordinating computational tasks across multiple quantum processing units. The talk will also discuss the notion of the Quantum Internet and introduce Quantum Internet Computing, highlighting its relationship with Distributed Quantum Computing and its potential to enable new computational capabilities through networked quantum resources.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Seng Loke is Professor in Computer Science at the School of Information Technology, Deakin University, Australia. He currently coordinates the Deakin University Quantum Computing Research Network (DQCRN), a Deakin University wide network focusing on quantum computing and its applications. Previously, he also served as an Adjunct Professor in both the School of Engineering and Mathematical Sciences at La Trobe University, and the School of Business and Tourism at Southern Cross University. Seng Loke's research interests revolve around the concept of the Internet-of-Things, ranging from distributed systems, smart/AI things and smarter cities to cooperative vehicles, edge computing, pervasive computing, IoT-assisted Agetech, ethics for smart devices, distributed quantum computing, and quantum Internet computing. He has more than 350 research publications, including books: “The Automated City: Internet of Things and Ubiquitous Artificial Intelligence” (Springer, 2021) co-authored with A. Rakotonirainy, and “From Distributed Quantum Computing to Quantum Internet Computing: An Introduction” (Wiley, Nov 2023).
+</p>
+<hr/>
+
 <h4>Machine Unlearning: Ideas and Strategies</h4>
 <img src="{{ '/assets/images/keynote_speaker/wanlei_zhou.jpg' | relative_url }}" alt="Wanlei Zhou" align="left" style="border:10px solid white" width="200">
 <h5><b>Wanlei Zhou, Professor</b></h5>
