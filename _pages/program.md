@@ -6,7 +6,23 @@ permalink: /program/
 
 <h3>Program Agenda</h3>
 
-TBA
+<hr/>
+<h4>Please click the following link to get Program-at-a-Glance</h4>
+<br>
+<a href="{{ '/assets/files/program/CyberSciTech_DASC_PICom_CBDCom_2026_Program_at_a_Glance.pdf' | relative_url }}" target="_blank" style="font-size: 18px;"><u>IEEE CyberSciTech/DASC/PICom/CBDCom 2026 Program-at-a-Glance (PDF)</u></a>
+<p>One A4 page with all five days.</p>
+
+<hr/>
+<h4>Please click the following link to get Detailed Program</h4>
+<br>
+<a href="{{ '/assets/files/program/CyberSciTech_DASC_PICom_CBDCom_2026_Detailed_Program.pdf' | relative_url }}" target="_blank" style="font-size: 18px;"><u>IEEE CyberSciTech/DASC/PICom/CBDCom 2026 Detailed Program (PDF)</u></a>
+<p>Keynotes and panels, then every session with its papers and authors (22 pages).</p>
+
+<hr/>
+<h4>Please click the following link to get Mobile Program</h4>
+<br>
+<a href="{{ '/assets/files/program/CyberSciTech_DASC_PICom_CBDCom_2026_Mobile_Program.html' | relative_url }}" target="_blank" style="font-size: 18px;"><u>IEEE CyberSciTech/DASC/PICom/CBDCom 2026 Mobile Program</u></a>
+<p>For phones: search talks, authors and paper IDs, star sessions, and see times in your own time zone.</p>
 
 <!-- <hr/>
 <h4>Please click the following link to get Program-at-a-Glance</h4>

@@ -6,6 +6,34 @@ permalink: /keynote/
 
 <h3>Keynotes</h3>
 <hr/>
+<h4>Machine reasoning under epistemic uncertainty: Bayesian inference and graphical models using imprecise probabilities</h4>
+<img src="{{ '/assets/images/keynote_speaker/branko_ristic.jpg' | relative_url }}" alt="Branko Ristic" align="left" style="border:10px solid white" width="200">
+<h5><b>Branko Ristic, Principal Research Fellow</b></h5>
+<h6>
+RMIT University, Australia
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b> Machines are increasingly asked to reason over large volumes of uncertain, heterogeneous information: sensor measurements, natural-language reports such as “possible warship,” and expert domain knowledge. Much of this uncertainty is epistemic, arising from lack of knowledge rather than randomness. Standard Bayesian inference handles it by forcing imprecise knowledge into precise probabilities, and as a result it can be confidently wrong. This talk argues for integrity in machine reasoning: a model should represent exactly the knowledge available, no more and no less. We introduce imprecise probabilities, where belief is represented by credal sets (closed convex sets of probability distributions). This framework includes belief functions, possibility theory, and random sets as special cases. We show how Walley’s generalised Bayes rule can be computed in practice using bisection and bilinear programming. We then lift it to large models through credal valuation networks, a valuation algebra that supports local computation. Examples range from classification with an imprecise confusion matrix to ongoing threat assessment onboard an underwater vehicle. In these examples, the resulting probability bounds always contain the ground truth and are tighter than those of evidential networks. We close with the computational cost and open problems.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Branko Ristic received the Ph.D. degree from Queensland University of Technology in 1995. After research and engineering positions in the former Yugoslavia and in Australia, he joined the Defence Science and Technology Organisation (now Defence Science and Technology Group, DSTG) in 1996. In 2003–04 he spent a year of study leave at IRIDIA, Université libre de Bruxelles, Belgium. Since 2015 he has been a Principal Research Fellow in the School of Engineering at RMIT University, where he has led some 20 research projects, mainly funded by DSTG. He is co-author of two books, Beyond the Kalman Filter: Particle Filters for Tracking Applications (Artech House, 2004) and Particle Filters for Random Set Models (Springer, 2013), as well as over 120 journal articles and 10 book chapters. His research interests include information fusion, Bayesian estimation, target tracking, Monte Carlo methods, search techniques, sensor control, and machine reasoning under uncertainty.
+</p>
+<hr/>
+
+<h4>Machine Unlearning: Ideas and Strategies</h4>
+<img src="{{ '/assets/images/keynote_speaker/wanlei_zhou.jpg' | relative_url }}" alt="Wanlei Zhou" align="left" style="border:10px solid white" width="200">
+<h5><b>Wanlei Zhou, Professor</b></h5>
+<h6>
+City University of Macau, Macao SAR, China
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b> Over the past decade, machine learning has experienced remarkable advancements, positively impacting our daily lives. Alongside this progress, a distinctive requirement has emerged—stemming from the AI era, in particular, from privacy concerns, usability considerations, and “the right to be forgotten”—leading to the development of a new concept known as machine unlearning. In this talk, I will first give a comprehensive exploration of machine unlearning and the reasons behind the existence of this necessity. Then, I will describe the methods and technologies used in machine unlearning. Third, I will talk about developments in this field, especially through a number of our recent work on machine unlearning as examples.
+</p>
+<p style="text-align: justify;">
+<b>Biography: </b> Professor Wanlei Zhou is currently the Vice Rector (Academic Affairs), City University of Macau, Macao SAR, China. He received the B.Eng and M.Eng degrees from Harbin Institute of Technology, Harbin, China in 1982 and 1984, respectively, and the PhD degree from The Australian National University, Canberra, Australia, in 1991, all in Computer Science and Engineering. He also received a DSc degree (a higher Doctorate degree) from Deakin University in 2002. Before joining City University of Macau, Professor Zhou held various positions including the Head of School of Computer Science in University of Technology Sydney, Australia, the Alfred Deakin Professor, Chair of Information Technology, Associate Dean, and Head of School of Information Technology in Deakin University, Australia. Professor Zhou also served as a lecturer in University of Electronic Science and Technology of China, a system programmer in HP at Massachusetts, USA; a lecturer in Monash University, Melbourne, Australia; and a lecturer in National University of Singapore, Singapore. His main research interests include security, privacy, and distributed computing. Professor Zhou has published more than 500 papers in refereed international journals and refereed international conferences proceedings, including many articles in IEEE transactions and journals. Prof Zhou is an IEEE Life Fellow.
+</p>
+<hr/>
+
 <h4>Data Mining and Machine Learning for Analysis of Network Traffic</h4>
 <img src="{{ '/assets/images/keynote_speaker/ljiljana_trajkovic.png' | relative_url }}" alt="Ljiljana Trajkovic" align="left" style="border:10px solid white" width="200">
 <h5><b>Ljiljana Trajkovic, Professor</b></h5>
