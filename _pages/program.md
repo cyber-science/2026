@@ -16,7 +16,7 @@ permalink: /program/
 <h4>Please click the following link to get Detailed Program</h4>
 <br>
 <a href="{{ '/assets/files/program/CyberSciTech_DASC_PICom_CBDCom_2026_Detailed_Program.pdf' | relative_url }}" target="_blank" style="font-size: 18px;"><u>IEEE CyberSciTech/DASC/PICom/CBDCom 2026 Detailed Program (PDF)</u></a>
-<p>Keynotes and panels, then every session with its papers and authors (22 pages).</p>
+<p>Messages from the chairs, general information and presentation guidelines, keynotes and panels, then every session with its papers and authors (29 pages).</p>
 
 <hr/>
 <h4>Please click the following link to get Mobile Program</h4>
