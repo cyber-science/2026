@@ -142,7 +142,7 @@ permalink: /outline/
       <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span><span class="note">CBDCom · Dr Sahraoui Dhelim</span></div>
       <div class="slot"><span class="time">10:20 – 10:50</span><span class="what">Morning Tea</span></div>
       <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel Q</span><span class="note">HAI-Q</span></div>
-      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span></div>
+      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">DASC-05 starts at 13:00</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
       <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
