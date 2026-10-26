@@ -65,3 +65,16 @@ The second part makes this concrete by connecting a dialogue system to a body: a
 Through this tutorial, participants will learn how modern spoken dialogue systems are structured, how full-duplex interaction differs from turn-based interaction, and what is involved in driving a virtual avatar and a simulated humanoid robot from a dialogue system.
 </p>
 <hr/>
+
+<h4>Large Language Models for Human-Centered Intelligence: Recent Advances and Challenges</h4>
+<h5>Tutorial Time: Monday 9 November, 15:30–17:00 AEDT (90 minutes; hybrid: on-site and online) · Room 080.10.016</h5>
+<img src="{{ '/assets/images/tutorial_speaker/ruichen_cong.jpeg' | relative_url }}" alt="Dr. Ruichen Cong" class="tutorial-speaker-photo" align="left" style="border:10px solid white" width="200">
+<h5><b>Dr. Ruichen Cong</b></h5>
+<h6>
+Assistant Professor, Faculty of Human Sciences, Waseda University, Japan
+</h6>
+<p style="text-align: justify;">
+<b>Abstract: </b>
+Large language models (LLMs) are creating new opportunities for human-centered intelligent systems, particularly in personal health applications. This tutorial introduces recent advances in LLM-based personal health intelligence, focusing on wearable health data analysis, knowledge-enhanced reasoning, and personalized health agents. Representative research developments and emerging approaches will be discussed, along with an overview of our recent work on LLM-based health prediction and causal context integration. Finally, the tutorial highlights current challenges and future directions for developing reliable, interpretable, and personalized health intelligence.
+</p>
+<hr/>
