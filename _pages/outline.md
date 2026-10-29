@@ -129,6 +129,7 @@ permalink: /outline/
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
       <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
+      <div class="slot social"><span class="time">18:30 – 21:30</span><span class="what">Conference Banquet &amp; Awards</span><span class="note">Venue TBA</span></div>
     </div>
 
     <!-- DAY 4 -->
@@ -145,9 +146,8 @@ permalink: /outline/
       <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">DASC-05 starts at 13:00</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
-      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
+      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span><span class="note">DASC-07 runs until 17:20</span></div>
       <div class="slot panel"><span class="time">15:30 – 17:00</span><span class="what">Panel E</span><span class="note">Education in the Age of LLMs</span></div>
-      <div class="slot social"><span class="time">18:30 – 21:30</span><span class="what">Conference Banquet &amp; Awards</span><span class="note">Venue TBA</span></div>
     </div>
 
     <!-- DAY 5 -->
