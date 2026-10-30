@@ -32,6 +32,9 @@ permalink: /haiq-panel/
   .haiq-voting-qr { flex: 0 0 190px; text-align: center; }
   .haiq-qr { display: block; width: 165px; max-width: 100%; height: auto; margin: 0 auto .35rem; padding: .35rem; background: #fff; }
   .haiq-scan-label { color: #155f89; font-size: .88rem; }
+  .haiq-video-section { margin: 1.35rem 0 .35rem; text-align: center; }
+  .haiq-video-section h4 { margin-bottom: .75rem; color: #1b365d; }
+  .haiq-video-frame { width: 100%; max-width: 760px; aspect-ratio: 16 / 9; height: auto; background: #0d1f2d; }
   .haiq-chairs { margin: .15rem 0 .35rem; color: #334f64; }
   .haiq-contact-grid { display: flex; flex-wrap: wrap; gap: .7rem 2rem; margin-top: .8rem; }
   .haiq-contact-grid p { margin: 0; }
@@ -71,17 +74,7 @@ permalink: /haiq-panel/
 
 ## About HAI-Q
 
-<p style="text-align: justify;">The Hyper/Super AI Questions Initiative (HAI-Q) is an open event of GAI-HyperI 2026 that invites the global community to identify fundamental, forward-looking questions about the future of Hyper/Super AI.</p>
-
-<p style="text-align: justify;">Inspired by earlier initiatives such as <a href="https://wi-consortium.org/blog/top10qi/" target="_blank" rel="noopener noreferrer">Top10Qi</a> and <a href="https://doi.org/10.1109/ACCESS.2015.2504123" target="_blank" rel="noopener noreferrer">Top10Cs</a>, HAI-Q explores how collective questioning, AI-assisted analysis, and public participation can help identify questions that may shape the next era of intelligence.</p>
-
-<hr>
-
-## Why HAI-Q?
-
-<p style="text-align: justify;">Questions shape the evolution of science and technology. From &ldquo;Can machines think?&rdquo; to emerging questions about Hyper AI and Super AI, fundamental questions can open new directions for scientific inquiry.</p>
-
-<p style="text-align: justify;">HAI-Q brings together perspectives from the global community to examine which questions deserve further exploration and how they can be organized, evaluated, and discussed.</p>
+<p style="text-align: justify;">The Hyper/Super AI Questions Initiative (HAI-Q) is an open event of GAI-HyperI 2026 that brings together global perspectives on fundamental questions about the future of Hyper/Super AI. Building on earlier initiatives such as <a href="https://wi-consortium.org/blog/top10qi/" target="_blank" rel="noopener noreferrer">Top10Qi</a> and <a href="https://doi.org/10.1109/ACCESS.2015.2504123" target="_blank" rel="noopener noreferrer">Top10Cs</a>, HAI-Q combines public participation, AI-assisted analysis, and human review to identify questions that may shape future research and discussion.</p>
 
 <hr>
 
@@ -91,23 +84,23 @@ permalink: /haiq-panel/
   <section class="haiq-step">
     <div class="haiq-step-heading">
       <span class="haiq-step-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 5h14v10H9l-4 4V5Z"></path><path d="M9 9h6M9 12h4"></path></svg></span>
-      <div><span class="haiq-step-number">Stage 01</span><h5><strong>Ask</strong> &mdash; Question Collection</h5></div>
+      <div><span class="haiq-step-number">01</span><h5><strong>Ask:</strong> Question Collection</h5></div>
     </div>
-    <p>Fundamental questions about Hyper/Super AI were collected through an open international call for questions.</p>
+    <p>Fundamental questions about Hyper/Super AI were collected from participants worldwide.</p>
   </section>
   <section class="haiq-step">
     <div class="haiq-step-heading">
       <span class="haiq-step-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="6" cy="6" r="2"></circle><circle cx="18" cy="6" r="2"></circle><circle cx="12" cy="18" r="2"></circle><path d="m8 7 3 9M16 7l-3 9M8 6h8"></path></svg></span>
-      <div><span class="haiq-step-number">Stage 02</span><h5><strong>Organize</strong> &mdash; AI-Assisted Question Analysis</h5></div>
+      <div><span class="haiq-step-number">02</span><h5><strong>Organize:</strong> AI-Assisted Question Analysis</h5></div>
     </div>
-    <p>Submitted questions are analyzed using AI-assisted methods and human review to identify semantic similarities, consolidate related questions, and organize emerging themes.</p>
+    <p>AI-assisted methods and human review were used to identify semantic similarities, consolidate related questions, and organize recurring themes.</p>
   </section>
   <section class="haiq-step">
     <div class="haiq-step-heading">
       <span class="haiq-step-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"></circle><path d="m9 12 2 2 4-5"></path></svg></span>
-      <div><span class="haiq-step-number">Stage 03</span><h5><strong>Explore</strong> &mdash; Public Voting and Panel Discussion</h5></div>
+      <div><span class="haiq-step-number">03</span><h5><strong>Explore:</strong> Public Voting and Panel Discussion</h5></div>
     </div>
-    <p>Thirty candidate questions are presented for public voting. Participants may select up to ten questions that they consider most important. The top ten questions will be presented and discussed at the HAI-Q panel.</p>
+    <p>Thirty candidate questions are open for public voting. The top ten will be presented and discussed at the HAI-Q panel.</p>
   </section>
 </div>
 
@@ -120,24 +113,32 @@ permalink: /haiq-panel/
     <h4>What Questions Matter Most for the Future of AI?</h4>
     <p>Review 30 candidate questions and select up to 10 that you consider most important and worth exploring.</p>
     <p class="haiq-deadline"><strong>Voting Deadline: November 10, 2026</strong></p>
-    <p>The selected top ten questions will be presented and discussed at the HAI-Q panel on November 12, 2026.</p>
-    <a class="haiq-vote-button" href="https://forms.gle/BUTBxczwCphUGTfq5" target="_blank" rel="noopener noreferrer">Vote for the Questions</a>
+    <p>Voting results will be used to rank the candidate questions. The top ten questions will be presented and discussed at the HAI-Q panel on November 12, 2026.</p>
+    <a class="haiq-vote-button" href="https://forms.gle/qeZiTSL2pgwpAd568" target="_blank" rel="noopener noreferrer">Vote Now</a>
   </div>
   <div class="haiq-voting-qr">
-    <a href="https://forms.gle/BUTBxczwCphUGTfq5" target="_blank" rel="noopener noreferrer" aria-label="Open the HAI-Q voting form">
-      <img class="haiq-qr" src="{{ '/assets/images/haiq/haiq-voting-qr-from-poster.png' | relative_url }}" alt="QR code for the HAI-Q public voting form">
+    <a href="https://forms.gle/qeZiTSL2pgwpAd568" target="_blank" rel="noopener noreferrer" aria-label="Open the HAI-Q voting form">
+      <img class="haiq-qr" src="{{ '/assets/images/haiq/haiq-voting-qr.png' | relative_url }}" alt="QR code for the HAI-Q public voting form">
     </a>
     <strong class="haiq-scan-label">Scan to Vote</strong>
   </div>
+</div>
+
+<div class="haiq-video-section">
+  <h4>How to Vote</h4>
+  <video class="haiq-video-frame" controls playsinline preload="metadata">
+    <source src="{{ '/assets/videos/haiq/haiq-how-to-vote-nov10.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the HTML5 video element.
+  </video>
 </div>
 
 <hr>
 
 ## Panel Discussion
 
-<p style="text-align: justify;">The HAI-Q panel will present and discuss the top-ranked questions emerging from the initiative, together with the methods, rationale, and reflections involved in large-scale open question selection.</p>
+<p style="text-align: justify;">The HAI-Q panel will present the top ten questions emerging from the public voting process and examine the methods and rationale behind their selection.</p>
 
-<p style="text-align: justify;">The discussion will explore the significance of these questions and their implications for future research on Hyper/Super AI.</p>
+<p style="text-align: justify;">The discussion will reflect on the challenges of large-scale question collection and AI-assisted analysis, and explore the implications of the selected questions for future Hyper/Super AI research.</p>
 
 <p><strong>Date:</strong> November 12, 2026<br><strong>Time:</strong> 10:50 AM &ndash; 12:20 PM AEDT</p>
 
