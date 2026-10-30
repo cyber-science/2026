@@ -73,7 +73,7 @@ permalink: /haiq-panel/
 
 <p style="text-align: justify;">The Hyper/Super AI Questions Initiative (HAI-Q) is an open event of GAI-HyperI 2026 that invites the global community to identify fundamental, forward-looking questions about the future of Hyper/Super AI.</p>
 
-<p style="text-align: justify;">Inspired by earlier initiatives such as Top10Qi and Top10Cs, HAI-Q explores how collective questioning, AI-assisted analysis, and public participation can help identify questions that may shape the next era of intelligence.</p>
+<p style="text-align: justify;">Inspired by earlier initiatives such as <a href="https://wi-consortium.org/blog/top10qi/" target="_blank" rel="noopener noreferrer">Top10Qi</a> and <a href="https://doi.org/10.1109/ACCESS.2015.2504123" target="_blank" rel="noopener noreferrer">Top10Cs</a>, HAI-Q explores how collective questioning, AI-assisted analysis, and public participation can help identify questions that may shape the next era of intelligence.</p>
 
 <hr>
 
