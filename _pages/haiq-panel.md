@@ -25,14 +25,16 @@ permalink: /haiq-panel/
   .haiq-visual img { display: block; width: 100%; height: 100%; aspect-ratio: 2 / 1; object-fit: cover; transition: transform .6s ease; }
   .haiq-visual:hover img { transform: scale(1.02); }
   .haiq-about { max-width: 920px; margin: 0; line-height: 1.65; }
-  .haiq-process { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; margin: 1.15rem 0 .2rem; }
-  .haiq-step { position: relative; min-width: 0; }
-  .haiq-step:not(:last-child)::after { content: ""; position: absolute; top: calc((100% - 5.7rem) / 2); right: -1.25rem; width: 1.25rem; height: 2px; background: linear-gradient(90deg, #9bdde8, #69bfd2); }
-  .haiq-step-image { display: block; width: 100%; aspect-ratio: 16 / 10; margin-bottom: .65rem; border-radius: .2rem; object-fit: cover; }
-  .haiq-step-heading { margin-bottom: .35rem; padding-top: .45rem; border-top: 2px solid #9bdde8; }
-  .haiq-step-number { display: block; margin-bottom: .12rem; color: #5e798a; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
-  .haiq-step h5 { margin: 0; color: var(--haiq-blue); font-size: 1rem; line-height: 1.35; }
-  .haiq-step p { margin: 0; font-size: .9rem; line-height: 1.5; }
+  .haiq-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 1.35rem; margin: 1.15rem 0 .2rem; }
+  .haiq-step { display: flex; min-width: 0; overflow: hidden; border-radius: .75rem; background: #fff; box-shadow: 0 8px 22px rgba(20,77,112,.13); }
+  .haiq-step-inner { display: flex; width: 100%; flex-direction: column; }
+  .haiq-step-image { display: block; width: 100%; aspect-ratio: 1.216 / 1; object-fit: cover; }
+  .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: 1rem 1.05rem 1.15rem; border-top: 3px solid #36c2d8; }
+  .haiq-step-heading { margin-bottom: .65rem; }
+  .haiq-step-number { display: block; margin-bottom: .25rem; color: #1685bd; font-size: 1.3rem; font-weight: 800; line-height: 1; letter-spacing: .03em; }
+  .haiq-step-number::after { content: ""; display: block; width: 2.25rem; height: 2px; margin-top: .45rem; background: #40c4d8; }
+  .haiq-step h5 { min-height: 3.55rem; margin: 0; color: #163f67; font-size: 1rem; line-height: 1.4; }
+  .haiq-step p { margin: auto 0 0; color: #40586a; font-size: .9rem; line-height: 1.55; }
   .haiq-voting { display: grid; grid-template-columns: minmax(220px, .78fr) minmax(0, 1.22fr) 195px; align-items: center; gap: 1.6rem; margin: 1rem 0 1.6rem; padding: 1.5rem; border-left: 4px solid var(--haiq-cyan); border-radius: .2rem; background: #eef8fb; }
   .haiq-voting-visual { margin: 0; overflow: hidden; border-radius: .2rem; }
   .haiq-voting-visual img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
@@ -64,8 +66,8 @@ permalink: /haiq-panel/
     .haiq-hero-copy { width: 75%; padding: 2rem 1.5rem; }
     .haiq-split { grid-template-columns: 1fr; gap: 1.2rem; }
     .haiq-split--reverse .haiq-visual { order: 0; }
-    .haiq-process { gap: 1rem; }
-    .haiq-step:not(:last-child)::after { right: -1rem; width: 1rem; }
+    .haiq-process { grid-template-columns: 1fr; gap: 1.2rem; }
+    .haiq-step h5 { min-height: 0; }
     .haiq-voting { grid-template-columns: minmax(0, 1fr) 180px; padding: 1.3rem; }
     .haiq-voting-visual { grid-column: 1 / -1; }
     .haiq-voting-visual img { aspect-ratio: 3 / 1; }
@@ -80,12 +82,6 @@ permalink: /haiq-panel/
     .haiq-label { font-size: .85rem; }
     .haiq-session { font-size: .9rem; }
     .haiq-visual img { aspect-ratio: 4 / 3; }
-    .haiq-process { grid-template-columns: 1fr; gap: 1.4rem; }
-    .haiq-step:not(:last-child)::after { display: none; }
-    .haiq-step { display: grid; grid-template-columns: 118px 1fr; column-gap: 1rem; align-items: start; }
-    .haiq-step-image { grid-row: 1 / span 2; margin: 0; }
-    .haiq-step-heading { align-self: end; }
-    .haiq-step p { align-self: start; }
     .haiq-voting { grid-template-columns: 1fr; gap: 1.25rem; padding: 1.15rem; }
     .haiq-voting-visual { grid-column: auto; }
     .haiq-voting-visual img { aspect-ratio: 16 / 9; }
@@ -124,25 +120,40 @@ permalink: /haiq-panel/
 
 <div class="haiq-process">
   <section class="haiq-step">
-    <img class="haiq-step-image" src="{{ '/assets/images/haiq/haiq-process-ask.jpg' | relative_url }}" alt="Questions arriving from participants around the world" loading="lazy" width="691" height="518">
-    <div class="haiq-step-heading">
-      <div><span class="haiq-step-number">01</span><h5><strong>Ask:</strong> Question Collection</h5></div>
+    <div class="haiq-step-inner">
+      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step01_question_collection.webp' | relative_url }}" alt="A connected globe representing worldwide question collection" loading="lazy" width="502" height="411">
+      <div class="haiq-step-body">
+        <div class="haiq-step-heading">
+          <span class="haiq-step-number">01</span>
+          <h5><strong>Ask:</strong> Question Collection</h5>
+        </div>
+        <p>Questions about Hyper/Super AI were collected from participants worldwide.</p>
+      </div>
     </div>
-    <p>Collect questions about the future of Hyper/Super AI worldwide.</p>
   </section>
   <section class="haiq-step">
-    <img class="haiq-step-image" src="{{ '/assets/images/haiq/haiq-process-organize.jpg' | relative_url }}" alt="AI semantic clusters connecting related questions" loading="lazy" width="691" height="518">
-    <div class="haiq-step-heading">
-      <div><span class="haiq-step-number">02</span><h5><strong>Organize:</strong> AI-Assisted Analysis</h5></div>
+    <div class="haiq-step-inner">
+      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step02_ai_analysis.webp' | relative_url }}" alt="AI-assisted analysis organizing and ranking related questions" loading="lazy" width="498" height="411">
+      <div class="haiq-step-body">
+        <div class="haiq-step-heading">
+          <span class="haiq-step-number">02</span>
+          <h5><strong>Organize:</strong> AI-Assisted Question Analysis and Ranking</h5>
+        </div>
+        <p>Use LLMs and human review to consolidate related questions and identify recurring themes.</p>
+      </div>
     </div>
-    <p>Use AI-assisted analysis and human review to consolidate and organize related questions.</p>
   </section>
   <section class="haiq-step">
-    <img class="haiq-step-image" src="{{ '/assets/images/haiq/haiq-process-explore.jpg' | relative_url }}" alt="Selected question nodes emerging for voting and discussion" loading="lazy" width="691" height="518">
-    <div class="haiq-step-heading">
-      <div><span class="haiq-step-number">03</span><h5><strong>Explore:</strong> Voting &amp; Discussion</h5></div>
+    <div class="haiq-step-inner">
+      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step03_panel_discussion.webp' | relative_url }}" alt="A panel discussing top questions and future directions" loading="lazy" width="500" height="411">
+      <div class="haiq-step-body">
+        <div class="haiq-step-heading">
+          <span class="haiq-step-number">03</span>
+          <h5><strong>Explore:</strong> Question Discussion and Future Directions</h5>
+        </div>
+        <p>Vote on 30 candidate questions. The top 10 will be presented and discussed at the HAI-Q Panel.</p>
+      </div>
     </div>
-    <p>Vote on 30 candidate questions. The top 10 will be presented and discussed at the HAI-Q Panel.</p>
   </section>
 </div>
 
