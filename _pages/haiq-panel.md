@@ -35,9 +35,7 @@ permalink: /haiq-panel/
   .haiq-step-number::after { content: ""; display: block; width: 2.25rem; height: 2px; margin-top: .45rem; background: #40c4d8; }
   .haiq-step h5 { min-height: 3.55rem; margin: 0; color: #163f67; font-size: 1rem; line-height: 1.4; }
   .haiq-step p { margin: auto 0 0; color: #40586a; font-size: .9rem; line-height: 1.55; }
-  .haiq-voting { display: grid; grid-template-columns: minmax(220px, .78fr) minmax(0, 1.22fr) 195px; align-items: center; gap: 1.6rem; margin: 1rem 0 1.6rem; padding: 1.5rem; border-left: 4px solid var(--haiq-cyan); border-radius: .2rem; background: #eef8fb; }
-  .haiq-voting-visual { margin: 0; overflow: hidden; border-radius: .2rem; }
-  .haiq-voting-visual img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+  .haiq-voting { display: grid; grid-template-columns: minmax(0, 1fr) 195px; align-items: center; gap: 1.8rem; margin: 1rem 0 1.6rem; padding: 1.5rem; border-left: 4px solid var(--haiq-cyan); border-radius: .2rem; background: #eef8fb; }
   .haiq-voting-copy h4 { margin-top: 0; color: var(--haiq-navy); font-size: 1.3rem; }
   .haiq-voting-copy p { margin: 0 0 .75rem; }
   .haiq-deadline { display: inline-block; margin: .15rem 0 .9rem !important; padding: .48rem .75rem; border-left: 3px solid var(--haiq-cyan); background: #fff; color: var(--haiq-navy); }
@@ -69,8 +67,6 @@ permalink: /haiq-panel/
     .haiq-process { grid-template-columns: 1fr; gap: 1.2rem; }
     .haiq-step h5 { min-height: 0; }
     .haiq-voting { grid-template-columns: minmax(0, 1fr) 180px; padding: 1.3rem; }
-    .haiq-voting-visual { grid-column: 1 / -1; }
-    .haiq-voting-visual img { aspect-ratio: 3 / 1; }
   }
   @media (max-width: 575.98px) {
     .haiq-page hr { margin: 1.8rem 0; }
@@ -83,8 +79,6 @@ permalink: /haiq-panel/
     .haiq-session { font-size: .9rem; }
     .haiq-visual img { aspect-ratio: 4 / 3; }
     .haiq-voting { grid-template-columns: 1fr; gap: 1.25rem; padding: 1.15rem; }
-    .haiq-voting-visual { grid-column: auto; }
-    .haiq-voting-visual img { aspect-ratio: 16 / 9; }
     .haiq-qr { width: 165px; }
     .haiq-people-sections { grid-template-columns: 1fr; gap: 1.5rem; }
     .haiq-contact-grid { display: block; }
@@ -162,9 +156,6 @@ permalink: /haiq-panel/
 ## Public Voting
 
 <div class="haiq-voting">
-  <figure class="haiq-voting-visual">
-    <img src="{{ '/assets/images/haiq/haiq-public-voting-questions.jpg' | relative_url }}" alt="Many future AI questions converging into a prioritized selection" loading="lazy" width="1200" height="675">
-  </figure>
   <div class="haiq-voting-copy">
     <h4>What Questions Matter Most for the Future of AI?</h4>
     <p>Review 30 candidate questions and select up to 10 that you consider most important and worth exploring.</p>
