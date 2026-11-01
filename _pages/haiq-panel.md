@@ -28,8 +28,7 @@ permalink: /haiq-panel/
   .haiq-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 1.35rem; margin: 1.15rem 0 .2rem; }
   .haiq-step { display: flex; min-width: 0; overflow: hidden; border-radius: .75rem; background: #fff; box-shadow: 0 8px 22px rgba(20,77,112,.13); }
   .haiq-step-inner { display: flex; width: 100%; flex-direction: column; }
-  .haiq-step-image { display: block; width: 100%; height: 230px; padding: .45rem; background: #087fbd; object-fit: contain; }
-  .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: 1rem 1.05rem 1.15rem; border-top: 3px solid #36c2d8; }
+  .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: 1.15rem 1.1rem 1.25rem; border-top: 3px solid #36c2d8; }
   .haiq-step-heading { margin-bottom: .65rem; }
   .haiq-step-number { display: block; margin-bottom: .25rem; color: #1685bd; font-size: 1.3rem; font-weight: 800; line-height: 1; letter-spacing: .03em; }
   .haiq-step-number::after { content: ""; display: block; width: 2.25rem; height: 2px; margin-top: .45rem; background: #40c4d8; }
@@ -65,7 +64,6 @@ permalink: /haiq-panel/
     .haiq-split { grid-template-columns: 1fr; gap: 1.2rem; }
     .haiq-split--reverse .haiq-visual { order: 0; }
     .haiq-process { grid-template-columns: 1fr; gap: 1.2rem; }
-    .haiq-step-image { height: 210px; }
     .haiq-step h5 { min-height: 0; }
     .haiq-voting { grid-template-columns: minmax(0, 1fr) 180px; padding: 1.3rem; }
   }
@@ -116,7 +114,6 @@ permalink: /haiq-panel/
 <div class="haiq-process">
   <section class="haiq-step">
     <div class="haiq-step-inner">
-      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step01_question_collection.webp' | relative_url }}" alt="A connected globe representing worldwide question collection" loading="lazy" width="502" height="411">
       <div class="haiq-step-body">
         <div class="haiq-step-heading">
           <span class="haiq-step-number">01</span>
@@ -128,7 +125,6 @@ permalink: /haiq-panel/
   </section>
   <section class="haiq-step">
     <div class="haiq-step-inner">
-      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step02_ai_analysis.webp' | relative_url }}" alt="AI-assisted analysis organizing and ranking related questions" loading="lazy" width="498" height="411">
       <div class="haiq-step-body">
         <div class="haiq-step-heading">
           <span class="haiq-step-number">02</span>
@@ -140,7 +136,6 @@ permalink: /haiq-panel/
   </section>
   <section class="haiq-step">
     <div class="haiq-step-inner">
-      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step03_panel_discussion.webp' | relative_url }}" alt="A panel discussing top questions and future directions" loading="lazy" width="500" height="411">
       <div class="haiq-step-body">
         <div class="haiq-step-heading">
           <span class="haiq-step-number">03</span>
