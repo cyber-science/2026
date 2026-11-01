@@ -35,7 +35,9 @@ permalink: /haiq-panel/
   .haiq-video-section { margin: 1.35rem 0 .35rem; text-align: center; }
   .haiq-video-section h4 { margin-bottom: .75rem; color: #1b365d; }
   .haiq-video-frame { width: 100%; max-width: 760px; aspect-ratio: 16 / 9; height: auto; background: #0d1f2d; }
-  .haiq-chairs { margin: .15rem 0 .35rem; color: #334f64; }
+  .haiq-people { margin: .15rem 0 .35rem; color: #334f64; }
+  .haiq-person { margin: 0 0 .9rem; line-height: 1.45; }
+  .haiq-person:last-child { margin-bottom: 0; }
   .haiq-contact-grid { display: flex; flex-wrap: wrap; gap: .7rem 2rem; margin-top: .8rem; }
   .haiq-contact-grid p { margin: 0; }
   .haiq-ethics-line { font-size: .92rem; }
@@ -144,9 +146,21 @@ permalink: /haiq-panel/
 
 <hr>
 
-## Forum Chairs
+## Panel Chairs
 
-<p class="haiq-chairs"><strong>To Be Announced</strong></p>
+<div class="haiq-people">
+  <p class="haiq-person"><strong>Jianhua Ma</strong><br>Hosei University, Japan</p>
+  <p class="haiq-person"><strong>Qun Jin</strong><br>Waseda University, Japan</p>
+</div>
+
+<hr>
+
+## Panelists
+
+<div class="haiq-people">
+  <p class="haiq-person"><strong>Nicolas Tsapatsoulis</strong><br>Cyprus University of Technology, Cyprus</p>
+  <p class="haiq-person"><strong>Hongji Yang</strong><br>University of Leicester, United Kingdom</p>
+</div>
 
 <hr>
 
