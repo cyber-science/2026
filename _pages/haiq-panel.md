@@ -114,11 +114,11 @@ permalink: /haiq-panel/
     <p>Review 30 candidate questions and select up to 10 that you consider most important and worth exploring.</p>
     <p class="haiq-deadline"><strong>Voting Deadline: November 10, 2026</strong></p>
     <p>Voting results will be used to rank the candidate questions. The top ten questions will be presented and discussed at the HAI-Q panel on November 12, 2026.</p>
-    <a class="haiq-vote-button" href="https://forms.gle/qeZiTSL2pgwpAd568" target="_blank" rel="noopener noreferrer">Vote Now</a>
+    <a class="haiq-vote-button" href="https://forms.gle/d6FXhrLuiSFn5gAC9" target="_blank" rel="noopener noreferrer">Vote Now</a>
   </div>
   <div class="haiq-voting-qr">
-    <a href="https://forms.gle/qeZiTSL2pgwpAd568" target="_blank" rel="noopener noreferrer" aria-label="Open the HAI-Q voting form">
-      <img class="haiq-qr" src="{{ '/assets/images/haiq/haiq-voting-qr.png' | relative_url }}" alt="QR code for the HAI-Q public voting form">
+    <a href="https://forms.gle/d6FXhrLuiSFn5gAC9" target="_blank" rel="noopener noreferrer" aria-label="Open the HAI-Q voting form">
+      <img class="haiq-qr" src="{{ '/assets/images/haiq/haiq-voting-qr-final.png' | relative_url }}" alt="QR code for the HAI-Q public voting form">
     </a>
     <strong class="haiq-scan-label">Scan to Vote</strong>
   </div>
