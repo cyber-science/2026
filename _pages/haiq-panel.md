@@ -90,8 +90,8 @@ permalink: /haiq-panel/
       </div>
       <div class="haiq-people-group">
         <span class="haiq-meta-label">Panelists</span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, Cyprus University of Technology, Cyprus</span></span>
         <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, University of Leicester, United Kingdom</span></span>
+        <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, Cyprus University of Tech., Cyprus</span></span>
       </div>
     </div>
   </section>
