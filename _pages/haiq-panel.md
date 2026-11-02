@@ -26,8 +26,13 @@ permalink: /haiq-panel/
   .haiq-visual:hover img { transform: scale(1.02); }
   .haiq-about { max-width: 920px; margin: 0; line-height: 1.65; }
   .haiq-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 1.35rem; margin: 1.15rem 0 .2rem; }
-  .haiq-step { display: flex; min-width: 0; overflow: hidden; border-radius: .75rem; background: #fff; box-shadow: 0 8px 22px rgba(20,77,112,.13); }
+  .haiq-step { display: flex; min-width: 0; overflow: hidden; border-radius: .75rem; background: #fff; box-shadow: 0 8px 22px rgba(20,77,112,.13); opacity: 0; animation: haiq-card-in .55s ease-out forwards; transition: transform .25s ease, box-shadow .25s ease; }
+  .haiq-step:nth-child(2) { animation-delay: .12s; }
+  .haiq-step:nth-child(3) { animation-delay: .24s; }
+  .haiq-step:hover { transform: translateY(-4px); box-shadow: 0 12px 28px rgba(20,77,112,.18); }
   .haiq-step-inner { display: flex; width: 100%; flex-direction: column; }
+  .haiq-step-image { display: block; width: min(72%, 220px); height: auto; margin: 1rem auto; border-radius: .4rem; transition: transform .35s ease; }
+  .haiq-step:hover .haiq-step-image { transform: scale(1.035); }
   .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: 1.15rem 1.1rem 1.25rem; border-top: 3px solid #36c2d8; }
   .haiq-step-heading { margin-bottom: .65rem; }
   .haiq-step-number { display: block; margin-bottom: .25rem; color: #1685bd; font-size: 1.3rem; font-weight: 800; line-height: 1; letter-spacing: .03em; }
@@ -55,6 +60,7 @@ permalink: /haiq-panel/
   .haiq-ethics-line { font-size: .92rem; }
   @keyframes haiq-flow { from { background-position: 0 0; } to { background-position: 100% 0; } }
   @keyframes haiq-rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes haiq-card-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
   @media (min-width: 1200px) {
     .haiq-ethics-line { white-space: nowrap; }
   }
@@ -85,7 +91,8 @@ permalink: /haiq-panel/
   }
   @media (prefers-reduced-motion: reduce) {
     .haiq-hero::after, .haiq-hero-copy { animation: none; }
-    .haiq-visual img, .haiq-vote-button { transition: none; }
+    .haiq-step { opacity: 1; animation: none; }
+    .haiq-step, .haiq-step-image, .haiq-visual img, .haiq-vote-button { transition: none; }
   }
 </style>
 
@@ -114,6 +121,7 @@ permalink: /haiq-panel/
 <div class="haiq-process">
   <section class="haiq-step">
     <div class="haiq-step-inner">
+      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step01_question_collection.webp' | relative_url }}" alt="A connected globe representing worldwide question collection" loading="lazy" width="502" height="411">
       <div class="haiq-step-body">
         <div class="haiq-step-heading">
           <span class="haiq-step-number">01</span>
@@ -125,6 +133,7 @@ permalink: /haiq-panel/
   </section>
   <section class="haiq-step">
     <div class="haiq-step-inner">
+      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step02_ai_analysis.webp' | relative_url }}" alt="AI-assisted analysis organizing and ranking related questions" loading="lazy" width="498" height="411">
       <div class="haiq-step-body">
         <div class="haiq-step-heading">
           <span class="haiq-step-number">02</span>
@@ -136,6 +145,7 @@ permalink: /haiq-panel/
   </section>
   <section class="haiq-step">
     <div class="haiq-step-inner">
+      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step03_panel_discussion.webp' | relative_url }}" alt="A panel discussing top questions and future directions" loading="lazy" width="500" height="411">
       <div class="haiq-step-body">
         <div class="haiq-step-heading">
           <span class="haiq-step-number">03</span>
