@@ -1,6 +1,6 @@
 ---
 title: HAI-Q Panel
-layout: sub
+layout: sub-haiq
 permalink: /haiq-panel/
 ---
 
