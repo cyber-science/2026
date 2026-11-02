@@ -15,10 +15,10 @@ permalink: /haiq-panel/
   .haiq-hero-copy { position: relative; z-index: 4; width: min(55%, 630px); padding: 2.65rem 2.4rem; color: #fff; animation: haiq-rise .8s ease-out both; }
   .haiq-hero-media { position: absolute; top: 0; right: 0; bottom: 0; z-index: 1; width: 54%; overflow: hidden; pointer-events: none; -webkit-mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); }
   .haiq-hero-video { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center center; }
-  .haiq-logo { display: block; width: 190px; max-width: 46%; height: auto; margin-bottom: 1.1rem; padding: .35rem .45rem; border-radius: .2rem; background: rgba(255,255,255,.92); }
+  .haiq-logo { display: block; width: 210px; max-width: 48%; height: auto; margin-bottom: 1.1rem; }
   .haiq-label { margin: 0 0 .45rem; color: #9feeff; font-size: .88rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
   .haiq-title { margin: 0 0 .7rem; color: #fff; font-size: clamp(2rem, 4vw, 3.15rem); line-height: 1.08; text-shadow: 0 2px 22px rgba(0,0,0,.2); }
-  .haiq-subtitle { max-width: 590px; margin: 0; color: #e9f8fc; font-size: 1.06rem; line-height: 1.55; }
+  .haiq-subtitle { margin: 0; color: #e9f8fc; font-size: clamp(.9rem, 1.25vw, 1.02rem); line-height: 1.55; }
   .haiq-session { margin: 1.25rem 0 0; padding-top: .85rem; border-top: 1px solid rgba(178,232,247,.55); color: #fff; font-size: .92rem; line-height: 1.5; }
   .haiq-split { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(300px, .95fr); align-items: center; gap: 2.2rem; }
   .haiq-split--reverse .haiq-visual { order: -1; }
@@ -64,6 +64,7 @@ permalink: /haiq-panel/
   @keyframes haiq-rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes haiq-card-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
   @media (min-width: 1200px) {
+    .haiq-subtitle { white-space: nowrap; }
     .haiq-ethics-line { white-space: nowrap; }
   }
   @media (max-width: 767.98px) {
@@ -109,7 +110,16 @@ permalink: /haiq-panel/
     </video>
   </div>
   <div class="haiq-hero-copy">
-    <img class="haiq-logo" src="{{ '/assets/images/haiq/haiq-logo-from-poster.png' | relative_url }}" alt="HAI-Q: Hyper/Super AI Questions Initiative logo">
+    <svg class="haiq-logo" viewBox="0 0 452 160" role="img" aria-labelledby="haiq-logo-title">
+      <title id="haiq-logo-title">HAI-Q: Hyper/Super AI Questions Initiative logo</title>
+      <defs>
+        <filter id="haiq-white-logo" color-interpolation-filters="sRGB">
+          <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  -0.333 -0.333 -0.333 0 1"></feColorMatrix>
+          <feComponentTransfer><feFuncA type="discrete" tableValues="0 0 1 1 1"></feFuncA></feComponentTransfer>
+        </filter>
+      </defs>
+      <image href="{{ '/assets/images/haiq/haiq-logo-from-poster.png' | relative_url }}" width="452" height="160" filter="url(#haiq-white-logo)"></image>
+    </svg>
     <p class="haiq-label">Panel-Q | HAI-Q</p>
     <h1 class="haiq-title">Questions of a Thousand Questions for Future AI</h1>
     <p class="haiq-subtitle">Methods, Rationale, and Reflections on Large-Scale Open Question Selection</p>
