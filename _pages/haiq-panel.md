@@ -10,17 +10,9 @@ permalink: /haiq-panel/
   .haiq-page hr { margin: 1.75rem 0 1rem; border: 0; border-top: 1px solid #d6e6ee; }
   .haiq-page > h2 { margin: 0 0 .85rem; color: var(--haiq-navy); font-size: 1.65rem; line-height: 1.2; }
   .haiq-hero { position: relative; height: 445px; min-height: 0; margin: .35rem 0 0; overflow: hidden; border-radius: .35rem; background: radial-gradient(circle at 79% 38%, rgba(55,205,235,.24), transparent 29%), radial-gradient(circle at 88% 82%, rgba(35,190,224,.18), transparent 27%), linear-gradient(118deg, #123b63 0%, #18507d 53%, #2570a3 100%); isolation: isolate; }
-  .haiq-hero::before { content: ""; position: absolute; inset: 0; z-index: -1; background-image: linear-gradient(rgba(65,193,232,.04) 1px, transparent 1px), linear-gradient(90deg, rgba(65,193,232,.04) 1px, transparent 1px); background-size: 36px 36px; mask-image: linear-gradient(90deg, transparent 32%, #000 65%); }
   .haiq-hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; z-index: 5; height: 2px; background: linear-gradient(90deg, var(--haiq-cyan), rgba(255,255,255,.75), transparent); animation: haiq-flow 5s ease-in-out infinite alternate; }
-  .haiq-hero-copy { position: relative; z-index: 4; width: min(59%, 680px); padding: 1.3rem 2rem; color: #fff; animation: haiq-rise .8s ease-out both; }
-  .haiq-hero-media { position: absolute; top: 0; right: 0; bottom: 0; z-index: 1; width: 54%; overflow: hidden; pointer-events: none; -webkit-mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); }
-  .haiq-hero-video { display: block; width: 100%; height: 100%; object-fit: contain; object-position: right center; }
-  .haiq-logo { display: block; width: 260px; max-width: 46%; height: auto; margin-bottom: .45rem; }
-  .haiq-label { margin: 0 0 .3rem; color: #9feeff; font-size: .84rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
-  .haiq-title { max-width: 650px; margin: 0 0 .4rem; color: #fff; font-size: clamp(3rem, 3.8vw, 3.35rem); line-height: 1.04; text-shadow: 0 2px 22px rgba(0,0,0,.2); }
-  .haiq-title-line { display: block; }
-  .haiq-subtitle { margin: 0; color: #e9f8fc; font-size: clamp(.84rem, 1.15vw, .96rem); line-height: 1.45; }
-  .haiq-session { margin: .65rem 0 0; padding-top: .55rem; border-top: 1px solid rgba(178,232,247,.55); color: #fff; font-size: .86rem; line-height: 1.35; }
+  .haiq-hero-media { position: absolute; inset: 0; z-index: 1; overflow: hidden; pointer-events: none; }
+  .haiq-hero-video { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center top; }
   .haiq-copy p:last-child { margin-bottom: 0; }
   .haiq-visual { position: relative; margin: 0; overflow: hidden; border-radius: .25rem; background: var(--haiq-pale); box-shadow: 0 6px 18px rgba(25,84,122,.1); }
   .haiq-visual img { display: block; width: 100%; height: 100%; aspect-ratio: 2 / 1; object-fit: cover; transition: transform .6s ease; }
@@ -68,18 +60,13 @@ permalink: /haiq-panel/
   .haiq-contact-grid p { margin: 0; }
   .haiq-ethics-line { font-size: .92rem; }
   @keyframes haiq-flow { from { background-position: 0 0; } to { background-position: 100% 0; } }
-  @keyframes haiq-rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes haiq-card-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
   @media (min-width: 1200px) {
-    .haiq-subtitle { white-space: nowrap; }
     .haiq-ethics-line { white-space: nowrap; }
   }
   @media (max-width: 991.98px) {
-    .haiq-hero { height: 620px; }
-    .haiq-hero-copy { width: 100%; padding: 1.5rem 1.5rem 275px; }
-    .haiq-hero-media { top: auto; width: 100%; height: 290px; opacity: .92; -webkit-mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); }
-    .haiq-hero-video { object-position: center center; }
-    .haiq-logo { width: 220px; }
+    .haiq-hero { height: auto; aspect-ratio: 2 / 1; }
+    .haiq-hero-video { object-fit: contain; object-position: center center; }
     .haiq-panel-overview { grid-template-columns: 1fr; }
     .haiq-people-sections { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
@@ -91,16 +78,6 @@ permalink: /haiq-panel/
   }
   @media (max-width: 575.98px) {
     .haiq-page hr { margin: 1.6rem 0 .9rem; }
-    .haiq-hero { height: 610px; }
-    .haiq-hero-copy { padding: 1.15rem 1.1rem 240px; }
-    .haiq-hero-media { height: 255px; }
-    .haiq-logo { width: 135px; max-width: 48%; margin-bottom: .45rem; }
-    .haiq-title { font-size: 1.9rem; line-height: 1.08; }
-    .haiq-title-line { display: inline; }
-    .haiq-title-line + .haiq-title-line::before { content: " "; }
-    .haiq-label { font-size: .78rem; }
-    .haiq-subtitle { font-size: .84rem; line-height: 1.4; }
-    .haiq-session { margin-top: .65rem; padding-top: .55rem; font-size: .82rem; }
     .haiq-visual img { aspect-ratio: 4 / 3; }
     .haiq-panel-discussion-layout { grid-template-columns: 1fr; }
     .haiq-discussion-visual { max-width: 320px; }
@@ -111,7 +88,7 @@ permalink: /haiq-panel/
     .haiq-contact-grid p + p { margin-top: .7rem; }
   }
   @media (prefers-reduced-motion: reduce) {
-    .haiq-hero::after, .haiq-hero-copy { animation: none !important; }
+    .haiq-hero::after { animation: none !important; }
     .haiq-step { opacity: 1; animation: none; }
     .haiq-step, .haiq-step-image, .haiq-visual img, .haiq-vote-button { transition: none; }
   }
@@ -119,18 +96,11 @@ permalink: /haiq-panel/
 
 <div class="haiq-page" markdown="1">
 
-<div class="haiq-hero" role="img" aria-label="Future AI question space visualized as a luminous semantic knowledge network">
+<div class="haiq-hero" role="img" aria-label="HAI-Q Panel: Questions of a Thousand Questions for Future Hyper/Super AI, November 12, 2026, Melbourne, Australia">
   <div class="haiq-hero-media" aria-hidden="true">
-    <video class="haiq-hero-video" autoplay muted loop playsinline preload="metadata" poster="{{ '/assets/images/haiq/haiq-hero-right-poster.png' | relative_url }}">
-      <source src="{{ '/assets/videos/haiq/HAIQ_right_background.mp4' | relative_url }}" type="video/mp4">
+    <video class="haiq-hero-video" autoplay muted loop playsinline preload="metadata" poster="{{ '/assets/images/haiq/haiq-hero-full-poster.png' | relative_url }}">
+      <source src="{{ '/assets/videos/haiq/haiq-hero-full.mp4' | relative_url }}" type="video/mp4">
     </video>
-  </div>
-  <div class="haiq-hero-copy">
-    <img class="haiq-logo" src="{{ '/assets/images/haiq/haiq-logo-transparent.png' | relative_url }}" width="452" height="160" alt="HAI-Q: Hyper/Super AI Questions Initiative logo">
-    <p class="haiq-label">Panel-Q | HAI-Q</p>
-    <h1 class="haiq-title"><span class="haiq-title-line">Questions of a Thousand</span><span class="haiq-title-line">Questions for Future AI</span></h1>
-    <p class="haiq-subtitle">Methods, Rationale, and Reflections on Large-Scale Open Question Selection</p>
-    <p class="haiq-session"><strong>November 12, 2026</strong> &nbsp;|&nbsp; 10:50 AM &ndash; 12:20 PM AEDT &nbsp;|&nbsp; Melbourne, Australia</p>
   </div>
 </div>
 
