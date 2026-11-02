@@ -34,7 +34,7 @@ permalink: /haiq-panel/
     z-index: 2;
     width: min(100%, 1500px);
     margin: -42px auto 0;
-    padding: 52px clamp(1.5rem, 4vw, 4rem) 1.25rem;
+    padding: 72px clamp(1.5rem, 4vw, 4rem) 2rem;
     color: #fff;
   }
   .haiq-meta::before {
@@ -49,24 +49,42 @@ permalink: /haiq-panel/
   }
   .haiq-meta-top { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
   .haiq-event { min-width: 0; }
-  .haiq-event h2 { margin: 0; color: #fff; font-size: 22px; font-weight: 600; line-height: 1.3; }
-  .haiq-venue { margin: .28rem 0 0; color: #c1d7e9; font-size: 16px; line-height: 1.45; }
+  .haiq-event h2 { margin: 0; color: #fff; font-size: 26px; font-weight: 700; line-height: 1.3; }
+  .haiq-venue { margin: .4rem 0 0; color: #c1d7e9; font-size: 18px; line-height: 1.45; }
   .haiq-voting { flex: 0 0 auto; text-align: right; }
-  .haiq-vote-link { display: inline-block; padding: .58rem 1.3rem; border-radius: .45rem; background: #2bbbd2; color: #fff !important; font-size: 17px; font-weight: 600; line-height: 1.2; text-decoration: none !important; transition: background .2s ease, transform .2s ease; }
+  .haiq-vote-link { display: inline-block; padding: .68rem 1.45rem; border-radius: .45rem; background: #2bbbd2; color: #fff !important; font-size: 18px; font-weight: 600; line-height: 1.2; text-decoration: none !important; transition: background .2s ease, transform .2s ease; }
   .haiq-vote-link:hover, .haiq-vote-link:focus { background: #39c8de; transform: translateY(-1px); }
-  .haiq-deadline { margin: .42rem 0 0; color: #c1d7e9; font-size: 15px; line-height: 1.4; }
-  .haiq-people { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem; margin-top: 1.05rem; }
+  .haiq-deadline { margin: .52rem 0 0; color: #c1d7e9; font-size: 17px; line-height: 1.4; }
+  .haiq-people { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem; margin-top: 1.75rem; }
   .haiq-people-group { min-width: 0; }
-  .haiq-meta-label { display: block; margin-bottom: .48rem; color: #70d9f5; font-size: 14px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
-  .haiq-meta-person { display: block; margin-top: .32rem; line-height: 1.42; }
+  .haiq-meta-label { display: block; margin-bottom: 15px; color: #70d9f5; font-size: 16px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
+  .haiq-meta-person { display: block; margin-top: 14px; line-height: 1.5; }
   .haiq-meta-person:first-of-type { margin-top: 0; }
-  .haiq-person-name { color: #fff; font-size: 18px; font-weight: 600; }
-  .haiq-person-affiliation { color: #c1d7e9; font-size: 16px; font-weight: 400; }
+  .haiq-person-name { color: #fff; font-size: 21px; font-weight: 600; }
+  .haiq-person-affiliation { color: #c1d7e9; font-size: 18px; font-weight: 400; }
+  @media (min-width: 1440px) {
+    .haiq-meta { padding-top: 78px; padding-bottom: 38px; }
+    .haiq-event h2 { font-size: 30px; font-weight: 700; }
+    .haiq-venue { font-size: 20px; }
+    .haiq-meta-label { margin-bottom: 16px; font-size: 18px; font-weight: 600; }
+    .haiq-meta-person { margin-top: 15px; line-height: 1.5; }
+    .haiq-person-name { font-size: 24px; font-weight: 600; }
+    .haiq-person-affiliation { font-size: 20px; font-weight: 400; }
+    .haiq-vote-link { font-size: 20px; font-weight: 600; }
+    .haiq-deadline { font-size: 18px; }
+  }
   @media (max-width: 767.98px) {
-    .haiq-meta { padding-right: 1.4rem; padding-left: 1.4rem; }
+    .haiq-meta { padding: 68px 1.4rem 2rem; }
     .haiq-meta-top { align-items: flex-start; flex-direction: column; gap: 1rem; }
     .haiq-voting { text-align: left; }
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; margin-top: 1.5rem; }
+    .haiq-event h2 { font-size: 24px; }
+    .haiq-venue { font-size: 17px; }
+    .haiq-meta-label { font-size: 15px; }
+    .haiq-person-name { font-size: 20px; }
+    .haiq-person-affiliation { font-size: 17px; }
+    .haiq-vote-link { font-size: 18px; }
+    .haiq-deadline { font-size: 16px; }
   }
   @media (max-width: 699.98px) {
     .haiq-page { display: grid; min-height: calc(100svh - 1px); place-items: start center; }
