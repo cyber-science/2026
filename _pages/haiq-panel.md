@@ -6,54 +6,61 @@ permalink: /haiq-panel/
 
 <style>
   :root { --haiq-navy: #123a61; --haiq-blue: #176b9c; --haiq-cyan: #23b7cf; --haiq-pale: #eef9fc; --haiq-ink: #263f53; }
-  .haiq-page { color: var(--haiq-ink); }
-  .haiq-page hr { margin: 2rem 0; border: 0; border-top: 1px solid #d6e6ee; }
-  .haiq-page > h2 { margin-bottom: 1.1rem; color: var(--haiq-navy); font-size: 1.65rem; }
-  .haiq-hero { position: relative; min-height: 500px; margin: .35rem 0 2.5rem; overflow: hidden; border-radius: .35rem; background: radial-gradient(circle at 78% 42%, rgba(16,143,210,.3), transparent 25%), radial-gradient(circle at 86% 84%, rgba(0,210,238,.2), transparent 24%), linear-gradient(118deg, #041a35 0%, #062a50 53%, #041e3d 100%); isolation: isolate; }
+  .haiq-page { width: 100%; max-width: 1180px; margin: 0 auto; color: var(--haiq-ink); }
+  .haiq-page hr { margin: 2.25rem 0 1.25rem; border: 0; border-top: 1px solid #d6e6ee; }
+  .haiq-page > h2 { margin: 0 0 .85rem; color: var(--haiq-navy); font-size: 1.65rem; line-height: 1.2; }
+  .haiq-hero { position: relative; height: 480px; min-height: 0; margin: .35rem 0 0; overflow: hidden; border-radius: .35rem; background: radial-gradient(circle at 78% 42%, rgba(16,143,210,.3), transparent 25%), radial-gradient(circle at 86% 84%, rgba(0,210,238,.2), transparent 24%), linear-gradient(118deg, #041a35 0%, #062a50 53%, #041e3d 100%); isolation: isolate; }
   .haiq-hero::before { content: ""; position: absolute; inset: 0; z-index: -1; background-image: linear-gradient(rgba(65,193,232,.04) 1px, transparent 1px), linear-gradient(90deg, rgba(65,193,232,.04) 1px, transparent 1px); background-size: 36px 36px; mask-image: linear-gradient(90deg, transparent 32%, #000 65%); }
   .haiq-hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; z-index: 5; height: 2px; background: linear-gradient(90deg, var(--haiq-cyan), rgba(255,255,255,.75), transparent); animation: haiq-flow 5s ease-in-out infinite alternate; }
-  .haiq-hero-copy { position: relative; z-index: 4; width: min(55%, 630px); padding: 2.65rem 2.4rem; color: #fff; animation: haiq-rise .8s ease-out both; }
+  .haiq-hero-copy { position: relative; z-index: 4; width: min(57%, 650px); padding: 1.75rem 2.15rem; color: #fff; animation: haiq-rise .8s ease-out both; }
   .haiq-hero-media { position: absolute; top: 0; right: 0; bottom: 0; z-index: 1; width: 54%; overflow: hidden; pointer-events: none; -webkit-mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); }
-  .haiq-hero-video { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center center; }
-  .haiq-logo { display: block; width: 210px; max-width: 48%; height: auto; margin-bottom: 1.1rem; }
-  .haiq-label { margin: 0 0 .45rem; color: #9feeff; font-size: .88rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
-  .haiq-title { margin: 0 0 .7rem; color: #fff; font-size: clamp(2rem, 4vw, 3.15rem); line-height: 1.08; text-shadow: 0 2px 22px rgba(0,0,0,.2); }
-  .haiq-subtitle { margin: 0; color: #e9f8fc; font-size: clamp(.9rem, 1.25vw, 1.02rem); line-height: 1.55; }
-  .haiq-session { margin: 1.25rem 0 0; padding-top: .85rem; border-top: 1px solid rgba(178,232,247,.55); color: #fff; font-size: .92rem; line-height: 1.5; }
-  .haiq-split { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(300px, .95fr); align-items: center; gap: 2.2rem; }
+  .haiq-hero-video { display: block; width: 100%; height: 100%; object-fit: contain; object-position: right center; }
+  .haiq-logo { display: block; width: 168px; max-width: 44%; height: auto; margin-bottom: .65rem; }
+  .haiq-label { margin: 0 0 .3rem; color: #9feeff; font-size: .84rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .haiq-title { max-width: 630px; margin: 0 0 .5rem; color: #fff; font-size: clamp(3rem, 4vw, 3.5rem); line-height: 1.04; text-shadow: 0 2px 22px rgba(0,0,0,.2); }
+  .haiq-title-line { display: block; }
+  .haiq-subtitle { margin: 0; color: #e9f8fc; font-size: clamp(.84rem, 1.15vw, .96rem); line-height: 1.45; }
+  .haiq-session { margin: .8rem 0 0; padding-top: .65rem; border-top: 1px solid rgba(178,232,247,.55); color: #fff; font-size: .88rem; line-height: 1.4; }
+  .haiq-split { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(300px, .95fr); align-items: center; gap: 1.75rem; }
   .haiq-split--reverse .haiq-visual { order: -1; }
   .haiq-copy p:last-child { margin-bottom: 0; }
   .haiq-visual { position: relative; margin: 0; overflow: hidden; border-radius: .25rem; background: var(--haiq-pale); box-shadow: 0 6px 18px rgba(25,84,122,.1); }
   .haiq-visual img { display: block; width: 100%; height: 100%; aspect-ratio: 2 / 1; object-fit: cover; transition: transform .6s ease; }
   .haiq-visual:hover img { transform: scale(1.02); }
-  .haiq-about { max-width: 920px; margin: 0; line-height: 1.65; }
-  .haiq-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 1.35rem; margin: 1.15rem 0 .2rem; }
+  .haiq-about { max-width: 920px; margin: 0; line-height: 1.6; }
+  .haiq-about-flow { display: flex; align-items: center; flex-wrap: wrap; gap: .45rem .7rem; margin-top: .9rem; color: var(--haiq-blue); font-size: .9rem; font-weight: 600; }
+  .haiq-about-flow span { display: inline-flex; align-items: baseline; gap: .3rem; }
+  .haiq-about-flow strong { color: var(--haiq-navy); font-size: 1.05rem; }
+  .haiq-about-flow i { color: var(--haiq-cyan); font-style: normal; }
+  .haiq-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 1rem; margin: .9rem 0 0; }
   .haiq-step { display: flex; min-width: 0; overflow: hidden; border-radius: .75rem; background: #fff; box-shadow: 0 8px 22px rgba(20,77,112,.13); opacity: 0; animation: haiq-card-in .55s ease-out forwards; transition: transform .25s ease, box-shadow .25s ease; }
   .haiq-step:nth-child(2) { animation-delay: .12s; }
   .haiq-step:nth-child(3) { animation-delay: .24s; }
   .haiq-step:hover { transform: translateY(-4px); box-shadow: 0 12px 28px rgba(20,77,112,.18); }
   .haiq-step-inner { display: flex; width: 100%; flex-direction: column; }
-  .haiq-step-image { display: block; width: min(72%, 220px); height: auto; margin: 1rem auto; border-radius: .4rem; transition: transform .35s ease; }
+  .haiq-step-image { display: block; width: 100%; height: 155px; margin: 0; object-fit: contain; border-radius: 0; background: #eaf7fb; transition: transform .35s ease; }
   .haiq-step:hover .haiq-step-image { transform: scale(1.035); }
-  .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: 1.15rem 1.1rem 1.25rem; border-top: 3px solid #36c2d8; }
-  .haiq-step-heading { margin-bottom: .65rem; }
-  .haiq-step-number { display: block; margin-bottom: .25rem; color: #1685bd; font-size: 1.3rem; font-weight: 800; line-height: 1; letter-spacing: .03em; }
-  .haiq-step-number::after { content: ""; display: block; width: 2.25rem; height: 2px; margin-top: .45rem; background: #40c4d8; }
-  .haiq-step h5 { min-height: 3.55rem; margin: 0; color: #163f67; font-size: 1rem; line-height: 1.4; }
-  .haiq-step p { margin: auto 0 0; color: #40586a; font-size: .9rem; line-height: 1.55; }
-  .haiq-voting { display: grid; grid-template-columns: minmax(0, 1fr) 195px; align-items: center; gap: 1.8rem; margin: 1rem 0 1.6rem; padding: 1.5rem; border-left: 4px solid var(--haiq-cyan); border-radius: .2rem; background: #eef8fb; }
+  .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: .85rem .95rem 1rem; border-top: 3px solid #36c2d8; }
+  .haiq-step-heading { margin-bottom: .45rem; }
+  .haiq-step-number { display: block; margin-bottom: .2rem; color: #1685bd; font-size: 1.2rem; font-weight: 800; line-height: 1; letter-spacing: .03em; }
+  .haiq-step-number::after { content: ""; display: block; width: 2rem; height: 2px; margin-top: .35rem; background: #40c4d8; }
+  .haiq-step h5 { min-height: 3.1rem; margin: 0; color: #163f67; font-size: .96rem; line-height: 1.35; }
+  .haiq-step p { margin: .45rem 0 0; color: #40586a; font-size: .88rem; line-height: 1.48; }
+  .haiq-voting { display: grid; grid-template-columns: minmax(0, 1fr) 190px; align-items: center; gap: 1.4rem; margin: .8rem 0 0; padding: 1.2rem 1.3rem; border-left: 4px solid var(--haiq-cyan); border-radius: .2rem; background: #eef8fb; }
   .haiq-voting-copy h4 { margin-top: 0; color: var(--haiq-navy); font-size: 1.3rem; }
-  .haiq-voting-copy p { margin: 0 0 .75rem; }
+  .haiq-voting-copy p { margin: 0 0 .6rem; }
   .haiq-deadline { display: inline-block; margin: .15rem 0 .9rem !important; padding: .48rem .75rem; border-left: 3px solid var(--haiq-cyan); background: #fff; color: var(--haiq-navy); }
   .haiq-vote-button { display: inline-block; margin: .2rem 0 0; padding: .72rem 1.45rem; border-radius: 2rem; background: linear-gradient(100deg, var(--haiq-blue), #139bb8); box-shadow: 0 7px 16px rgba(16,112,151,.22); color: #fff !important; font-weight: 700; text-decoration: none !important; transition: transform .2s ease, box-shadow .2s ease; }
   .haiq-vote-button:hover, .haiq-vote-button:focus { transform: translateY(-2px); box-shadow: 0 10px 20px rgba(16,112,151,.3); }
   .haiq-voting-qr { text-align: center; }
-  .haiq-qr { display: block; width: 180px; max-width: 100%; height: auto; margin: 0 auto .45rem; padding: .45rem; border-radius: .2rem; background: #fff; box-shadow: 0 5px 14px rgba(12,66,98,.1); }
+  .haiq-qr { display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto .35rem; padding: .4rem; border-radius: .2rem; background: #fff; box-shadow: 0 5px 14px rgba(12,66,98,.1); }
   .haiq-scan-label { color: var(--haiq-blue); font-size: .9rem; }
   .haiq-discussion-visual img { aspect-ratio: 16 / 9; }
-  .haiq-people-sections { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+  .haiq-copy p { margin: 0 0 .65rem; }
+  .haiq-discussion-meta { display: inline-block; margin: .15rem 0 0 !important; padding: .55rem .7rem; border-left: 3px solid var(--haiq-cyan); background: var(--haiq-pale); line-height: 1.45; }
+  .haiq-people-sections { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
   .haiq-people-section { padding-left: 1rem; border-left: 3px solid #8ed8e6; }
-  .haiq-people-section h2 { margin: 0 0 .85rem; color: var(--haiq-navy); font-size: 1.45rem; }
+  .haiq-people-section h2 { margin: 0 0 .6rem; color: var(--haiq-navy); font-size: 1.4rem; }
   .haiq-people { margin: 0; color: #334f64; }
   .haiq-person { margin: 0 0 .4rem; line-height: 1.5; }
   .haiq-person:last-child { margin-bottom: 0; }
@@ -67,11 +74,13 @@ permalink: /haiq-panel/
     .haiq-subtitle { white-space: nowrap; }
     .haiq-ethics-line { white-space: nowrap; }
   }
+  @media (max-width: 991.98px) {
+    .haiq-hero { height: 620px; }
+    .haiq-hero-copy { width: 100%; padding: 1.5rem 1.5rem 275px; }
+    .haiq-hero-media { top: auto; width: 100%; height: 290px; opacity: .92; -webkit-mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); }
+    .haiq-hero-video { object-position: center center; }
+  }
   @media (max-width: 767.98px) {
-    .haiq-hero { min-height: 650px; }
-    .haiq-hero-copy { width: 100%; padding: 2rem 1.5rem 300px; }
-    .haiq-hero-media { top: auto; width: 100%; height: 330px; opacity: .92; -webkit-mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); }
-    .haiq-hero-video { object-position: center 46%; }
     .haiq-split { grid-template-columns: 1fr; gap: 1.2rem; }
     .haiq-split--reverse .haiq-visual { order: 0; }
     .haiq-process { grid-template-columns: 1fr; gap: 1.2rem; }
@@ -79,14 +88,19 @@ permalink: /haiq-panel/
     .haiq-voting { grid-template-columns: minmax(0, 1fr) 180px; padding: 1.3rem; }
   }
   @media (max-width: 575.98px) {
-    .haiq-page hr { margin: 1.8rem 0; }
-    .haiq-hero { min-height: 690px; }
-    .haiq-hero-copy { width: 100%; padding: 1.5rem 1.2rem 310px; }
-    .haiq-hero-media { height: 310px; }
-    .haiq-logo { width: 155px; max-width: 52%; }
-    .haiq-title { font-size: 1.8rem; }
-    .haiq-label { font-size: .85rem; }
-    .haiq-session { font-size: .9rem; }
+    .haiq-page hr { margin: 2rem 0 1.1rem; }
+    .haiq-hero { height: 610px; }
+    .haiq-hero-copy { padding: 1.15rem 1.1rem 240px; }
+    .haiq-hero-media { height: 255px; }
+    .haiq-logo { width: 135px; max-width: 48%; margin-bottom: .45rem; }
+    .haiq-title { font-size: 1.9rem; line-height: 1.08; }
+    .haiq-title-line { display: inline; }
+    .haiq-title-line + .haiq-title-line::before { content: " "; }
+    .haiq-label { font-size: .78rem; }
+    .haiq-subtitle { font-size: .84rem; line-height: 1.4; }
+    .haiq-session { margin-top: .65rem; padding-top: .55rem; font-size: .82rem; }
+    .haiq-about-flow { align-items: flex-start; flex-direction: column; gap: .25rem; }
+    .haiq-about-flow i { display: none; }
     .haiq-visual img { aspect-ratio: 4 / 3; }
     .haiq-voting { grid-template-columns: 1fr; gap: 1.25rem; padding: 1.15rem; }
     .haiq-qr { width: 165px; }
@@ -115,13 +129,13 @@ permalink: /haiq-panel/
       <defs>
         <filter id="haiq-white-logo" color-interpolation-filters="sRGB">
           <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  -0.333 -0.333 -0.333 0 1"></feColorMatrix>
-          <feComponentTransfer><feFuncA type="discrete" tableValues="0 0 1 1 1"></feFuncA></feComponentTransfer>
+          <feComponentTransfer><feFuncA type="discrete" tableValues="0 1 1 1 1"></feFuncA></feComponentTransfer>
         </filter>
       </defs>
       <image href="{{ '/assets/images/haiq/haiq-logo-from-poster.png' | relative_url }}" width="452" height="160" filter="url(#haiq-white-logo)"></image>
     </svg>
     <p class="haiq-label">Panel-Q | HAI-Q</p>
-    <h1 class="haiq-title">Questions of a Thousand Questions for Future AI</h1>
+    <h1 class="haiq-title"><span class="haiq-title-line">Questions of a Thousand</span><span class="haiq-title-line">Questions for Future AI</span></h1>
     <p class="haiq-subtitle">Methods, Rationale, and Reflections on Large-Scale Open Question Selection</p>
     <p class="haiq-session"><strong>November 12, 2026</strong> &nbsp;|&nbsp; 10:50 AM &ndash; 12:20 PM AEDT &nbsp;|&nbsp; Melbourne, Australia</p>
   </div>
@@ -147,6 +161,11 @@ permalink: /haiq-panel/
 ## About HAI-Q
 
 <p class="haiq-about">HAI-Q brings together global perspectives on the future of Hyper/Super AI. Through public participation, AI-assisted analysis, and human review, it identifies key questions for voting and panel discussion.</p>
+<div class="haiq-about-flow" aria-label="HAI-Q question selection flow">
+  <span><strong>1000+</strong> Original Questions</span><i aria-hidden="true">&rarr;</i>
+  <span><strong>30</strong> Candidates</span><i aria-hidden="true">&rarr;</i>
+  <span><strong>TOP</strong> Questions</span>
+</div>
 
 <hr>
 
@@ -219,7 +238,7 @@ permalink: /haiq-panel/
   <div class="haiq-copy">
     <p style="text-align: justify;">The HAI-Q panel will present the top ten questions emerging from the public voting process and examine the methods and rationale behind their selection.</p>
     <p style="text-align: justify;">The discussion will reflect on the challenges of large-scale question collection and AI-assisted analysis, and explore the implications of the selected questions for future Hyper/Super AI research.</p>
-    <p><strong>Date:</strong> November 12, 2026<br><strong>Time:</strong> 10:50 AM &ndash; 12:20 PM AEDT</p>
+    <p class="haiq-discussion-meta"><strong>Date:</strong> November 12, 2026<br><strong>Time:</strong> 10:50 AM &ndash; 12:20 PM AEDT</p>
   </div>
   <figure class="haiq-visual haiq-discussion-visual">
     <img src="{{ '/assets/images/haiq/haiq-future-panel-discussion.jpg' | relative_url }}" alt="Conceptual future AI research roundtable connected by a shared knowledge network" loading="lazy" width="1400" height="787">
