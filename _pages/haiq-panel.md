@@ -7,38 +7,32 @@ permalink: /haiq-panel/
 <style>
   :root { --haiq-navy: #123a61; --haiq-blue: #176b9c; --haiq-cyan: #23b7cf; --haiq-pale: #eef9fc; --haiq-ink: #263f53; }
   .haiq-page { width: 100%; max-width: 1180px; margin: 0 auto; color: var(--haiq-ink); }
-  .haiq-page hr { margin: 2.25rem 0 1.25rem; border: 0; border-top: 1px solid #d6e6ee; }
+  .haiq-page hr { margin: 1.75rem 0 1rem; border: 0; border-top: 1px solid #d6e6ee; }
   .haiq-page > h2 { margin: 0 0 .85rem; color: var(--haiq-navy); font-size: 1.65rem; line-height: 1.2; }
-  .haiq-hero { position: relative; height: 480px; min-height: 0; margin: .35rem 0 0; overflow: hidden; border-radius: .35rem; background: radial-gradient(circle at 78% 42%, rgba(16,143,210,.3), transparent 25%), radial-gradient(circle at 86% 84%, rgba(0,210,238,.2), transparent 24%), linear-gradient(118deg, #041a35 0%, #062a50 53%, #041e3d 100%); isolation: isolate; }
+  .haiq-hero { position: relative; height: 445px; min-height: 0; margin: .35rem 0 0; overflow: hidden; border-radius: .35rem; background: radial-gradient(circle at 78% 42%, rgba(16,143,210,.3), transparent 25%), radial-gradient(circle at 86% 84%, rgba(0,210,238,.2), transparent 24%), linear-gradient(118deg, #041a35 0%, #062a50 53%, #041e3d 100%); isolation: isolate; }
   .haiq-hero::before { content: ""; position: absolute; inset: 0; z-index: -1; background-image: linear-gradient(rgba(65,193,232,.04) 1px, transparent 1px), linear-gradient(90deg, rgba(65,193,232,.04) 1px, transparent 1px); background-size: 36px 36px; mask-image: linear-gradient(90deg, transparent 32%, #000 65%); }
   .haiq-hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; z-index: 5; height: 2px; background: linear-gradient(90deg, var(--haiq-cyan), rgba(255,255,255,.75), transparent); animation: haiq-flow 5s ease-in-out infinite alternate; }
-  .haiq-hero-copy { position: relative; z-index: 4; width: min(57%, 650px); padding: 1.75rem 2.15rem; color: #fff; animation: haiq-rise .8s ease-out both; }
+  .haiq-hero-copy { position: relative; z-index: 4; width: min(59%, 680px); padding: 1.3rem 2rem; color: #fff; animation: haiq-rise .8s ease-out both; }
   .haiq-hero-media { position: absolute; top: 0; right: 0; bottom: 0; z-index: 1; width: 54%; overflow: hidden; pointer-events: none; -webkit-mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); mask-image: linear-gradient(90deg, transparent 0%, rgba(0,0,0,.2) 8%, #000 29%); }
   .haiq-hero-video { display: block; width: 100%; height: 100%; object-fit: contain; object-position: right center; }
-  .haiq-logo { display: block; width: 168px; max-width: 44%; height: auto; margin-bottom: .65rem; }
+  .haiq-logo { display: block; width: 260px; max-width: 46%; height: auto; margin-bottom: .45rem; }
   .haiq-label { margin: 0 0 .3rem; color: #9feeff; font-size: .84rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
-  .haiq-title { max-width: 630px; margin: 0 0 .5rem; color: #fff; font-size: clamp(3rem, 4vw, 3.5rem); line-height: 1.04; text-shadow: 0 2px 22px rgba(0,0,0,.2); }
+  .haiq-title { max-width: 650px; margin: 0 0 .4rem; color: #fff; font-size: clamp(3rem, 3.8vw, 3.35rem); line-height: 1.04; text-shadow: 0 2px 22px rgba(0,0,0,.2); }
   .haiq-title-line { display: block; }
   .haiq-subtitle { margin: 0; color: #e9f8fc; font-size: clamp(.84rem, 1.15vw, .96rem); line-height: 1.45; }
-  .haiq-session { margin: .8rem 0 0; padding-top: .65rem; border-top: 1px solid rgba(178,232,247,.55); color: #fff; font-size: .88rem; line-height: 1.4; }
-  .haiq-split { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(300px, .95fr); align-items: center; gap: 1.75rem; }
-  .haiq-split--reverse .haiq-visual { order: -1; }
+  .haiq-session { margin: .65rem 0 0; padding-top: .55rem; border-top: 1px solid rgba(178,232,247,.55); color: #fff; font-size: .86rem; line-height: 1.35; }
   .haiq-copy p:last-child { margin-bottom: 0; }
   .haiq-visual { position: relative; margin: 0; overflow: hidden; border-radius: .25rem; background: var(--haiq-pale); box-shadow: 0 6px 18px rgba(25,84,122,.1); }
   .haiq-visual img { display: block; width: 100%; height: 100%; aspect-ratio: 2 / 1; object-fit: cover; transition: transform .6s ease; }
   .haiq-visual:hover img { transform: scale(1.02); }
   .haiq-about { max-width: 920px; margin: 0; line-height: 1.6; }
-  .haiq-about-flow { display: flex; align-items: center; flex-wrap: wrap; gap: .45rem .7rem; margin-top: .9rem; color: var(--haiq-blue); font-size: .9rem; font-weight: 600; }
-  .haiq-about-flow span { display: inline-flex; align-items: baseline; gap: .3rem; }
-  .haiq-about-flow strong { color: var(--haiq-navy); font-size: 1.05rem; }
-  .haiq-about-flow i { color: var(--haiq-cyan); font-style: normal; }
   .haiq-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 1rem; margin: .9rem 0 0; }
   .haiq-step { display: flex; min-width: 0; overflow: hidden; border-radius: .75rem; background: #fff; box-shadow: 0 8px 22px rgba(20,77,112,.13); opacity: 0; animation: haiq-card-in .55s ease-out forwards; transition: transform .25s ease, box-shadow .25s ease; }
   .haiq-step:nth-child(2) { animation-delay: .12s; }
   .haiq-step:nth-child(3) { animation-delay: .24s; }
   .haiq-step:hover { transform: translateY(-4px); box-shadow: 0 12px 28px rgba(20,77,112,.18); }
   .haiq-step-inner { display: flex; width: 100%; flex-direction: column; }
-  .haiq-step-image { display: block; width: 100%; height: 155px; margin: 0; object-fit: contain; border-radius: 0; background: #eaf7fb; transition: transform .35s ease; }
+  .haiq-step-image { display: block; width: 100%; height: 135px; margin: 0; object-fit: contain; border-radius: 0; background: #eaf7fb; transition: transform .35s ease; }
   .haiq-step:hover .haiq-step-image { transform: scale(1.035); }
   .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: .85rem .95rem 1rem; border-top: 3px solid #36c2d8; }
   .haiq-step-heading { margin-bottom: .45rem; }
@@ -55,16 +49,22 @@ permalink: /haiq-panel/
   .haiq-voting-qr { text-align: center; }
   .haiq-qr { display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto .35rem; padding: .4rem; border-radius: .2rem; background: #fff; box-shadow: 0 5px 14px rgba(12,66,98,.1); }
   .haiq-scan-label { color: var(--haiq-blue); font-size: .9rem; }
-  .haiq-discussion-visual img { aspect-ratio: 16 / 9; }
-  .haiq-copy p { margin: 0 0 .65rem; }
+  .haiq-panel-overview { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(330px, .9fr); align-items: start; gap: 1.5rem; }
+  .haiq-panel-overview h2 { margin: 0 0 .8rem; color: var(--haiq-navy); font-size: 1.55rem; line-height: 1.2; }
+  .haiq-panel-discussion-layout { display: grid; grid-template-columns: minmax(210px, .75fr) minmax(0, 1.25fr); align-items: start; gap: 1rem; }
+  .haiq-discussion-visual img { aspect-ratio: 4 / 3; object-fit: cover; }
+  .haiq-copy p { margin: 0 0 .55rem; font-size: .94rem; line-height: 1.5; }
   .haiq-discussion-meta { display: inline-block; margin: .15rem 0 0 !important; padding: .55rem .7rem; border-left: 3px solid var(--haiq-cyan); background: var(--haiq-pale); line-height: 1.45; }
-  .haiq-people-sections { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
-  .haiq-people-section { padding-left: 1rem; border-left: 3px solid #8ed8e6; }
-  .haiq-people-section h2 { margin: 0 0 .6rem; color: var(--haiq-navy); font-size: 1.4rem; }
+  .haiq-people-sections { display: grid; grid-template-columns: 1fr; gap: 1.05rem; padding: 1.1rem 1.2rem; border-left: 3px solid #8ed8e6; background: linear-gradient(120deg, #f5fbfd, #fff); }
+  .haiq-people-section { padding: 0; }
+  .haiq-people-section h2 { margin: 0 0 .5rem; color: var(--haiq-navy); font-size: 1.3rem; }
   .haiq-people { margin: 0; color: #334f64; }
   .haiq-person { margin: 0 0 .4rem; line-height: 1.5; }
   .haiq-person:last-child { margin-bottom: 0; }
-  .haiq-contact-grid { display: flex; flex-wrap: wrap; gap: .7rem 2rem; margin-top: .8rem; }
+  .haiq-info-strip { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(290px, .65fr); gap: 1.5rem; padding: 1.05rem 1.2rem; border-left: 3px solid var(--haiq-cyan); background: var(--haiq-pale); }
+  .haiq-info-strip h2 { margin: 0 0 .55rem; color: var(--haiq-navy); font-size: 1.45rem; }
+  .haiq-info-strip p { margin: 0; }
+  .haiq-contact-grid { display: grid; align-content: start; gap: .55rem; margin: 0; }
   .haiq-contact-grid p { margin: 0; }
   .haiq-ethics-line { font-size: .92rem; }
   @keyframes haiq-flow { from { background-position: 0 0; } to { background-position: 100% 0; } }
@@ -79,16 +79,18 @@ permalink: /haiq-panel/
     .haiq-hero-copy { width: 100%; padding: 1.5rem 1.5rem 275px; }
     .haiq-hero-media { top: auto; width: 100%; height: 290px; opacity: .92; -webkit-mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); mask-image: linear-gradient(180deg, transparent 0%, rgba(0,0,0,.72) 22%, #000 43%); }
     .haiq-hero-video { object-position: center center; }
+    .haiq-logo { width: 220px; }
+    .haiq-panel-overview { grid-template-columns: 1fr; }
+    .haiq-people-sections { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   @media (max-width: 767.98px) {
-    .haiq-split { grid-template-columns: 1fr; gap: 1.2rem; }
-    .haiq-split--reverse .haiq-visual { order: 0; }
     .haiq-process { grid-template-columns: 1fr; gap: 1.2rem; }
     .haiq-step h5 { min-height: 0; }
     .haiq-voting { grid-template-columns: minmax(0, 1fr) 180px; padding: 1.3rem; }
+    .haiq-info-strip { grid-template-columns: 1fr; gap: .8rem; }
   }
   @media (max-width: 575.98px) {
-    .haiq-page hr { margin: 2rem 0 1.1rem; }
+    .haiq-page hr { margin: 1.6rem 0 .9rem; }
     .haiq-hero { height: 610px; }
     .haiq-hero-copy { padding: 1.15rem 1.1rem 240px; }
     .haiq-hero-media { height: 255px; }
@@ -99,9 +101,9 @@ permalink: /haiq-panel/
     .haiq-label { font-size: .78rem; }
     .haiq-subtitle { font-size: .84rem; line-height: 1.4; }
     .haiq-session { margin-top: .65rem; padding-top: .55rem; font-size: .82rem; }
-    .haiq-about-flow { align-items: flex-start; flex-direction: column; gap: .25rem; }
-    .haiq-about-flow i { display: none; }
     .haiq-visual img { aspect-ratio: 4 / 3; }
+    .haiq-panel-discussion-layout { grid-template-columns: 1fr; }
+    .haiq-discussion-visual { max-width: 320px; }
     .haiq-voting { grid-template-columns: 1fr; gap: 1.25rem; padding: 1.15rem; }
     .haiq-qr { width: 165px; }
     .haiq-people-sections { grid-template-columns: 1fr; gap: 1.5rem; }
@@ -124,16 +126,7 @@ permalink: /haiq-panel/
     </video>
   </div>
   <div class="haiq-hero-copy">
-    <svg class="haiq-logo" viewBox="0 0 452 160" role="img" aria-labelledby="haiq-logo-title">
-      <title id="haiq-logo-title">HAI-Q: Hyper/Super AI Questions Initiative logo</title>
-      <defs>
-        <filter id="haiq-white-logo" color-interpolation-filters="sRGB">
-          <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  -0.333 -0.333 -0.333 0 1"></feColorMatrix>
-          <feComponentTransfer><feFuncA type="discrete" tableValues="0 1 1 1 1"></feFuncA></feComponentTransfer>
-        </filter>
-      </defs>
-      <image href="{{ '/assets/images/haiq/haiq-logo-from-poster.png' | relative_url }}" width="452" height="160" filter="url(#haiq-white-logo)"></image>
-    </svg>
+    <img class="haiq-logo" src="{{ '/assets/images/haiq/haiq-logo-transparent.png' | relative_url }}" width="452" height="160" alt="HAI-Q: Hyper/Super AI Questions Initiative logo">
     <p class="haiq-label">Panel-Q | HAI-Q</p>
     <h1 class="haiq-title"><span class="haiq-title-line">Questions of a Thousand</span><span class="haiq-title-line">Questions for Future AI</span></h1>
     <p class="haiq-subtitle">Methods, Rationale, and Reflections on Large-Scale Open Question Selection</p>
@@ -161,11 +154,6 @@ permalink: /haiq-panel/
 ## About HAI-Q
 
 <p class="haiq-about">HAI-Q brings together global perspectives on the future of Hyper/Super AI. Through public participation, AI-assisted analysis, and human review, it identifies key questions for voting and panel discussion.</p>
-<div class="haiq-about-flow" aria-label="HAI-Q question selection flow">
-  <span><strong>1000+</strong> Original Questions</span><i aria-hidden="true">&rarr;</i>
-  <span><strong>30</strong> Candidates</span><i aria-hidden="true">&rarr;</i>
-  <span><strong>TOP</strong> Questions</span>
-</div>
 
 <hr>
 
@@ -232,47 +220,49 @@ permalink: /haiq-panel/
 
 <hr>
 
-## Panel Discussion
-
-<div class="haiq-split haiq-split--reverse">
-  <div class="haiq-copy">
-    <p style="text-align: justify;">The HAI-Q panel will present the top ten questions emerging from the public voting process and examine the methods and rationale behind their selection.</p>
-    <p style="text-align: justify;">The discussion will reflect on the challenges of large-scale question collection and AI-assisted analysis, and explore the implications of the selected questions for future Hyper/Super AI research.</p>
-    <p class="haiq-discussion-meta"><strong>Date:</strong> November 12, 2026<br><strong>Time:</strong> 10:50 AM &ndash; 12:20 PM AEDT</p>
+<div class="haiq-panel-overview">
+  <section class="haiq-panel-discussion">
+    <h2>Panel Discussion</h2>
+    <div class="haiq-panel-discussion-layout">
+      <figure class="haiq-visual haiq-discussion-visual">
+        <img src="{{ '/assets/images/haiq/haiq-future-panel-discussion.jpg' | relative_url }}" alt="Conceptual future AI research roundtable connected by a shared knowledge network" loading="lazy" width="1400" height="787">
+      </figure>
+      <div class="haiq-copy">
+        <p>The HAI-Q panel will present the top ten questions emerging from the public voting process and examine the methods and rationale behind their selection.</p>
+        <p>The discussion will reflect on the challenges of large-scale question collection and AI-assisted analysis, and explore the implications of the selected questions for future Hyper/Super AI research.</p>
+        <p class="haiq-discussion-meta"><strong>Date:</strong> November 12, 2026<br><strong>Time:</strong> 10:50 AM &ndash; 12:20 PM AEDT</p>
+      </div>
+    </div>
+  </section>
+  <div class="haiq-people-sections">
+    <section class="haiq-people-section">
+      <h2>Panel Chairs</h2>
+      <div class="haiq-people">
+        <p class="haiq-person"><strong>Jianhua Ma</strong>, Hosei University, Japan</p>
+        <p class="haiq-person"><strong>Qun Jin</strong>, Waseda University, Japan</p>
+      </div>
+    </section>
+    <section class="haiq-people-section">
+      <h2>Panelists</h2>
+      <div class="haiq-people">
+        <p class="haiq-person"><strong>Nicolas Tsapatsoulis</strong>, Cyprus University of Technology, Cyprus</p>
+        <p class="haiq-person"><strong>Hongji Yang</strong>, University of Leicester, United Kingdom</p>
+      </div>
+    </section>
   </div>
-  <figure class="haiq-visual haiq-discussion-visual">
-    <img src="{{ '/assets/images/haiq/haiq-future-panel-discussion.jpg' | relative_url }}" alt="Conceptual future AI research roundtable connected by a shared knowledge network" loading="lazy" width="1400" height="787">
-  </figure>
 </div>
 
 <hr>
 
-<div class="haiq-people-sections">
-  <section class="haiq-people-section">
-    <h2>Panel Chairs</h2>
-    <div class="haiq-people">
-      <p class="haiq-person"><strong>Jianhua Ma</strong>, Hosei University, Japan</p>
-      <p class="haiq-person"><strong>Qun Jin</strong>, Waseda University, Japan</p>
-    </div>
-  </section>
-  <section class="haiq-people-section">
-    <h2>Panelists</h2>
-    <div class="haiq-people">
-      <p class="haiq-person"><strong>Nicolas Tsapatsoulis</strong>, Cyprus University of Technology, Cyprus</p>
-      <p class="haiq-person"><strong>Hongji Yang</strong>, University of Leicester, United Kingdom</p>
-    </div>
-  </section>
-</div>
-
-<hr>
-
-## Ethics and Contact
-
-<p><strong>Ethics Approval:</strong><br><span class="haiq-ethics-line">This study was reviewed and approved by the Ethics Review Committee on Research with Human Subjects at Waseda University, Japan (Approval No. 2026-350).</span></p>
-
-<div class="haiq-contact-grid">
-  <p><strong>Contact:</strong> <a href="mailto:haiq.init@gmail.com"><u>haiq.init@gmail.com</u></a></p>
-  <p><strong>Official HAI-Q Website:</strong> <a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer"><u>https://gai-hyperi.github.io/haiq/</u></a></p>
-</div>
+<section class="haiq-info-strip">
+  <div>
+    <h2>Ethics and Contact</h2>
+    <p><strong>Ethics Approval:</strong><br><span class="haiq-ethics-line">This study was reviewed and approved by the Ethics Review Committee on Research with Human Subjects at Waseda University, Japan (Approval No. 2026-350).</span></p>
+  </div>
+  <div class="haiq-contact-grid">
+    <p><strong>Contact:</strong> <a href="mailto:haiq.init@gmail.com"><u>haiq.init@gmail.com</u></a></p>
+    <p><strong>Official HAI-Q Website:</strong> <a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer"><u>https://gai-hyperi.github.io/haiq/</u></a></p>
+  </div>
+</section>
 
 </div>
