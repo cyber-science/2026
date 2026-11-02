@@ -5,234 +5,127 @@ permalink: /haiq-panel/
 ---
 
 <style>
-  :root { --haiq-navy: #123a61; --haiq-blue: #176b9c; --haiq-cyan: #23b7cf; --haiq-pale: #eef9fc; --haiq-ink: #263f53; }
-  .haiq-page { width: 100%; max-width: 1180px; margin: 0 auto; color: var(--haiq-ink); }
-  .haiq-page hr { margin: 1.75rem 0 1rem; border: 0; border-top: 1px solid #d6e6ee; }
-  .haiq-page > h2 { margin: 0 0 .85rem; color: var(--haiq-navy); font-size: 1.65rem; line-height: 1.2; }
-  .haiq-hero { position: relative; height: 445px; min-height: 0; margin: .35rem 0 0; overflow: hidden; border-radius: .35rem; background: radial-gradient(circle at 79% 38%, rgba(55,205,235,.24), transparent 29%), radial-gradient(circle at 88% 82%, rgba(35,190,224,.18), transparent 27%), linear-gradient(118deg, #123b63 0%, #18507d 53%, #2570a3 100%); isolation: isolate; }
-  .haiq-hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; z-index: 5; height: 2px; background: linear-gradient(90deg, var(--haiq-cyan), rgba(255,255,255,.75), transparent); animation: haiq-flow 5s ease-in-out infinite alternate; }
-  .haiq-hero-media { position: absolute; inset: 0; z-index: 1; overflow: hidden; pointer-events: none; }
-  .haiq-hero-video { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center top; }
-  .haiq-copy p:last-child { margin-bottom: 0; }
-  .haiq-visual { position: relative; margin: 0; overflow: hidden; border-radius: .25rem; background: var(--haiq-pale); box-shadow: 0 6px 18px rgba(25,84,122,.1); }
-  .haiq-visual img { display: block; width: 100%; height: 100%; aspect-ratio: 2 / 1; object-fit: cover; transition: transform .6s ease; }
-  .haiq-visual:hover img { transform: scale(1.02); }
-  .haiq-about { max-width: 920px; margin: 0; line-height: 1.6; }
-  .haiq-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 1rem; margin: .9rem 0 0; }
-  .haiq-step { display: flex; min-width: 0; overflow: hidden; border-radius: .75rem; background: #fff; box-shadow: 0 8px 22px rgba(20,77,112,.13); opacity: 0; animation: haiq-card-in .55s ease-out forwards; transition: transform .25s ease, box-shadow .25s ease; }
-  .haiq-step:nth-child(2) { animation-delay: .12s; }
-  .haiq-step:nth-child(3) { animation-delay: .24s; }
-  .haiq-step:hover { transform: translateY(-4px); box-shadow: 0 12px 28px rgba(20,77,112,.18); }
-  .haiq-step-inner { display: flex; width: 100%; flex-direction: column; }
-  .haiq-step-image { display: block; width: 100%; height: 135px; margin: 0; object-fit: contain; border-radius: 0; background: #eaf7fb; transition: transform .35s ease; }
-  .haiq-step:hover .haiq-step-image { transform: scale(1.035); }
-  .haiq-step-body { display: flex; flex: 1; flex-direction: column; padding: .85rem .95rem 1rem; border-top: 3px solid #36c2d8; }
-  .haiq-step-heading { margin-bottom: .45rem; }
-  .haiq-step-number { display: block; margin-bottom: .2rem; color: #1685bd; font-size: 1.2rem; font-weight: 800; line-height: 1; letter-spacing: .03em; }
-  .haiq-step-number::after { content: ""; display: block; width: 2rem; height: 2px; margin-top: .35rem; background: #40c4d8; }
-  .haiq-step h5 { min-height: 3.1rem; margin: 0; color: #163f67; font-size: .96rem; line-height: 1.35; }
-  .haiq-step p { margin: .45rem 0 0; color: #40586a; font-size: .88rem; line-height: 1.48; }
-  .haiq-voting { display: grid; grid-template-columns: minmax(0, 1fr) 190px; align-items: center; gap: 1.4rem; margin: .8rem 0 0; padding: 1.2rem 1.3rem; border-left: 4px solid var(--haiq-cyan); border-radius: .2rem; background: #eef8fb; }
-  .haiq-voting-copy h4 { margin-top: 0; color: var(--haiq-navy); font-size: 1.3rem; }
-  .haiq-voting-copy p { margin: 0 0 .6rem; }
-  .haiq-deadline { display: inline-block; margin: .15rem 0 .9rem !important; padding: .48rem .75rem; border-left: 3px solid var(--haiq-cyan); background: #fff; color: var(--haiq-navy); }
-  .haiq-vote-button { display: inline-block; margin: .2rem 0 0; padding: .72rem 1.45rem; border-radius: 2rem; background: linear-gradient(100deg, var(--haiq-blue), #139bb8); box-shadow: 0 7px 16px rgba(16,112,151,.22); color: #fff !important; font-weight: 700; text-decoration: none !important; transition: transform .2s ease, box-shadow .2s ease; }
-  .haiq-vote-button:hover, .haiq-vote-button:focus { transform: translateY(-2px); box-shadow: 0 10px 20px rgba(16,112,151,.3); }
-  .haiq-voting-qr { text-align: center; }
-  .haiq-qr { display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto .35rem; padding: .4rem; border-radius: .2rem; background: #fff; box-shadow: 0 5px 14px rgba(12,66,98,.1); }
-  .haiq-scan-label { color: var(--haiq-blue); font-size: .9rem; }
-  .haiq-panel-overview { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(330px, .9fr); align-items: start; gap: 1.5rem; }
-  .haiq-panel-overview h2 { margin: 0 0 .8rem; color: var(--haiq-navy); font-size: 1.55rem; line-height: 1.2; }
-  .haiq-panel-discussion-layout { display: grid; grid-template-columns: minmax(210px, .75fr) minmax(0, 1.25fr); align-items: start; gap: 1rem; }
-  .haiq-discussion-visual img { aspect-ratio: 4 / 3; object-fit: cover; }
-  .haiq-copy p { margin: 0 0 .55rem; font-size: .94rem; line-height: 1.5; }
-  .haiq-discussion-meta { display: inline-block; margin: .15rem 0 0 !important; padding: .55rem .7rem; border-left: 3px solid var(--haiq-cyan); background: var(--haiq-pale); line-height: 1.45; }
-  .haiq-people-sections { display: grid; grid-template-columns: 1fr; gap: 1.05rem; padding: 1.1rem 1.2rem; border-left: 3px solid #8ed8e6; background: linear-gradient(120deg, #f5fbfd, #fff); }
-  .haiq-people-section { padding: 0; }
-  .haiq-people-section h2 { margin: 0 0 .5rem; color: var(--haiq-navy); font-size: 1.3rem; }
-  .haiq-people { margin: 0; color: #334f64; }
-  .haiq-person { margin: 0 0 .4rem; line-height: 1.5; }
-  .haiq-person:last-child { margin-bottom: 0; }
-  .haiq-info-strip { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(290px, .65fr); gap: 1.5rem; padding: 1.05rem 1.2rem; border-left: 3px solid var(--haiq-cyan); background: var(--haiq-pale); }
-  .haiq-info-strip h2 { margin: 0 0 .55rem; color: var(--haiq-navy); font-size: 1.45rem; }
-  .haiq-info-strip p { margin: 0; }
-  .haiq-contact-grid { display: grid; align-content: start; gap: .55rem; margin: 0; }
-  .haiq-contact-grid p { margin: 0; }
-  .haiq-ethics-line { font-size: .92rem; }
-  @keyframes haiq-flow { from { background-position: 0 0; } to { background-position: 100% 0; } }
-  @keyframes haiq-card-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
-  @media (min-width: 1200px) {
-    .haiq-ethics-line { white-space: nowrap; }
-  }
+  :root { --haiq-deep: #0b3158; --haiq-mid: #145986; --haiq-cyan: #45dcf4; }
+  .haiq-page { position: relative; left: 50%; width: 100vw; margin: 0 0 -3rem -50vw; overflow: hidden; background: var(--haiq-deep); }
+  .haiq-stage { position: relative; width: 100%; aspect-ratio: 16 / 9; min-height: 620px; overflow: hidden; background: radial-gradient(circle at 72% 42%, rgba(53,204,239,.2), transparent 28%), linear-gradient(120deg, #123b63, #18507d 52%, #2570a3); isolation: isolate; }
+  .haiq-stage::after { content: ""; position: absolute; inset: 0; z-index: 3; pointer-events: none; background: linear-gradient(90deg, rgba(15,52,87,1) 0%, rgba(18,59,99,.99) 37%, rgba(18,66,105,.92) 45%, rgba(18,73,112,.55) 54%, transparent 66%); }
+  .haiq-stage-video { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; object-fit: cover; object-position: 54% center; }
+  .haiq-particle-layer, .haiq-native-fx { position: absolute; inset: 0; z-index: 4; width: 100%; height: 100%; pointer-events: none; }
+  .haiq-native-fx { overflow: visible; filter: drop-shadow(0 0 7px rgba(63,218,249,.45)); }
+  .haiq-question-tile rect { fill: url(#haiq-card-fill); stroke: rgba(133,238,255,.9); stroke-width: 2; }
+  .haiq-question-tile text { fill: #effdff; font: 700 30px Arial, sans-serif; text-anchor: middle; }
+  .haiq-orbit { fill: none; stroke: url(#haiq-orbit-stroke); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 18 15; transform-origin: 975px 414px; animation: haiq-orbit-spin 12.5s linear infinite; }
+  .haiq-orbit--two { animation-direction: reverse; animation-duration: 8.5s; opacity: .72; }
+  .haiq-core-pulse { fill: none; stroke: #74eafa; stroke-width: 3; opacity: .2; transform-origin: 975px 414px; animation: haiq-core-pulse 3.2s ease-in-out infinite; }
+  .haiq-funnel-stream { fill: none; stroke: rgba(120,236,255,.85); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 4 16; animation: haiq-stream 2.6s linear infinite; }
+  .haiq-bottom-glow { fill: #eafcff; opacity: .15; animation: haiq-card-glow 12.5s ease-in-out infinite; }
+  .haiq-bottom-glow:nth-of-type(2) { animation-delay: 1s; }
+  .haiq-bottom-glow:nth-of-type(3) { animation-delay: 2s; }
+  .haiq-bottom-glow:nth-of-type(4) { animation-delay: 3s; }
+  .haiq-top-scan { fill: url(#haiq-scan-gradient); opacity: 0; animation: haiq-top-scan 4.2s ease-in-out infinite; }
+  .haiq-copy { position: absolute; top: 17%; left: max(4.5vw, calc((100vw - 1500px) / 2)); z-index: 6; width: min(47vw, 760px); color: #fff; text-shadow: 0 2px 16px rgba(0,21,48,.42); }
+  .haiq-logo { display: block; width: clamp(210px, 18vw, 300px); height: auto; margin: 0 0 1.1rem; }
+  .haiq-title { margin: 0; color: #fff; font-size: clamp(2.8rem, 4.25vw, 5rem); font-weight: 700; line-height: 1.06; letter-spacing: -.025em; }
+  .haiq-title span { display: block; }
+  .haiq-title em { color: #50e0f1; font-style: normal; }
+  .haiq-subtitle { max-width: 760px; margin: 1rem 0 0; color: #eefbff; font-size: clamp(.88rem, 1.25vw, 1.25rem); line-height: 1.45; }
+  .haiq-session { margin: .85rem 0 0; color: #fff; font-size: clamp(.8rem, 1.12vw, 1.08rem); font-weight: 600; line-height: 1.45; }
+  @keyframes haiq-orbit-spin { to { transform: rotate(360deg); } }
+  @keyframes haiq-core-pulse { 0%,100% { opacity: .18; transform: scale(.86); } 50% { opacity: .75; transform: scale(1.12); } }
+  @keyframes haiq-stream { to { stroke-dashoffset: -80; } }
+  @keyframes haiq-card-glow { 0%,40%,100% { opacity: .12; } 48%,66% { opacity: .9; } 76% { opacity: .26; } }
+  @keyframes haiq-top-scan { 0%,22%,100% { opacity: 0; transform: translateX(-190px); } 36% { opacity: .85; } 65% { opacity: .2; transform: translateX(260px); } }
   @media (max-width: 991.98px) {
-    .haiq-hero { height: auto; aspect-ratio: 2 / 1; }
-    .haiq-hero-video { object-fit: contain; object-position: center center; }
-    .haiq-panel-overview { grid-template-columns: 1fr; }
-    .haiq-people-sections { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  }
-  @media (max-width: 767.98px) {
-    .haiq-process { grid-template-columns: 1fr; gap: 1.2rem; }
-    .haiq-step h5 { min-height: 0; }
-    .haiq-voting { grid-template-columns: minmax(0, 1fr) 180px; padding: 1.3rem; }
-    .haiq-info-strip { grid-template-columns: 1fr; gap: .8rem; }
+    .haiq-stage { min-height: 100svh; aspect-ratio: auto; padding-top: 50vw; }
+    .haiq-stage-video { bottom: auto; height: auto; aspect-ratio: 2 / 1; object-fit: contain; object-position: center top; }
+    .haiq-stage::after { background: linear-gradient(180deg, rgba(13,49,84,.18) 0, rgba(13,49,84,.38) 35vw, rgba(13,49,84,.98) 51vw, #123b63 70vw); }
+    .haiq-particle-layer, .haiq-native-fx { height: 50vw; }
+    .haiq-copy { top: 48vw; left: 7vw; width: 86vw; padding-bottom: 3rem; }
+    .haiq-logo { width: clamp(170px, 34vw, 245px); margin-bottom: .8rem; }
+    .haiq-title { font-size: clamp(2.35rem, 7.7vw, 4.25rem); }
+    .haiq-subtitle { max-width: 680px; font-size: clamp(.92rem, 2.45vw, 1.15rem); }
+    .haiq-session { max-width: 680px; font-size: clamp(.83rem, 2.2vw, 1rem); }
   }
   @media (max-width: 575.98px) {
-    .haiq-page hr { margin: 1.6rem 0 .9rem; }
-    .haiq-visual img { aspect-ratio: 4 / 3; }
-    .haiq-panel-discussion-layout { grid-template-columns: 1fr; }
-    .haiq-discussion-visual { max-width: 320px; }
-    .haiq-voting { grid-template-columns: 1fr; gap: 1.25rem; padding: 1.15rem; }
-    .haiq-qr { width: 165px; }
-    .haiq-people-sections { grid-template-columns: 1fr; gap: 1.5rem; }
-    .haiq-contact-grid { display: block; }
-    .haiq-contact-grid p + p { margin-top: .7rem; }
+    .haiq-stage { min-height: 760px; padding-top: 55vw; }
+    .haiq-stage::after { background: linear-gradient(180deg, rgba(13,49,84,.08) 0, rgba(13,49,84,.3) 35vw, rgba(13,49,84,.98) 54vw, #123b63 74vw); }
+    .haiq-particle-layer, .haiq-native-fx { display: none; }
+    .haiq-copy { top: 54vw; left: 6vw; width: 88vw; }
+    .haiq-logo { width: 165px; }
+    .haiq-title { font-size: clamp(2rem, 10.3vw, 2.65rem); line-height: 1.07; }
+    .haiq-subtitle { margin-top: .8rem; font-size: .92rem; }
+    .haiq-session { margin-top: .7rem; font-size: .84rem; }
   }
   @media (prefers-reduced-motion: reduce) {
-    .haiq-hero::after { animation: none !important; }
-    .haiq-step { opacity: 1; animation: none; }
-    .haiq-step, .haiq-step-image, .haiq-visual img, .haiq-vote-button { transition: none; }
+    .haiq-native-fx * { animation: none !important; }
   }
 </style>
 
-<div class="haiq-page" markdown="1">
-
-<div class="haiq-hero" role="img" aria-label="HAI-Q Panel: Questions of a Thousand Questions for Future Hyper/Super AI, November 12, 2026, Melbourne, Australia">
-  <div class="haiq-hero-media" aria-hidden="true">
-    <video class="haiq-hero-video" autoplay muted loop playsinline preload="metadata" poster="{{ '/assets/images/haiq/haiq-hero-full-poster.png' | relative_url }}">
+<div class="haiq-page">
+  <section class="haiq-stage" aria-labelledby="haiq-title">
+    <video class="haiq-stage-video" autoplay muted loop playsinline preload="metadata" poster="{{ '/assets/images/haiq/haiq-hero-full-poster.png' | relative_url }}" aria-hidden="true">
       <source src="{{ '/assets/videos/haiq/haiq-hero-full.mp4' | relative_url }}" type="video/mp4">
     </video>
-  </div>
+    <canvas class="haiq-particle-layer" aria-hidden="true"></canvas>
+    <svg class="haiq-native-fx" viewBox="0 0 1774 998" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <defs>
+        <linearGradient id="haiq-card-fill" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#42d9f3" stop-opacity=".62"/><stop offset="1" stop-color="#174f9d" stop-opacity=".28"/></linearGradient>
+        <linearGradient id="haiq-orbit-stroke"><stop stop-color="#64ecff"/><stop offset=".5" stop-color="#6f7fff"/><stop offset="1" stop-color="#f0c85d"/></linearGradient>
+        <linearGradient id="haiq-scan-gradient"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+        <filter id="haiq-soft-glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+        <g id="haiq-card" class="haiq-question-tile"><rect x="-27" y="-20" width="54" height="40" rx="6"/><text y="11">?</text></g>
+      </defs>
+      <g opacity=".82">
+        <g><use href="#haiq-card"/><animateMotion dur="12.5s" begin="-1s" repeatCount="indefinite" path="M520 105 C720 80 810 240 960 390"/></g>
+        <g transform="scale(.75)"><use href="#haiq-card"/><animateMotion dur="12.5s" begin="-3.2s" repeatCount="indefinite" path="M650 62 C790 130 860 250 968 394"/></g>
+        <g transform="scale(1.18)"><use href="#haiq-card"/><animateMotion dur="12.5s" begin="-5.4s" repeatCount="indefinite" path="M575 215 C745 175 835 280 968 397"/></g>
+        <g transform="scale(.62)"><use href="#haiq-card"/><animateMotion dur="12.5s" begin="-7.6s" repeatCount="indefinite" path="M755 108 C835 180 895 300 972 402"/></g>
+        <g transform="scale(.9)"><use href="#haiq-card"/><animateMotion dur="12.5s" begin="-9.8s" repeatCount="indefinite" path="M680 280 C810 265 880 335 970 405"/></g>
+      </g>
+      <ellipse class="haiq-orbit" cx="975" cy="414" rx="236" ry="92"/>
+      <ellipse class="haiq-orbit haiq-orbit--two" cx="975" cy="414" rx="185" ry="68"/>
+      <circle class="haiq-core-pulse" cx="975" cy="414" r="72" filter="url(#haiq-soft-glow)"/>
+      <path class="haiq-funnel-stream" d="M974 440 C972 522 950 575 932 657"/>
+      <path class="haiq-funnel-stream" d="M1000 444 C990 535 974 590 958 665" style="animation-delay:-1.1s"/>
+      <g filter="url(#haiq-soft-glow)">
+        <rect class="haiq-bottom-glow" x="812" y="650" width="72" height="88" rx="8"/>
+        <rect class="haiq-bottom-glow" x="895" y="630" width="78" height="102" rx="8"/>
+        <rect class="haiq-bottom-glow" x="985" y="637" width="76" height="96" rx="8"/>
+        <rect class="haiq-bottom-glow" x="1073" y="656" width="68" height="82" rx="8"/>
+      </g>
+      <rect class="haiq-top-scan" x="1210" y="510" width="68" height="145" rx="18" transform="skewX(-12)"/>
+    </svg>
+    <div class="haiq-copy">
+      <img class="haiq-logo" src="{{ '/assets/images/haiq/haiq-logo-transparent.png' | relative_url }}" width="452" height="160" alt="HAI-Q: Hyper/Super AI Questions Initiative">
+      <h1 class="haiq-title" id="haiq-title"><span>Questions of a</span><span>Thousand Questions</span><span>for Future <em>Hyper/Super AI</em></span></h1>
+      <p class="haiq-subtitle">Methods, Rationale, and Reflections on Large-Scale Open Question Selection</p>
+      <p class="haiq-session">November 12, 2026 &nbsp;|&nbsp; 10:50 AM &ndash; 12:20 PM AEDT &nbsp;|&nbsp; Melbourne, Australia</p>
+    </div>
+  </section>
 </div>
 
 <script>
 (() => {
-  const video = document.querySelector('.haiq-hero-video');
-  if (!video) return;
+  const stage = document.querySelector('.haiq-stage');
+  const video = stage && stage.querySelector('.haiq-stage-video');
+  const canvas = stage && stage.querySelector('.haiq-particle-layer');
+  const svg = stage && stage.querySelector('.haiq-native-fx');
+  if (!stage || !video || !canvas) return;
+  const context = canvas.getContext('2d', { alpha: true });
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-  const syncPlayback = () => {
-    if (reducedMotion.matches || document.hidden) video.pause();
-    else video.play().catch(() => {});
-  };
-  reducedMotion.addEventListener('change', syncPlayback);
-  document.addEventListener('visibilitychange', syncPlayback);
-  syncPlayback();
+  let width = 0, height = 0, visible = true, frame = 0, previous = 0;
+  const particles = Array.from({ length: 54 }, (_, index) => ({ t: (index / 54 + Math.random() * .08) % 1, speed: .00007 + Math.random() * .000018, size: .7 + Math.random() * 1.7, offset: (Math.random() - .5) * .11 }));
+  const resize = () => { const rect = canvas.getBoundingClientRect(); const ratio = Math.min(window.devicePixelRatio || 1, 1.5); width = Math.max(1, rect.width); height = Math.max(1, rect.height); canvas.width = Math.round(width * ratio); canvas.height = Math.round(height * ratio); context.setTransform(ratio, 0, 0, ratio, 0, 0); };
+  const curve = (a, b, c, t) => (1 - t) * (1 - t) * a + 2 * (1 - t) * t * b + t * t * c;
+  const locate = particle => { if (particle.t < .64) { const t = particle.t / .64; return { x: curve(width * (.38 + particle.offset), width * .54, width * .57, t), y: curve(height * .12, height * .18, height * .42, t) }; } const t = (particle.t - .64) / .36; return { x: curve(width * .57, width * .56, width * .54, t), y: curve(height * .42, height * .58, height * .72, t) }; };
+  const render = time => { context.clearRect(0, 0, width, height); const delta = Math.min(40, time - previous || 16); previous = time; particles.forEach((particle, index) => { if (!reducedMotion.matches) particle.t = (particle.t + particle.speed * delta) % 1; const point = locate(particle); const alpha = .28 + .42 * Math.sin(Math.PI * particle.t); context.beginPath(); context.fillStyle = `rgba(126, 237, 255, ${alpha})`; context.shadowColor = index % 7 ? '#38d8f4' : '#e8c766'; context.shadowBlur = 8; context.arc(point.x, point.y, particle.size, 0, Math.PI * 2); context.fill(); }); context.shadowBlur = 0; };
+  const animate = time => { render(time); if (visible && !document.hidden && !reducedMotion.matches) frame = requestAnimationFrame(animate); };
+  const sync = () => { const paused = reducedMotion.matches || document.hidden || !visible; cancelAnimationFrame(frame); if (paused) { video.pause(); if (svg && svg.pauseAnimations) svg.pauseAnimations(); render(performance.now()); } else { video.playbackRate = .8; video.play().catch(() => {}); if (svg && svg.unpauseAnimations) svg.unpauseAnimations(); frame = requestAnimationFrame(animate); } };
+  new ResizeObserver(() => { resize(); render(performance.now()); }).observe(canvas);
+  new IntersectionObserver(entries => { visible = entries[0].isIntersecting; sync(); }, { threshold: .05 }).observe(stage);
+  reducedMotion.addEventListener('change', sync);
+  document.addEventListener('visibilitychange', sync);
+  resize();
+  sync();
 })();
 </script>
-
-<hr>
-
-## About HAI-Q
-
-<p class="haiq-about">HAI-Q brings together global perspectives on the future of Hyper/Super AI. Through public participation, AI-assisted analysis, and human review, it identifies key questions for voting and panel discussion.</p>
-
-<hr>
-
-## The HAI-Q Process
-
-<div class="haiq-process">
-  <section class="haiq-step">
-    <div class="haiq-step-inner">
-      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step01_question_collection.webp' | relative_url }}" alt="A connected globe representing worldwide question collection" loading="lazy" width="502" height="411">
-      <div class="haiq-step-body">
-        <div class="haiq-step-heading">
-          <span class="haiq-step-number">01</span>
-          <h5><strong>Ask:</strong> Question Collection</h5>
-        </div>
-        <p>Questions about Hyper/Super AI were collected from participants worldwide.</p>
-      </div>
-    </div>
-  </section>
-  <section class="haiq-step">
-    <div class="haiq-step-inner">
-      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step02_ai_analysis.webp' | relative_url }}" alt="AI-assisted analysis organizing and ranking related questions" loading="lazy" width="498" height="411">
-      <div class="haiq-step-body">
-        <div class="haiq-step-heading">
-          <span class="haiq-step-number">02</span>
-          <h5><strong>Organize:</strong> AI-Assisted Question Analysis and Ranking</h5>
-        </div>
-        <p>Use LLMs and human review to consolidate related questions and identify recurring themes.</p>
-      </div>
-    </div>
-  </section>
-  <section class="haiq-step">
-    <div class="haiq-step-inner">
-      <img class="haiq-step-image" src="{{ '/assets/images/haiq/step03_panel_discussion.webp' | relative_url }}" alt="A panel discussing top questions and future directions" loading="lazy" width="500" height="411">
-      <div class="haiq-step-body">
-        <div class="haiq-step-heading">
-          <span class="haiq-step-number">03</span>
-          <h5><strong>Explore:</strong> Question Discussion and Future Directions</h5>
-        </div>
-        <p>Vote on 30 candidate questions. The top 10 will be presented and discussed at the HAI-Q Panel.</p>
-      </div>
-    </div>
-  </section>
-</div>
-
-<hr>
-
-## Public Voting
-
-<div class="haiq-voting">
-  <div class="haiq-voting-copy">
-    <h4>What Questions Matter Most for the Future of AI?</h4>
-    <p>Review 30 candidate questions and select up to 10 that you consider most important and worth exploring.</p>
-    <p class="haiq-deadline"><strong>Voting Deadline: November 10, 2026</strong></p>
-    <p>Voting results will be used to rank the candidate questions. The top ten questions will be presented and discussed at the HAI-Q panel on November 12, 2026.</p>
-    <a class="haiq-vote-button" href="https://forms.gle/d6FXhrLuiSFn5gAC9" target="_blank" rel="noopener noreferrer">Vote Now</a>
-  </div>
-  <div class="haiq-voting-qr">
-    <a href="https://forms.gle/d6FXhrLuiSFn5gAC9" target="_blank" rel="noopener noreferrer" aria-label="Open the HAI-Q voting form">
-      <img class="haiq-qr" src="{{ '/assets/images/haiq/haiq-voting-qr-final.png' | relative_url }}" alt="QR code for the HAI-Q public voting form">
-    </a>
-    <strong class="haiq-scan-label">Scan to Vote</strong>
-  </div>
-</div>
-
-<hr>
-
-<div class="haiq-panel-overview">
-  <section class="haiq-panel-discussion">
-    <h2>Panel Discussion</h2>
-    <div class="haiq-panel-discussion-layout">
-      <figure class="haiq-visual haiq-discussion-visual">
-        <img src="{{ '/assets/images/haiq/haiq-future-panel-discussion.jpg' | relative_url }}" alt="Conceptual future AI research roundtable connected by a shared knowledge network" loading="lazy" width="1400" height="787">
-      </figure>
-      <div class="haiq-copy">
-        <p>The HAI-Q panel will present the top ten questions emerging from the public voting process and examine the methods and rationale behind their selection.</p>
-        <p>The discussion will reflect on the challenges of large-scale question collection and AI-assisted analysis, and explore the implications of the selected questions for future Hyper/Super AI research.</p>
-        <p class="haiq-discussion-meta"><strong>Date:</strong> November 12, 2026<br><strong>Time:</strong> 10:50 AM &ndash; 12:20 PM AEDT</p>
-      </div>
-    </div>
-  </section>
-  <div class="haiq-people-sections">
-    <section class="haiq-people-section">
-      <h2>Panel Chairs</h2>
-      <div class="haiq-people">
-        <p class="haiq-person"><strong>Jianhua Ma</strong>, Hosei University, Japan</p>
-        <p class="haiq-person"><strong>Qun Jin</strong>, Waseda University, Japan</p>
-      </div>
-    </section>
-    <section class="haiq-people-section">
-      <h2>Panelists</h2>
-      <div class="haiq-people">
-        <p class="haiq-person"><strong>Nicolas Tsapatsoulis</strong>, Cyprus University of Technology, Cyprus</p>
-        <p class="haiq-person"><strong>Hongji Yang</strong>, University of Leicester, United Kingdom</p>
-      </div>
-    </section>
-  </div>
-</div>
-
-<hr>
-
-<section class="haiq-info-strip">
-  <div>
-    <h2>Ethics and Contact</h2>
-    <p><strong>Ethics Approval:</strong><br><span class="haiq-ethics-line">This study was reviewed and approved by the Ethics Review Committee on Research with Human Subjects at Waseda University, Japan (Approval No. 2026-350).</span></p>
-  </div>
-  <div class="haiq-contact-grid">
-    <p><strong>Contact:</strong> <a href="mailto:haiq.init@gmail.com"><u>haiq.init@gmail.com</u></a></p>
-    <p><strong>Official HAI-Q Website:</strong> <a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer"><u>https://gai-hyperi.github.io/haiq/</u></a></p>
-  </div>
-</section>
-
-</div>
