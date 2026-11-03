@@ -73,6 +73,8 @@ permalink: /haiq-panel/
     .haiq-access-links a { font-size: 22px; }
   }
   @media (max-width: 767.98px) {
+    .haiq-page { display: block; min-height: 0; padding-top: 10px; }
+    .haiq-stage { width: 100%; height: auto; min-height: 0; margin-top: 0; }
     .haiq-meta { padding: 58px 1.4rem 2rem; }
     .haiq-access { align-items: flex-start; }
     .haiq-access-links a { font-size: 18px; }
@@ -81,11 +83,6 @@ permalink: /haiq-panel/
     .haiq-meta-label { font-size: 17px; }
     .haiq-person-name { font-size: 22px; }
     .haiq-person-affiliation { font-size: 18px; }
-  }
-  @media (max-width: 699.98px) {
-    .haiq-page { display: grid; min-height: calc(100svh - 1px); place-items: start center; }
-    .haiq-stage { width: 100%; margin-top: clamp(0px, 8vh, 72px); }
-    .haiq-meta { width: 100%; }
   }
 </style>
 
