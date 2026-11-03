@@ -19,7 +19,7 @@ permalink: /haiq-panel/
     width: min(100%, 2560px);
     margin: 0 auto;
     overflow: hidden;
-    aspect-ratio: 2560 / 1282;
+    aspect-ratio: 2 / 1;
     background: #0c3b68;
   }
   .haiq-stage-video {
