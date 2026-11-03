@@ -50,33 +50,33 @@ permalink: /haiq-panel/
   .haiq-access { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
   .haiq-access-copy { min-width: 0; }
   .haiq-access-links { display: flex; gap: 1.1rem; margin: 0; }
-  .haiq-access-links a { color: #70d9f5 !important; font-size: 17px; font-weight: 600; text-decoration: underline; text-underline-offset: .2em; }
+  .haiq-access-links a { color: #70d9f5 !important; font-size: 20px; font-weight: 600; text-decoration: underline; text-underline-offset: .2em; }
   .haiq-access-links a:hover, .haiq-access-links a:focus { color: #b8f3ff !important; }
   .haiq-qr-placeholder { display: grid; flex: 0 0 70px; width: 70px; height: 70px; place-items: center; border: 1px dashed rgba(112,217,245,.62); border-radius: .35rem; color: #8ebbd0; font-size: 11px; letter-spacing: .05em; text-align: center; text-transform: uppercase; }
-  .haiq-people { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem; margin-top: 1.6rem; }
+  .haiq-people { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(3rem, 7vw, 7rem); margin-top: 2rem; }
   .haiq-people-group { min-width: 0; }
-  .haiq-meta-label { display: block; margin-bottom: 15px; color: #70d9f5; font-size: 16px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
-  .haiq-meta-person { display: block; margin-top: 14px; line-height: 1.5; }
+  .haiq-meta-label { display: block; margin-bottom: 18px; color: #70d9f5; font-size: 19px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
+  .haiq-meta-person { display: block; margin-top: 18px; line-height: 1.5; }
   .haiq-meta-person:first-of-type { margin-top: 0; }
-  .haiq-person-name { color: #fff; font-size: 21px; font-weight: 600; }
-  .haiq-person-affiliation { color: #c1d7e9; font-size: 18px; font-weight: 400; }
+  .haiq-person-name { color: #fff; font-size: 25px; font-weight: 600; }
+  .haiq-person-affiliation { color: #c1d7e9; font-size: 21px; font-weight: 400; }
   @media (min-width: 1440px) {
     .haiq-meta { padding-top: 78px; padding-bottom: 38px; }
-    .haiq-meta-label { margin-bottom: 16px; font-size: 18px; font-weight: 600; }
-    .haiq-meta-person { margin-top: 15px; line-height: 1.5; }
-    .haiq-person-name { font-size: 24px; font-weight: 600; }
-    .haiq-person-affiliation { font-size: 20px; font-weight: 400; }
-    .haiq-access-links a { font-size: 18px; }
+    .haiq-meta-label { margin-bottom: 22px; font-size: 22px; font-weight: 600; }
+    .haiq-meta-person { margin-top: 20px; line-height: 1.5; }
+    .haiq-person-name { font-size: 30px; font-weight: 600; }
+    .haiq-person-affiliation { font-size: 24px; font-weight: 400; }
+    .haiq-access-links a { font-size: 22px; }
   }
   @media (max-width: 767.98px) {
     .haiq-meta { padding: 68px 1.4rem 2rem; }
     .haiq-access { align-items: flex-start; }
-    .haiq-access-links a { font-size: 17px; }
+    .haiq-access-links a { font-size: 18px; }
     .haiq-qr-placeholder { flex-basis: 60px; width: 60px; height: 60px; }
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; }
-    .haiq-meta-label { font-size: 15px; }
-    .haiq-person-name { font-size: 20px; }
-    .haiq-person-affiliation { font-size: 17px; }
+    .haiq-meta-label { font-size: 17px; }
+    .haiq-person-name { font-size: 22px; }
+    .haiq-person-affiliation { font-size: 18px; }
   }
   @media (max-width: 699.98px) {
     .haiq-page { display: grid; min-height: calc(100svh - 1px); place-items: start center; }
