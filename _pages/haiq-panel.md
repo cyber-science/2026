@@ -47,7 +47,14 @@ permalink: /haiq-panel/
     height: 100%;
     background: linear-gradient(180deg, rgba(9,40,74,0) 0, rgba(9,40,74,.9) 38px, #09284a 72px, #09284a 100%);
   }
-  .haiq-people { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem; }
+  .haiq-access { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
+  .haiq-access-copy { min-width: 0; }
+  .haiq-access-location { margin: 0; color: #fff; font-size: 20px; font-weight: 600; line-height: 1.4; }
+  .haiq-access-links { display: flex; gap: 1.1rem; margin: .45rem 0 0; }
+  .haiq-access-links a { color: #70d9f5 !important; font-size: 17px; font-weight: 600; text-decoration: underline; text-underline-offset: .2em; }
+  .haiq-access-links a:hover, .haiq-access-links a:focus { color: #b8f3ff !important; }
+  .haiq-qr-placeholder { display: grid; flex: 0 0 70px; width: 70px; height: 70px; place-items: center; border: 1px dashed rgba(112,217,245,.62); border-radius: .35rem; color: #8ebbd0; font-size: 11px; letter-spacing: .05em; text-align: center; text-transform: uppercase; }
+  .haiq-people { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem; margin-top: 1.6rem; }
   .haiq-people-group { min-width: 0; }
   .haiq-meta-label { display: block; margin-bottom: 15px; color: #70d9f5; font-size: 16px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
   .haiq-meta-person { display: block; margin-top: 14px; line-height: 1.5; }
@@ -60,9 +67,15 @@ permalink: /haiq-panel/
     .haiq-meta-person { margin-top: 15px; line-height: 1.5; }
     .haiq-person-name { font-size: 24px; font-weight: 600; }
     .haiq-person-affiliation { font-size: 20px; font-weight: 400; }
+    .haiq-access-location { font-size: 22px; }
+    .haiq-access-links a { font-size: 18px; }
   }
   @media (max-width: 767.98px) {
     .haiq-meta { padding: 68px 1.4rem 2rem; }
+    .haiq-access { align-items: flex-start; }
+    .haiq-access-location { font-size: 18px; }
+    .haiq-access-links a { font-size: 17px; }
+    .haiq-qr-placeholder { flex-basis: 60px; width: 60px; height: 60px; }
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; }
     .haiq-meta-label { font-size: 15px; }
     .haiq-person-name { font-size: 20px; }
@@ -77,11 +90,18 @@ permalink: /haiq-panel/
 
 <div class="haiq-page">
   <section class="haiq-stage" aria-label="HAI-Q Panel: Questions of a Thousand Questions for Future Hyper/Super AI, November 12, 2026, Melbourne, Australia">
-    <video class="haiq-stage-video" autoplay muted loop playsinline preload="metadata" poster="{{ '/assets/images/haiq/haiq-hero-full-poster.png' | relative_url }}">
+    <video class="haiq-stage-video" autoplay muted loop playsinline webkit-playsinline x5-playsinline x5-video-player-type="h5-page" x5-video-player-fullscreen="false" x-webkit-airplay="allow" preload="metadata" poster="{{ '/assets/images/haiq/haiq-hero-full-poster.png' | relative_url }}">
       <source src="{{ '/assets/videos/haiq/haiq-hero-full.mp4' | relative_url }}" type="video/mp4">
     </video>
   </section>
   <section class="haiq-meta" aria-label="HAI-Q panel chairs and panelists">
+    <div class="haiq-access">
+      <div class="haiq-access-copy">
+        <p class="haiq-access-location">RMIT University &middot; Building 80 &middot; Hybrid</p>
+        <p class="haiq-access-links"><a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer">Web</a><a href="https://list-waseda-jp.zoom.us/j/96196767132?pwd=9ekrS16hnNOUaucHpvQK6XQMwjr1cn.1" target="_blank" rel="noopener noreferrer">Zoom</a></p>
+      </div>
+      <div class="haiq-qr-placeholder" aria-label="Reserved position for a future QR code">QR<br>reserved</div>
+    </div>
     <div class="haiq-people">
       <div class="haiq-people-group">
         <span class="haiq-meta-label">Panel Chairs</span>
@@ -90,8 +110,8 @@ permalink: /haiq-panel/
       </div>
       <div class="haiq-people-group">
         <span class="haiq-meta-label">Panelists</span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, University of Leicester, United Kingdom</span></span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, Cyprus University of Tech., Cyprus</span></span>
+        <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, Univ. of Leicester, UK</span></span>
+        <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, CUT, Cyprus</span></span>
       </div>
     </div>
   </section>
@@ -103,6 +123,10 @@ permalink: /haiq-panel/
   if (!video) return;
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   let visible = true;
+
+  video.muted = true;
+  video.defaultMuted = true;
+  video.setAttribute('muted', '');
 
   const syncPlayback = () => {
     const paused = reducedMotion.matches || document.hidden || !visible;
@@ -116,6 +140,9 @@ permalink: /haiq-panel/
   }, { threshold: .05 }).observe(video);
   reducedMotion.addEventListener('change', syncPlayback);
   document.addEventListener('visibilitychange', syncPlayback);
+  document.addEventListener('WeixinJSBridgeReady', syncPlayback, false);
+  document.addEventListener('DOMContentLoaded', syncPlayback, { once: true });
+  document.addEventListener('touchstart', syncPlayback, { once: true, passive: true });
   syncPlayback();
 })();
 </script>
