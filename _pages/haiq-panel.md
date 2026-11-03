@@ -102,8 +102,8 @@ permalink: /haiq-panel/
       <div class="haiq-people-group">
         <span class="haiq-meta-label">Panel Chairs</span>
         <div class="haiq-person-list">
-          <span class="haiq-meta-person"><strong class="haiq-person-name">Jianhua Ma</strong><span class="haiq-person-affiliation">, Hosei University, Japan</span></span>
-          <span class="haiq-meta-person"><strong class="haiq-person-name">Qun Jin</strong><span class="haiq-person-affiliation">, Waseda University, Japan</span></span>
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Jianhua Ma</strong><span class="haiq-person-affiliation">, Hosei Univ., Japan</span></span>
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Qun Jin</strong><span class="haiq-person-affiliation">, Waseda Univ., Japan</span></span>
         </div>
       </div>
       <div class="haiq-people-group">
