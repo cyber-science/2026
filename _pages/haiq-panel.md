@@ -56,7 +56,6 @@ permalink: /haiq-panel/
   .haiq-people-group { min-width: 0; }
   .haiq-person-list { display: grid; min-width: 0; gap: 14px; }
   .haiq-panelists-list { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(1.5rem, 3vw, 3rem); }
-  .haiq-support { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(2.5rem, 5vw, 5rem); margin-top: 28px; }
   .haiq-meta-label { display: block; margin-bottom: 18px; color: #70d9f5; font-size: 19px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
   .haiq-meta-person { display: block; min-width: 0; line-height: 1.5; }
   .haiq-person-name { color: #fff; font-size: 23px; font-weight: 600; }
@@ -81,7 +80,6 @@ permalink: /haiq-panel/
     .haiq-access-links a { font-size: 18px; }
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; }
     .haiq-panelists-list { grid-template-columns: 1fr; }
-    .haiq-support { grid-template-columns: 1fr; gap: 1.25rem; margin-top: 1.25rem; }
     .haiq-meta-label { font-size: 17px; }
     .haiq-person-name { font-size: 22px; }
     .haiq-person-affiliation { font-size: 18px; }
@@ -94,7 +92,7 @@ permalink: /haiq-panel/
       <source src="{{ '/assets/videos/haiq/haiq-hero-full.mp4' | relative_url }}" type="video/mp4">
     </video>
   </section>
-  <section class="haiq-meta" aria-label="HAI-Q panel participants and organizers">
+  <section class="haiq-meta" aria-label="HAI-Q panel chairs and panelists">
     <div class="haiq-access">
       <div class="haiq-access-copy">
         <p class="haiq-access-links"><a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer">HAI-Q Website</a><a href="https://list-waseda-jp.zoom.us/j/96196767132?pwd=9ekrS16hnNOUaucHpvQK6XQMwjr1cn.1" target="_blank" rel="noopener noreferrer">Panel Zoom</a></p>
@@ -114,21 +112,6 @@ permalink: /haiq-panel/
           <span class="haiq-meta-person"><strong class="haiq-person-name">Stephen S. Yau</strong><span class="haiq-person-affiliation">, ASU, USA</span></span>
           <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, Univ. of Leicester, UK</span></span>
           <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, CUT, Cyprus</span></span>
-          <span class="haiq-meta-person"><strong class="haiq-person-name">Wanlei Zhou</strong><span class="haiq-person-affiliation">, CityU Macau, Macao, China</span></span>
-        </div>
-      </div>
-    </div>
-    <div class="haiq-support">
-      <div class="haiq-people-group">
-        <span class="haiq-meta-label">HAI-Q Advisory Board</span>
-        <div class="haiq-person-list">
-          <span class="haiq-meta-person"><strong class="haiq-person-name">Wanlei Zhou</strong><span class="haiq-person-affiliation">, City University of Macau, Macao</span></span>
-        </div>
-      </div>
-      <div class="haiq-people-group">
-        <span class="haiq-meta-label">Coordinators</span>
-        <div class="haiq-person-list">
-          <span class="haiq-meta-person"><strong class="haiq-person-name">Qi Xiangshu</strong><span class="haiq-person-affiliation">, Hosei University, Japan</span></span>
         </div>
       </div>
     </div>
