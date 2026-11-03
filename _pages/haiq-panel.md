@@ -112,6 +112,7 @@ permalink: /haiq-panel/
           <span class="haiq-meta-person"><strong class="haiq-person-name">Stephen S. Yau</strong><span class="haiq-person-affiliation">, ASU, USA</span></span>
           <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, Univ. of Leicester, UK</span></span>
           <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, CUT, Cyprus</span></span>
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Wanlei Zhou</strong><span class="haiq-person-affiliation">, CityU Macau, China</span></span>
         </div>
       </div>
     </div>
