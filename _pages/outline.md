@@ -111,7 +111,7 @@ permalink: /outline/
       <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">Online sessions run during lunch</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
-      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
+      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span><span class="note">CST-12 runs until 17:10</span></div>
     </div>
 
     <!-- DAY 3 -->
@@ -125,7 +125,7 @@ permalink: /outline/
       <div class="slot keynote"><span class="time">09:40 – 10:20</span><span class="what">Keynote</span><span class="note">DASC · Prof. Wanlei Zhou</span></div>
       <div class="slot"><span class="time">10:20 – 10:50</span><span class="what">Morning Tea</span></div>
       <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel R</span><span class="note">Research in the Age of LLMs</span></div>
-      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">An online session runs during lunch</span></div>
+      <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">An online session runs during lunch; DASC-07 starts at 13:00</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
       <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
@@ -146,7 +146,7 @@ permalink: /outline/
       <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">DASC-05 starts at 13:00</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
-      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span><span class="note">DASC-07 runs until 17:20</span></div>
+      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
       <div class="slot panel"><span class="time">15:30 – 17:00</span><span class="what">Panel E</span><span class="note">Education in the Age of LLMs</span></div>
     </div>
 
