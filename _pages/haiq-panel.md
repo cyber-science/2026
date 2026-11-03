@@ -49,8 +49,7 @@ permalink: /haiq-panel/
   }
   .haiq-access { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
   .haiq-access-copy { min-width: 0; }
-  .haiq-access-location { margin: 0; color: #fff; font-size: 20px; font-weight: 600; line-height: 1.4; }
-  .haiq-access-links { display: flex; gap: 1.1rem; margin: .45rem 0 0; }
+  .haiq-access-links { display: flex; gap: 1.1rem; margin: 0; }
   .haiq-access-links a { color: #70d9f5 !important; font-size: 17px; font-weight: 600; text-decoration: underline; text-underline-offset: .2em; }
   .haiq-access-links a:hover, .haiq-access-links a:focus { color: #b8f3ff !important; }
   .haiq-qr-placeholder { display: grid; flex: 0 0 70px; width: 70px; height: 70px; place-items: center; border: 1px dashed rgba(112,217,245,.62); border-radius: .35rem; color: #8ebbd0; font-size: 11px; letter-spacing: .05em; text-align: center; text-transform: uppercase; }
@@ -67,13 +66,11 @@ permalink: /haiq-panel/
     .haiq-meta-person { margin-top: 15px; line-height: 1.5; }
     .haiq-person-name { font-size: 24px; font-weight: 600; }
     .haiq-person-affiliation { font-size: 20px; font-weight: 400; }
-    .haiq-access-location { font-size: 22px; }
     .haiq-access-links a { font-size: 18px; }
   }
   @media (max-width: 767.98px) {
     .haiq-meta { padding: 68px 1.4rem 2rem; }
     .haiq-access { align-items: flex-start; }
-    .haiq-access-location { font-size: 18px; }
     .haiq-access-links a { font-size: 17px; }
     .haiq-qr-placeholder { flex-basis: 60px; width: 60px; height: 60px; }
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; }
@@ -97,7 +94,6 @@ permalink: /haiq-panel/
   <section class="haiq-meta" aria-label="HAI-Q panel chairs and panelists">
     <div class="haiq-access">
       <div class="haiq-access-copy">
-        <p class="haiq-access-location">RMIT University &middot; Building 80 &middot; Hybrid</p>
         <p class="haiq-access-links"><a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer">Web</a><a href="https://list-waseda-jp.zoom.us/j/96196767132?pwd=9ekrS16hnNOUaucHpvQK6XQMwjr1cn.1" target="_blank" rel="noopener noreferrer">Zoom</a></p>
       </div>
       <div class="haiq-qr-placeholder" aria-label="Reserved position for a future QR code">QR<br>reserved</div>
@@ -110,6 +106,7 @@ permalink: /haiq-panel/
       </div>
       <div class="haiq-people-group">
         <span class="haiq-meta-label">Panelists</span>
+        <span class="haiq-meta-person"><strong class="haiq-person-name">Stephen S. Yau</strong><span class="haiq-person-affiliation">, ASU, USA</span></span>
         <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, Univ. of Leicester, UK</span></span>
         <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, CUT, Cyprus</span></span>
       </div>
