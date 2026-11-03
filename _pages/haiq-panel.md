@@ -47,12 +47,11 @@ permalink: /haiq-panel/
     height: 100%;
     background: linear-gradient(180deg, rgba(9,40,74,0) 0, rgba(9,40,74,.9) 38px, #09284a 72px, #09284a 100%);
   }
-  .haiq-access { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
+  .haiq-access { display: flex; align-items: center; gap: 1.5rem; }
   .haiq-access-copy { min-width: 0; }
   .haiq-access-links { display: flex; gap: 1.1rem; margin: 0; }
   .haiq-access-links a { color: #70d9f5 !important; font-size: 20px; font-weight: 600; text-decoration: underline; text-underline-offset: .2em; }
   .haiq-access-links a:hover, .haiq-access-links a:focus { color: #b8f3ff !important; }
-  .haiq-qr-placeholder { display: grid; flex: 0 0 70px; width: 70px; height: 70px; place-items: center; border: 1px dashed rgba(112,217,245,.62); border-radius: .35rem; color: #8ebbd0; font-size: 11px; letter-spacing: .05em; text-align: center; text-transform: uppercase; }
   .haiq-people { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 7fr); gap: clamp(2.5rem, 5vw, 5rem); margin-top: 2rem; }
   .haiq-people-group { min-width: 0; }
   .haiq-person-list { display: grid; min-width: 0; gap: 14px; }
@@ -77,7 +76,6 @@ permalink: /haiq-panel/
     .haiq-meta { padding: 68px 1.4rem 2rem; }
     .haiq-access { align-items: flex-start; }
     .haiq-access-links a { font-size: 18px; }
-    .haiq-qr-placeholder { flex-basis: 60px; width: 60px; height: 60px; }
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; }
     .haiq-panelists-list { grid-template-columns: 1fr; }
     .haiq-meta-label { font-size: 17px; }
@@ -100,9 +98,8 @@ permalink: /haiq-panel/
   <section class="haiq-meta" aria-label="HAI-Q panel chairs and panelists">
     <div class="haiq-access">
       <div class="haiq-access-copy">
-        <p class="haiq-access-links"><a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer">Web</a><a href="https://list-waseda-jp.zoom.us/j/96196767132?pwd=9ekrS16hnNOUaucHpvQK6XQMwjr1cn.1" target="_blank" rel="noopener noreferrer">Zoom</a></p>
+        <p class="haiq-access-links"><a href="https://gai-hyperi.github.io/haiq/" target="_blank" rel="noopener noreferrer">HAI-Q Website</a><a href="https://list-waseda-jp.zoom.us/j/96196767132?pwd=9ekrS16hnNOUaucHpvQK6XQMwjr1cn.1" target="_blank" rel="noopener noreferrer">Panel Zoom</a></p>
       </div>
-      <div class="haiq-qr-placeholder" aria-label="Reserved position for a future QR code">QR<br>reserved</div>
     </div>
     <div class="haiq-people">
       <div class="haiq-people-group">
