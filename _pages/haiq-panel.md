@@ -53,19 +53,24 @@ permalink: /haiq-panel/
   .haiq-access-links a { color: #70d9f5 !important; font-size: 20px; font-weight: 600; text-decoration: underline; text-underline-offset: .2em; }
   .haiq-access-links a:hover, .haiq-access-links a:focus { color: #b8f3ff !important; }
   .haiq-qr-placeholder { display: grid; flex: 0 0 70px; width: 70px; height: 70px; place-items: center; border: 1px dashed rgba(112,217,245,.62); border-radius: .35rem; color: #8ebbd0; font-size: 11px; letter-spacing: .05em; text-align: center; text-transform: uppercase; }
-  .haiq-people { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(3rem, 7vw, 7rem); margin-top: 2rem; }
+  .haiq-people { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 7fr); gap: clamp(2.5rem, 5vw, 5rem); margin-top: 2rem; }
   .haiq-people-group { min-width: 0; }
+  .haiq-person-list { display: grid; min-width: 0; gap: 14px; }
+  .haiq-panelists-list { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(1.5rem, 3vw, 3rem); }
   .haiq-meta-label { display: block; margin-bottom: 18px; color: #70d9f5; font-size: 19px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
-  .haiq-meta-person { display: block; margin-top: 18px; line-height: 1.5; }
-  .haiq-meta-person:first-of-type { margin-top: 0; }
-  .haiq-person-name { color: #fff; font-size: 25px; font-weight: 600; }
-  .haiq-person-affiliation { color: #c1d7e9; font-size: 21px; font-weight: 400; }
+  .haiq-meta-person { display: block; min-width: 0; line-height: 1.5; }
+  .haiq-person-name { color: #fff; font-size: 23px; font-weight: 600; }
+  .haiq-person-affiliation { color: #c1d7e9; font-size: 18px; font-weight: 400; }
+  @media (min-width: 1200px) {
+    .haiq-meta-person { white-space: nowrap; }
+  }
   @media (min-width: 1440px) {
     .haiq-meta { padding-top: 78px; padding-bottom: 38px; }
     .haiq-meta-label { margin-bottom: 22px; font-size: 22px; font-weight: 600; }
-    .haiq-meta-person { margin-top: 20px; line-height: 1.5; }
-    .haiq-person-name { font-size: 30px; font-weight: 600; }
-    .haiq-person-affiliation { font-size: 24px; font-weight: 400; }
+    .haiq-person-list { gap: 16px; }
+    .haiq-meta-person { line-height: 1.5; }
+    .haiq-person-name { font-size: 24px; font-weight: 600; }
+    .haiq-person-affiliation { font-size: 19px; font-weight: 400; }
     .haiq-access-links a { font-size: 22px; }
   }
   @media (max-width: 767.98px) {
@@ -74,6 +79,7 @@ permalink: /haiq-panel/
     .haiq-access-links a { font-size: 18px; }
     .haiq-qr-placeholder { flex-basis: 60px; width: 60px; height: 60px; }
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; }
+    .haiq-panelists-list { grid-template-columns: 1fr; }
     .haiq-meta-label { font-size: 17px; }
     .haiq-person-name { font-size: 22px; }
     .haiq-person-affiliation { font-size: 18px; }
@@ -101,14 +107,18 @@ permalink: /haiq-panel/
     <div class="haiq-people">
       <div class="haiq-people-group">
         <span class="haiq-meta-label">Panel Chairs</span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Jianhua Ma</strong><span class="haiq-person-affiliation">, Hosei University, Japan</span></span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Qun Jin</strong><span class="haiq-person-affiliation">, Waseda University, Japan</span></span>
+        <div class="haiq-person-list">
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Jianhua Ma</strong><span class="haiq-person-affiliation">, Hosei University, Japan</span></span>
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Qun Jin</strong><span class="haiq-person-affiliation">, Waseda University, Japan</span></span>
+        </div>
       </div>
       <div class="haiq-people-group">
         <span class="haiq-meta-label">Panelists</span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Stephen S. Yau</strong><span class="haiq-person-affiliation">, ASU, USA</span></span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, Univ. of Leicester, UK</span></span>
-        <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, CUT, Cyprus</span></span>
+        <div class="haiq-person-list haiq-panelists-list">
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Stephen S. Yau</strong><span class="haiq-person-affiliation">, ASU, USA</span></span>
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Hongji Yang</strong><span class="haiq-person-affiliation">, Univ. of Leicester, UK</span></span>
+          <span class="haiq-meta-person"><strong class="haiq-person-name">Nicolas Tsapatsoulis</strong><span class="haiq-person-affiliation">, CUT, Cyprus</span></span>
+        </div>
       </div>
     </div>
   </section>
