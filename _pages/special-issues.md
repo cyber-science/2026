@@ -19,7 +19,11 @@ Guest Editors:
 <br/>
 Prof. Ke Yan　- Hunan University, Changsha (China), Dr. Vincent Gan -National University of Singapore, Singapore City (Singapore), Prof. Amy Trappey,National Tsing Hua University, Hsinchu　(Taiwan), Prof. Fu Xiao - The Hong Kong Polytechnic University, Hong Kong (Hong Kong)
 </li>
-<li>Selected papers will be recommended for submission of an extended version to <a href="https://www.emeraldgrouppublishing.com/journal/ijpcc" target=_new><b><u>the International Journal of Pervasive Computing and Communications (IJPCC)</u></b></a>, published by Emerald and Wiley, with fast-track processing. IJPCC also welcomes proposals for special issues on topics related to the four conferences.
+<li>Special Issue on <a href="https://www.emerald.com/ijpcc/" target=_new><b><u>Advances in Trustworthy AI for Pervasive Systems</u></b></a> in <i>International Journal of Pervasive Computing and Communications</i>, published by Emerald and Wiley
+<br/>
+Guest Editors:
+<br/>
+A/Prof. Chao Chen - RMIT University, Melbourne (Australia), Dr. Wanlun Ma - Swinburne University of Technology, Melbourne (Australia), Dr. Fuyi Wang - RMIT University, Melbourne (Australia)
 </li>
 
 
