@@ -44,7 +44,7 @@ Participants will need to bring their own laptop, with at least 30 GB free disk 
 <hr/>
 
 <h4>Full-Duplex Spoken Dialogue for Embodied AI: Applications in Virtual Avatars and Humanoid Robot Simulation</h4>
-<h5>Tutorial Time: Monday 9 November, 13:30–15:00 AEDT (90 minutes; hybrid: on-site and online) · Room 080.10.016</h5>
+<h5>Tutorial Time: Monday 9 November, 13:30–15:00 AEDT (90 minutes; online) · Room 080.10.016</h5>
 <img src="{{ '/assets/images/tutorial_speaker/ao_guo.jpg' | relative_url }}" alt="Dr Ao Guo" class="tutorial-speaker-photo" align="left" style="border:10px solid white" width="200">
 <h5><b>Dr Ao Guo</b></h5>
 <h6>
