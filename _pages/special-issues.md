@@ -63,6 +63,27 @@ Selected conference articles will be invited to be submitted to the following Sp
 </div>
 </div>
 
+<div class="card shadow-sm mb-4 si-card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-auto text-center mb-3 mb-sm-0">
+<a href="https://www.mdpi.com/journal/symmetry/special_issues/O7773FFX4N" target=_new><img src="{{ '/assets/images/journals/symmetry_cover.jpg' | relative_url }}" alt="Cover of Symmetry" class="si-cover"></a>
+</div>
+<div class="col-sm">
+<span class="badge badge-primary mb-2">Special Issue</span>
+<h5 class="mb-1"><a href="https://www.mdpi.com/journal/symmetry/special_issues/O7773FFX4N" target=_new>Applications Based on Symmetry in Adversarial Machine Learning</a></h5>
+<p class="mb-2"><i>Symmetry</i><br/><span class="text-muted">Published by MDPI</span></p>
+<h6 class="mb-1">Guest Editors</h6>
+<ul class="mb-0 si-editors">
+<li>Dr. Wanlun Ma – Swinburne University of Technology, Melbourne (Australia)</li>
+<li>Dr. Yiliao Song – University of Adelaide, Adelaide (Australia)</li>
+<li>Dr. Xiao Chen – University of Newcastle, Newcastle (Australia)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
 
 <!-- 
 <li>Special Section on <a href="https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/April_2025/TCE_SS_CFP_Security-Aware_Distributed_and_Collaborative_Learning_for_Resource-Limited_Consumer_Electronics_-_V1_online.pdf" target=_new><b><u>Security-Aware Distributed and Collaborative Learning for Resource-Limited Consumer Electronics</u></b></a> in <i>IEEE Transactions on Consumer Electronics</i>
