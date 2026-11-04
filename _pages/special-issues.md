@@ -10,21 +10,58 @@ permalink: /special-issues/
 <p>
 Selected conference articles will be invited to be submitted to the following Special Issues and Recommend Journals for extended versions of the accepted conference papers within the scope of the Research.
 </p>
-<ol>
+<style>
+  .si-card .si-cover {
+    width: 140px;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.1);
+  }
+  .si-card h5 a { font-weight: 600; }
+  .si-card .si-editors { padding-left: 1.2rem; }
+</style>
 
+<div class="card shadow-sm mb-4 si-card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-auto text-center mb-3 mb-sm-0">
+<a href="https://www.sciencedirect.com/special-issue/327343/application-of-large-language-models-in-energy-engineering-and-informatics" target=_new><img src="{{ '/assets/images/journals/aei_cover.jpg' | relative_url }}" alt="Cover of Advanced Engineering Informatics" class="si-cover"></a>
+</div>
+<div class="col-sm">
+<span class="badge badge-primary mb-2">Special Section</span>
+<h5 class="mb-1"><a href="https://www.sciencedirect.com/special-issue/327343/application-of-large-language-models-in-energy-engineering-and-informatics" target=_new>Application of Large Language Models in Energy Engineering and Informatics</a></h5>
+<p class="mb-2"><i>Advanced Engineering Informatics</i><br/><span class="text-muted">Published by Elsevier</span></p>
+<h6 class="mb-1">Guest Editors</h6>
+<ul class="mb-0 si-editors">
+<li>Prof. Ke Yan – Hunan University, Changsha (China)</li>
+<li>Dr. Vincent Gan – National University of Singapore, Singapore City (Singapore)</li>
+<li>Prof. Amy Trappey – National Tsing Hua University, Hsinchu (Taiwan)</li>
+<li>Prof. Fu Xiao – The Hong Kong Polytechnic University, Hong Kong (Hong Kong)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 
-<li>Special Section on <a href="https://www.sciencedirect.com/special-issue/327343/application-of-large-language-models-in-energy-engineering-and-informatics" target=_new><b><u>Application of Large Language Models in Energy Engineering and Informatics</u></b></a> in <i>Advanced Engineering Informatics</i>
-<br/>
-Guest Editors:
-<br/>
-Prof. Ke Yan　- Hunan University, Changsha (China), Dr. Vincent Gan -National University of Singapore, Singapore City (Singapore), Prof. Amy Trappey,National Tsing Hua University, Hsinchu　(Taiwan), Prof. Fu Xiao - The Hong Kong Polytechnic University, Hong Kong (Hong Kong)
-</li>
-<li>Special Issue on <a href="https://www.emerald.com/ijpcc/" target=_new><b><u>Advances in Trustworthy AI for Pervasive Systems</u></b></a> in <i>International Journal of Pervasive Computing and Communications</i>, published by Emerald and Wiley
-<br/>
-Guest Editors:
-<br/>
-A/Prof. Chao Chen - RMIT University, Melbourne (Australia), Dr. Wanlun Ma - Swinburne University of Technology, Melbourne (Australia), Dr. Fuyi Wang - RMIT University, Melbourne (Australia)
-</li>
+<div class="card shadow-sm mb-4 si-card">
+<div class="card-body">
+<div class="row">
+<div class="col-sm-auto text-center mb-3 mb-sm-0">
+<a href="https://www.emerald.com/ijpcc/" target=_new><img src="{{ '/assets/images/journals/ijpcc_cover.jpg' | relative_url }}" alt="Cover of International Journal of Pervasive Computing and Communications" class="si-cover"></a>
+</div>
+<div class="col-sm">
+<span class="badge badge-primary mb-2">Special Issue</span>
+<h5 class="mb-1"><a href="https://www.emerald.com/ijpcc/" target=_new>Advances in Trustworthy AI for Pervasive Systems</a></h5>
+<p class="mb-2"><i>International Journal of Pervasive Computing and Communications</i><br/><span class="text-muted">Published by Emerald and Wiley</span></p>
+<h6 class="mb-1">Guest Editors</h6>
+<ul class="mb-0 si-editors">
+<li>A/Prof. Chao Chen – RMIT University, Melbourne (Australia)</li>
+<li>Dr. Wanlun Ma – Swinburne University of Technology, Melbourne (Australia)</li>
+<li>Dr. Fuyi Wang – RMIT University, Melbourne (Australia)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 
 
 <!-- 
