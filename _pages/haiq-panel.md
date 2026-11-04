@@ -58,7 +58,7 @@ permalink: /haiq-panel/
   .haiq-panelists-list { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(1.5rem, 3vw, 3rem); }
   .haiq-meta-label { display: block; margin-bottom: 18px; color: #70d9f5; font-size: 19px; font-weight: 600; line-height: 1.25; letter-spacing: .07em; text-transform: uppercase; }
   .haiq-meta-person { display: block; min-width: 0; line-height: 1.5; }
-  .haiq-person-name { color: #fff; font-size: 23px; font-weight: 600; }
+  .haiq-person-name { color: #fff; font-size: 21px; font-weight: 600; }
   .haiq-person-affiliation { color: #c1d7e9; font-size: 18px; font-weight: 400; }
   @media (min-width: 1200px) {
     .haiq-meta-person { white-space: nowrap; }
@@ -68,7 +68,7 @@ permalink: /haiq-panel/
     .haiq-meta-label { margin-bottom: 22px; font-size: 22px; font-weight: 600; }
     .haiq-person-list { gap: 16px; }
     .haiq-meta-person { line-height: 1.5; }
-    .haiq-person-name { font-size: 24px; font-weight: 600; }
+    .haiq-person-name { font-size: 22px; font-weight: 600; }
     .haiq-person-affiliation { font-size: 19px; font-weight: 400; }
     .haiq-access-links a { font-size: 22px; }
   }
@@ -81,7 +81,7 @@ permalink: /haiq-panel/
     .haiq-people { grid-template-columns: 1fr; gap: 1.25rem; }
     .haiq-panelists-list { grid-template-columns: 1fr; }
     .haiq-meta-label { font-size: 17px; }
-    .haiq-person-name { font-size: 22px; }
+    .haiq-person-name { font-size: 20px; }
     .haiq-person-affiliation { font-size: 18px; }
   }
 </style>
