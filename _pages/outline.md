@@ -94,7 +94,7 @@ permalink: /outline/
       <div class="slot workshop"><span class="time">13:30 – 15:00</span><span class="what">Tutorial 2</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
       <div class="slot workshop"><span class="time">15:30 – 17:00</span><span class="what">Tutorial 3</span></div>
-      <div class="slot social"><span class="time">18:00 – 20:00</span><span class="what">Welcome Reception</span><span class="note">Level 7 Function Area, Building 80</span></div>
+      <div class="slot social"><span class="time">18:00 – 20:00</span><span class="what">Welcome Reception</span><span class="note">080.07.005, Level 7 balcony, Building 80</span></div>
     </div>
 
     <!-- DAY 2 -->
