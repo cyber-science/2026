@@ -111,7 +111,7 @@ permalink: /outline/
       <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">Online sessions run during lunch</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
       <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span><span class="note">CST-11 ends at 15:10</span></div>
-      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span><span class="note">CST-12 runs until 17:05</span></div>
+      <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
     </div>
 
     <!-- DAY 3 -->
@@ -127,9 +127,9 @@ permalink: /outline/
       <div class="slot panel"><span class="time">10:50 – 12:20</span><span class="what">Panel R</span><span class="note">Research in the Age of LLMs</span></div>
       <div class="slot"><span class="time">12:30 – 13:30</span><span class="what">Lunch</span><span class="note">An online session runs during lunch; DASC-07 starts at 13:00</span></div>
       <div class="slot session"><span class="time">13:30 – 15:00</span><span class="what">Parallel Session</span></div>
-      <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span></div>
+      <div class="slot"><span class="time">15:00 – 15:30</span><span class="what">Afternoon Tea</span><span class="note">CST-14 ends at 15:20</span></div>
       <div class="slot session"><span class="time">15:30 – 17:00</span><span class="what">Parallel Session</span></div>
-      <div class="slot social"><span class="time">18:30 – 21:30</span><span class="what">Conference Banquet &amp; Awards</span><span class="note">Eureka Skydeck, Melbourne</span></div>
+      <div class="slot social"><span class="time">18:30 – 21:30</span><span class="what">Conference Banquet &amp; Awards</span><span class="note">Eureka 89, Eureka Tower, Southbank</span></div>
     </div>
 
     <!-- DAY 4 -->
