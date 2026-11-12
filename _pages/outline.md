@@ -162,7 +162,6 @@ permalink: /outline/
       <div class="slot workshop"><span class="time">10:40 – 11:40</span><span class="what">Birds-of-a-Feather (BoF)</span><span class="note">Open to all four conferences</span></div>
       <div class="slot ceremony"><span class="time">11:40 – 12:00</span><span class="what">Closing</span></div>
       <div class="slot"><span class="time">12:00 – 13:30</span><span class="what">Lunch</span></div>
-      <div class="slot social"><span class="time">13:30 – 15:30</span><span class="what">Visit RMIT AIDA Hub and Campus Tour</span></div>
       <div class="slot"><span class="time">15:30 – 16:00</span><span class="what">Afternoon Tea</span></div>
       <div class="slot ceremony"><span class="time">16:00 – 17:00</span><span class="what">Committee Meeting</span></div>
     </div>
